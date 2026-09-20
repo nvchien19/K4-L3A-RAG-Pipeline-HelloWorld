@@ -253,3 +253,63 @@ def test_generation_result_validator_accepts_safe_refusal():
             "retrieval_source": "none",
         }
     )
+
+
+@pytest.mark.parametrize("retrieval_method", ["hybrid", "pageindex"])
+def test_generate_with_citation_returns_answer_sources_and_retrieval_source(
+    monkeypatch, retrieval_method
+):
+    import src.task10_generation as generation
+
+    source = result("chunk-0", 0.03, retrieval_method)
+    monkeypatch.setattr(generation, "retrieve", lambda query, top_k: [source])
+    monkeypatch.setattr(
+        generation,
+        "call_llm",
+        lambda system_prompt, user_message: "Tuition is paid per semester. [Document 1]",
+    )
+
+    output = generation.generate_with_citation("How is tuition paid?", top_k=1)
+
+    assert output == {
+        "answer": "Tuition is paid per semester. [Document 1]",
+        "sources": [source],
+        "retrieval_source": retrieval_method,
+    }
+    validate_generation_result(output)
+
+
+def test_generate_with_citation_refuses_when_provider_fails(monkeypatch):
+    import src.task10_generation as generation
+
+    monkeypatch.setattr(
+        generation,
+        "retrieve",
+        lambda query, top_k: [result("chunk-0", 0.9, "hybrid")],
+    )
+
+    def unavailable(system_prompt, user_message):
+        raise RuntimeError("provider unavailable")
+
+    monkeypatch.setattr(generation, "call_llm", unavailable)
+    output = generation.generate_with_citation("How is tuition paid?", top_k=1)
+
+    assert output["sources"] == []
+    assert output["retrieval_source"] == "none"
+    assert "không thể xác minh" in output["answer"]
+    validate_generation_result(output)
+
+
+def test_generate_with_citation_refuses_when_retrieval_fails(monkeypatch):
+    import src.task10_generation as generation
+
+    def broken_retrieve(query, top_k):
+        raise RuntimeError("retrieval unavailable")
+
+    monkeypatch.setattr(generation, "retrieve", broken_retrieve)
+    output = generation.generate_with_citation("How is tuition paid?", top_k=1)
+
+    assert output["sources"] == []
+    assert output["retrieval_source"] == "none"
+    assert "không thể xác minh" in output["answer"]
+    validate_generation_result(output)
