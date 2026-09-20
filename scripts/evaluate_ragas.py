@@ -104,7 +104,7 @@ def main() -> None:
     parser.add_argument("--top-k", type=int, default=5)
     args = parser.parse_args()
 
-    load_dotenv(override=True)
+    load_dotenv()
 
     try:
         from ragas.metrics import (

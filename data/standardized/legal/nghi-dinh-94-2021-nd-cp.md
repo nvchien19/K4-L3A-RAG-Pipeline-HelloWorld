@@ -1,35 +1,3 @@
-NĐ 168/2017 về Du lịch - Công ty Luật DAZPRO - Tư vấn pháp lý doanh nghiệp tại Việt Nam
-
-Trang chủ / PL Du lịch / (Mục lục) NĐ 168/2017 về Du lịch
-
-(Mục lục) NĐ 168/2017 về Du lịch
-
-Mục lục . Content
-
-1. NĐ 168/2017/NĐ-CP về Du lịch,2. NĐ 94/2021/NĐ-CP (Sửa NĐ 168/2017/NĐ-CP).—1. NĐ 168/2017/NĐ-CP về Du lịchChương I. NHỮNG QUY ĐỊNH CHUNGĐiều 1. Phạm vi điều chỉnhĐiều 2. Đối tượng áp dụngChương II. ĐIỀU TRA, ĐÁNH GIÁ, PHÂN LOẠI TÀI NGUYÊN DU LỊCHĐiều 3. Điều tra tài nguyên du lịchĐiều 4. Nội dung cơ bản trong điều tra tài nguyên du lịchĐiều 5. Đánh giá, phân loại tài nguyên du lịchĐiều 6. Trách nhiệm của các bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnhĐiều 7. Kinh phí điều tra, đánh giá, phân loại tài nguyên du lịchChương III. BIỆN PHÁP BẢO ĐẢM AN TOÀN CHO KHÁCH DU LỊCH ĐỐI VỚI NHỮNG SẢN PHẨM DU LỊCH CÓ NGUY CƠ ẢNH HƯỞNG ĐẾN TÍNH MẠNG, SỨC KHỎE CỦA KHÁCH DU LỊCHĐiều 8. Sản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịchĐiều 9. Biện pháp bảo đảm an toàn khi kinh doanh các sản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịchĐiều 10. Trách nhiệm của cơ quan, tổ chức, cá nhânChương IV. ĐIỀU KIỆN CÔNG NHẬN ĐIỂM DU LỊCH, KHU DU LỊCHĐiều 11. Điều kiện công nhận điểm du lịchĐiều 12. Điều kiện công nhận khu du lịch cấp tỉnhĐiều 13. Điều kiện công nhận khu du lịch quốc giaChương V. KINH DOANH DU LỊCHMục 1. KÝ QUỸ KINH DOANH DỊCH VỤ LỮ HÀNHĐiều 14. Mức ký quỹ và phương thức ký quỹĐiều 15. Nộp tiền ký quỹ và cấp Giấy chứng nhận tiền ký quỹĐiều 16. Quản lý, sử dụng tiền ký quỹMục 2. CẤP, CẤP ĐỔI, CẤP LẠI, THU HỒI BIỂN HIỆU PHƯƠNG TIỆN VẬN TẢI KHÁCH DU LỊCHĐiều 17. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp biển hiệu phương tiện vận tải khách du lịchĐiều 18. Cấp đổi biển hiệuĐiều 19. Cấp lại biển hiệuĐiều 20. Thu hồi biển hiệuMục 3. ĐIỀU KIỆN TỐI THIỂU VỀ CƠ SỞ VẬT CHẤT KỸ THUẬT VÀ DỊCH VỤ CỦA CƠ SỞ LƯU TRÚ DU LỊCHĐiều 21. Các loại hình cơ sở lưu trú du lịchĐiều 22. Điều kiện tối thiểu về cơ sở vật chất kỹ thuật, dịch vụ đối với khách sạnĐiều 23. Điều kiện tối thiểu về cơ sở vật chất kỹ thuật, dịch vụ đối với biệt thự du lịchĐiều 24. Điều kiện tối thiểu về cơ sở vật chất kỹ thuật, dịch vụ đối với căn hộ du lịchĐiều 25. Điều kiện tối thiểu về cơ sở vật chất kỹ thuật, dịch vụ đối với tàu thủy lưu trú du lịchĐiều 26. Điều kiện tối thiểu về cơ sở vật chất kỹ thuật, dịch vụ đối với nhà nghỉ du lịchĐiều 27. Điều kiện tối thiểu về cơ sở vật chất kỹ thuật, dịch vụ đối với nhà ở có phòng cho khách du lịch thuêĐiều 28. Điều kiện tối thiểu về cơ sở vật chất kỹ thuật, dịch vụ đối với bãi cắm trại du lịchĐiều 29. Kiểm tra, giám sát điều kiện tối thiểu về cơ sở vật chất kỹ thuật và dịch vụ của cơ sở lưu trú du lịchChương VI. QUỸ HỖ TRỢ PHÁT TRIỂN DU LỊCHĐiều 30. Nguồn hình thành Quỹ hỗ trợ phát triển du lịchChương VII. ĐIỀU KHOẢN THI HÀNHĐiều 31. Hiệu lực thi hànhĐiều 32. Điều khoản chuyển tiếpĐiều 33. Trách nhiệm thi hànhKÈM THEO VĂN BẢN—2. NĐ 94/2021/NĐ-CP (Sửa NĐ 168/2017/NĐ-CP)Điều 1. Sửa đổi, bổ sung Điều 14 của Nghị định số 168/2017/NĐ-CP ngày 31 tháng 12 năm 2017 của Chính phủ quy định chi tiết một số điều của Luật Du lịch về mức ký quỹ kinh doanh dịch vụ lữ hànhĐiều 2. Tổ chức thực hiệnĐiều 3. Điều khoản thi hành
-
-1. NĐ 168/2017/NĐ-CP về Du lịch,
-
-2. NĐ 94/2021/NĐ-CP (Sửa NĐ 168/2017/NĐ-CP).
-
-—
-
-1. NĐ 168/2017/NĐ-CP về Du lịch
-
-NGHỊ ĐỊNH 168/2017/NĐ-CP
-
-ngày 31 tháng 12 năm 2017
-
-QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT DU LỊCH
-
-Căn cứ Luật tổ chức Chính phủ ngày 19 tháng 6 năm 2015;
-
-Căn cứ Luật Du lịch ngày 19 tháng 6 năm 2017;
-
-Theo đề nghị của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch;
-
-Chính phủ ban hành Nghị định quy định chi tiết một số điều của Luật Du lịch.
-
 Chương I. NHỮNG QUY ĐỊNH CHUNG
 
 Điều 1. Phạm vi điều chỉnh

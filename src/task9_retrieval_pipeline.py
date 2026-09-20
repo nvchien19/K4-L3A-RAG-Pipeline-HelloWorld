@@ -6,7 +6,8 @@ Luồng xử lý:
     2. Fuse hai danh sách bằng RRF đúng một lần.
     3. Lấy best cosine score gốc từ dense results.
     4. Nếu score dưới threshold, thử PageIndex fallback.
-    5. Nếu fallback lỗi, trả hybrid results thay vì crash.
+    5. Nếu fallback không dùng được, vẫn trả hybrid nhưng gắn cờ
+       ``low_confidence=True`` để Task 10 từ chối an toàn thay vì im lặng.
 
 Không so sánh threshold với RRF score vì hai thang đo khác nhau: cosine
 similarity nằm trong [0, 1] và phản ánh độ gần ngữ nghĩa, còn RRF score chỉ
@@ -23,7 +24,7 @@ from .task7_reranking import rerank_rrf
 from .task8_pageindex_vectorless import pageindex_search
 
 
-load_dotenv(override=True)
+load_dotenv()
 
 
 def _threshold_from_env(default: float = 0.3) -> float:
@@ -81,19 +82,33 @@ def retrieve(
         # là default của rerank_rrf.
         hybrid = rerank_rrf([dense, sparse], top_k=top_k)
     else:
-        hybrid = dense[:top_k]
+        # Dense-only vẫn là output của pipeline hybrid, nên phải gắn nhãn
+        # "hybrid": contract GenerationResult chỉ nhận hybrid|pageindex|none,
+        # để nguyên "dense" sẽ khiến Task 10 hiểu nhầm là không có nguồn và
+        # trả safe refusal cho mọi câu hỏi (làm hỏng config A của A/B test).
+        hybrid = [dict(item, retrieval_method="hybrid") for item in dense[:top_k]]
 
     # Quyết định fallback dựa trên cosine score GỐC của dense, không phải RRF.
     best_dense_score = dense[0]["score"] if dense else 0.0
-    if best_dense_score < score_threshold:
-        try:
-            fallback = pageindex_search(query, top_k=top_k)
-            if fallback:
-                return _normalize(fallback)
-        except Exception:  # noqa: BLE001 - provider ngoài lỗi không được crash UI
-            pass
+    if best_dense_score >= score_threshold:
+        return hybrid[:top_k]
 
-    return hybrid[:top_k]
+    # Dense dưới ngưỡng: query nhiều khả năng ngoài domain. Thử PageIndex trước.
+    try:
+        fallback = pageindex_search(query, top_k=top_k)
+        if fallback:
+            return _normalize(fallback)
+    except Exception:  # noqa: BLE001 - provider ngoài lỗi không được crash UI
+        pass
+
+    # PageIndex không dùng được (thiếu key/lỗi mạng/không có kết quả) nhưng tín
+    # hiệu "dưới ngưỡng" vẫn phải được giữ lại. Trước đây nhánh này lặng lẽ trả
+    # hybrid, khiến SCORE_THRESHOLD đã hiệu chỉnh trở nên vô tác dụng và
+    # retrieval_source không bao giờ là "none" trong thực tế.
+    #
+    # Không đổi retrieval_method vì contract chỉ cho phép dense|bm25|hybrid|
+    # pageindex; thay vào đó gắn cờ phụ low_confidence để Task 10 tự quyết định.
+    return [dict(item, low_confidence=True) for item in hybrid[:top_k]]
 
 
 if __name__ == "__main__":

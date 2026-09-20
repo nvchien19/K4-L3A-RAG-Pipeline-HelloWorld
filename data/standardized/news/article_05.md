@@ -6,314 +6,96 @@
 
 ---
 
-Ngành du lịch hoàn thành gần 50% mục tiêu đón khách quốc tế trong năm 2026
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Ngành du lịch hoàn thành gần 50% mục tiêu đón khách quốc tế trong năm 2026
+
 Hải Dương
 
-
 Hải Phòng
 
-
 Hậu Giang
 
-
 Khánh Hòa
 
-
 Kiên Giang
 
-
 Kon Tum
 
-
 Lai Châu
 
-
 Long An
 
-
 Lào Cai
 
-
 Lâm Đồng
 
-
 Lạng Sơn
 
-
 Nam Định
 
-
 Nghệ An
 
-
 Ninh Bình
 
-
 Ninh Thuận
 
-
 Phú Thọ
 
-
 Phú Yên
 
-
 Quảng Bình
 
-
 Quảng Nam
 
-
 Quảng Ngãi
 
-
 Quảng Ninh
 
-
 Quảng Trị
 
-
 Sóc Trăng
 
-
 Sơn La
 
-
 Thanh Hóa
 
-
 Thái Bình
 
-
 Thái Nguyên
 
-
 Thừa Thiên Huế
 
-
 Tiền Giang
 
-
 Trà Vinh
 
-
 Tuyên Quang
 
-
 Tây Ninh
 
-
 Vĩnh Long
 
-
 Vĩnh Phúc
 
-
 Vũng Tàu
 
-
 Yên Bái
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-0
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-aA
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Du lịch
+0
 
-
-
-
-
+aA
+
+Du lịch
 
 # Ngành du lịch hoàn thành gần 50% mục tiêu đón khách quốc tế trong năm 2026
 
-
+# 
 
-# 
-(Chinhphu.vn) - Số liệu mới nhất của Cục Thống kê (Bộ Tài chính) cho thấy, sáu tháng đầu năm 2026, khách quốc tế đến Việt Nam đạt 12,3 triệu lượt người, tăng 14,9% so với cùng kỳ năm trước. Như vậy ngành du lịch đã hoàn thành gần 50% mục tiêu đón 25 triệu lượt khách quốc tế trong năm 2026.
+(Chinhphu.vn) - Số liệu mới nhất của Cục Thống kê (Bộ Tài chính) cho thấy, sáu tháng đầu năm 2026, khách quốc tế đến Việt Nam đạt 12,3 triệu lượt người, tăng 14,9% so với cùng kỳ năm trước. Như vậy ngành du lịch đã hoàn thành gần 50% mục tiêu đón 25 triệu lượt khách quốc tế trong năm 2026.
 
-
-
-
-
-
-
-
-04/07/2026
-
-
-
-
-
-14:54
-
-
-
-
+04/07/2026
+
+14:54
+
 Khách quốc tế mua vé tham quan Di tích Nhà tủ Hòa Lò. Ảnh: VGP/DA
 
 Theo Cục Thống kê, trong tháng 6/2026, khách quốc tế đến nước ta ước đạt 1,68 triệu lượt người, giảm 5,7% so với tháng trước, tăng 14,7% so với cùng kỳ năm trước; quý II/2026 ước đạt 5,49 triệu lượt khách, giảm 18,8% so với quý trước và tăng 18,2% so với cùng kỳ năm trước. Tính chung sáu tháng đầu năm 2026, khách quốc tế đến Việt Nam đạt 12,3 triệu lượt người, tăng 14,9% so với cùng kỳ năm trước. 
@@ -352,79 +134,10 @@ Với kết quả đạt được trong 6 tháng đầu năm đã tạo nền t�
 
 Diệp Anh
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-ngành du lịch
+ngành du lịch
 
-
-
-khách quốc tế
+khách quốc tế
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Quét mã QR để tải
 
-
-
-
-
-
-
-
 Ghi rõ nguồn "Cục Thông tin và Truyền thông Chính phủ", "Báo Điện tử Chính phủ" hoặc "www.chinhphu.vn" khi phát hành lại thông tin từ các nguồn này.

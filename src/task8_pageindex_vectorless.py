@@ -28,7 +28,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 
-load_dotenv(override=True)
+load_dotenv()
 
 PAGEINDEX_API_KEY = os.getenv("PAGEINDEX_API_KEY", "")
 STANDARDIZED_DIR = Path(__file__).parent.parent / "data" / "standardized"

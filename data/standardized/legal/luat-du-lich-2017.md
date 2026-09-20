@@ -1,2008 +1,898 @@
-Luật Du lịch 2017, Luật số 09/2017/QH14
-
-Văn bản pháp luật
-
-Văn hóa-Thể thao-Du lịch
-
-👉 Quay về: Tra cứu văn bản (phiên bản cũ)
-
-Mục lục
-
-Tổng quan
-
-Nội dung
-
-VB gốc
-
-Tiếng Anh
-
-Hiệu lực
-
-VB liên quan
-
-Lược đồ
-
-Nội dung hợp nhất
-
-Tính năng này chỉ có tại LuatVietnam.vn. Nội dung hợp nhất tổng hợp lại tất cả các quy định còn hiệu lực của văn bản gốc và các văn bản sửa đổi, bổ sung, đính chính... trên một trang. Việc hợp nhất văn bản gốc và những văn bản, Thông tư, Nghị định hướng dẫn khác không làm thay đổi thứ tự điều khoản, nội dung.
-
-Khách hàng chỉ cần xem Nội dung hợp nhất là có thể nắm bắt toàn bộ quy định hiện hành đang áp dụng, cho dù văn bản gốc đã qua nhiều lần chỉnh sửa, bổ sung.
-
-=&gt;&gt; Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất
-
-Tải về
-
-Mục lục
-
-So sánh VB
-
-Đây là tiện ích dành cho tài khoản
-
-Tiêu chuẩn
-
-hoặc
-
-Nâng cao
-
-. Vui lòng Đăng nhập tài khoản để xem chi tiết.
-
-VB song ngữ
-
-Đây là tiện ích dành cho tài khoản
-
-Tiếng Anh
-
-hoặc
-
-Nâng cao
-
-. Vui lòng Đăng nhập tài khoản để xem chi tiết.
-
-Lưu
-
-Đây là tiện ích dành cho tài khoản
-
-Tiêu chuẩn
-
-hoặc
-
-Nâng cao
-
-. Vui lòng Đăng nhập tài khoản để xem chi tiết.
-
-Theo dõi VB
-
-Đây là tiện ích dành cho tài khoản
-
-Tiêu chuẩn
-
-hoặc
-
-Nâng cao
-
-. Vui lòng Đăng nhập tài khoản để xem chi tiết.
-
-Ghi chú
-
-Báo lỗi
-
-In
-
-So sánh VB
-
-VB song ngữ
-
-Báo lỗi
-
-Gửi liên kết tới Email
-
-Chia sẻ:
-
-Ngày cập nhật: Thứ Hai, 10/07/2017 09:27 (GMT+7)
-
-Cơ quan ban hành:
-
-Quốc hội
-
-Số công báo:
-
-Số công báo là mã số ấn phẩm được đăng chính thức trên ấn phẩm thông tin của Nhà nước. Mã số này do Chính phủ thống nhất quản lý.
-
-Đã biết
-
-Tiện ích dành cho tài khoản
-
-Tiêu chuẩn
-
-hoặc Nâng cao.
-
-Vui lòng Đăng nhập tài khoản để xem chi tiết.
-
-Số hiệu:
-
-09/2017/QH14
-
-Ngày đăng công báo:
-
-Đã biết
-
-Tiện ích dành cho tài khoản
-
-Tiêu chuẩn
-
-hoặc Nâng cao.
-
-Vui lòng Đăng nhập tài khoản để xem chi tiết.
-
-Loại văn bản:
-
-Luật
-
-Người ký:
-
-Nguyễn Thị Kim Ngân
-
-Ngày ban hành:
-
-Ngày ban hành là ngày, tháng, năm văn bản được thông qua hoặc ký ban hành.
-
-19/06/2017
-
-Ngày hết hiệu lực:
-
-Ngày hết hiệu lực là ngày, tháng, năm văn bản chính thức không còn hiệu lực (áp dụng).
-
-Đang cập nhật
-
-Áp dụng:
-
-Ngày áp dụng là ngày, tháng, năm văn bản chính thức có hiệu lực (áp dụng).
-
-Đã biết
-
-Tiện ích dành cho tài khoản
-
-Tiêu chuẩn
-
-hoặc Nâng cao.
-
-Vui lòng Đăng nhập tài khoản để xem chi tiết.
-
-Tình trạng hiệu lực:
-
-Cho biết trạng thái hiệu lực của văn bản đang tra cứu: Chưa áp dụng, Còn hiệu lực, Hết hiệu lực, Hết hiệu lực 1 phần; Đã sửa đổi, Đính chính hay Không còn phù hợp,...
-
-Đã biết
-
-Tiện ích dành cho tài khoản
-
-Tiêu chuẩn
-
-hoặc Nâng cao.
-
-Vui lòng Đăng nhập tài khoản để xem chi tiết.
-
-Lĩnh vực:
-
-Văn hóa-Thể thao-Du lịch
-
-TÓM TẮT LUẬT DU LỊCH 2017
-
-Đây là một trong những nội dung nổi bật quy định tại Luật Du lịch số 09/2017/QH14 được Quốc hội thông qua ngày 19/06/2017, có hiệu lực từ ngày 01/01/2018.
-
-Cụ thể, Luật cho phép tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch được tự nguyện đăng ký xếp hạng cơ sở lưu trú du lịch với cơ quan Nhà nước có thẩm quyền. Khách sạn, biệt thự du lịch, căn hộ du lịch, tàu thủy lưu trú du lịch được xếp hạng theo tiêu chuẩn quốc gia về xếp hạng cơ sở lưu trú du lịch. Hạng cơ sở bao gồm: 01 sao, 02 sao, 03 sao, 04 sao và 05 sao.
-
-Tổng cục Du lịch có thẩm quyền thẩm định, công nhận cơ sở lưu trú du lịch hạng 04 và 05 sao; Cơ quan chuyên môn về du lịch cấp tỉnh thẩm định, công nhận cơ sở lưu trú du lịch các hạng sao còn lại.
-
-Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch chỉ được sử dụng từ “sao” hoặc hình ảnh ngôi sao để quảng cáo về hạng cơ sở lưu trú du lịch sau khi được cơ quan Nhà nước có thẩm quyền công nhận hạng cơ sở lưu trú du lịch. Khi đã được công nhận hạng, tổ chức, cá nhân phải treo biển công nhận hạng và quảng cáo đúng với loại, hạng đã được công nhận; Duy trì chất lượng của cơ sở lưu trú du lịch theo đúng loại, hạng đã được công nhận.
-
-Về hướng dẫn viên du lịch, Luật quy định hướng dẫn viên du lịch chỉ được hành nghề khi có thẻ hướng dẫn viên du lịch; Có hợp đồng lao động với doanh nghiệp kinh doanh dịch vụ lữ hành; Có hợp đồng hướng dẫn với doanh nghiệp kinh doanh dịch vụ lữ hành hoặc văn bản phân công hướng dẫn theo chương trình du lịch. Trong đó, thẻ hướng dẫn viên có thời hạn 05 năm.
-
-Luật này thay thế Luật Du lịch số 44/2005/QH11.
-
-Xem chi tiết Luật Du lịch 2017 có hiệu lực kể từ ngày 01/01/2018
-
-Tải Luật Du lịch 2017
-
-Luật 09/2017/QH14 PDF (Bản có dấu đỏ)
-
-Vui lòng Đăng nhập để tải văn bản.
-
-Nếu chưa có tài khoản, vui lòng Đăng ký tại đây!
-
-Luật 09/2017/QH14 DOC (Bản Word)
-
-Vui lòng Đăng nhập để tải văn bản.
-
-Nếu chưa có tài khoản, vui lòng Đăng ký tại đây!
-
-Tình trạng hiệu lực: Đã biết
-
-Hiệu lực: Đã biết
-
-Tình trạng hiệu lực: Đã biết
-
-QUỐC HỘI --------
-
-Luật số: 09/2017/QH14
-
-CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM Độc lập - Tự do - Hạnh phúc ---------------
-
-LUẬT
-
-DU LỊCH
-
-Căn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam;
-
-Quốc hội ban hành Luật Du lịch.
-
 Chương I
 
 NHỮNG QUY ĐỊNH CHUNG
-
-Đang theo dõi
 
 Điều 1. Phạm vi điều chỉnh
 
 Luật này quy định về tài nguyên du lịch, phát triển sản phẩm du lịch và hoạt động du lịch; quyền, nghĩa vụ của khách du lịch, tổ chức, cá nhân kinh doanh du lịch, cơ quan, tổ chức, cá nhân khác, cộng đồng dân cư có hoạt động liên quan đến du lịch; quản lý nhà nước về du lịch.
 
-Đang theo dõi
-
 Điều 2. Đối tượng áp dụng
-
-Đang theo dõi
 
 1. Cơ quan, tổ chức, cá nhân Việt Nam hoạt động du lịch trên lãnh thổ Việt Nam và ở nước ngoài.
 
-Đang theo dõi
-
 2. Tổ chức, cá nhân nước ngoài hoạt động du lịch trên lãnh thổ Việt Nam.
 
-Đang theo dõi
-
 3. Cơ quan quản lý nhà nước về du lịch, cơ quan khác, tổ chức, cá nhân, cộng đồng dân cư có hoạt động liên quan đến du lịch.
-
-Đang theo dõi
 
 Điều 3. Giải thích từ ngữ
 
 Trong Luật này, các từ ngữ dưới đây được hiểu như sau:
 
-Đang theo dõi
-
 1. Du lịch là các hoạt động có liên quan đến chuyến đi của con người ngoài nơi cư trú thường xuyên trong thời gian không quá 01 năm liên tục nhằm đáp ứng nhu cầu tham quan, nghỉ dưỡng, giải trí, tìm hiểu, khám phá tài nguyên du lịch hoặc kết hợp với mục đích hợp pháp khác.
-
-Đang theo dõi
 
 2. Khách du lịch là người đi du lịch hoặc kết hợp đi du lịch, trừ trường hợp đi học, làm việc để nhận thu nhập ở nơi đến.
 
-Đang theo dõi
-
 3. Hoạt động du lịch là hoạt động của khách du lịch, tổ chức, cá nhân kinh doanh du lịch và cơ quan, tổ chức, cá nhân, cộng đồng dân cư có liên quan đến du lịch.
-
-Đang theo dõi
 
 4. Tài nguyên du lịch là cảnh quan thiên nhiên, yếu tố tự nhiên và các giá trị văn hóa làm cơ sở để hình thành sản phẩm du lịch, khu du lịch, điểm du lịch, nhằm đáp ứng nhu cầu du lịch. Tài nguyên du lịch bao gồm tài nguyên du lịch tự nhiên và tài nguyên du lịch văn hóa.
 
-Đang theo dõi
-
 5. Sản phẩm du lịch là tập hợp các dịch vụ trên cơ sở khai thác giá trị tài nguyên du lịch để thỏa mãn nhu cầu của khách du lịch.
-
-Đang theo dõi
 
 6. Khu du lịch là khu vực có ưu thế về tài nguyên du lịch, được quy hoạch, đầu tư phát triển nhằm đáp ứng nhu cầu đa dạng của khách du lịch. Khu du lịch bao gồm khu du lịch cấp tỉnh và khu du lịch quốc gia.
 
-Đang theo dõi
-
 7. Điểm du lịch là nơi có tài nguyên du lịch được đầu tư, khai thác phục vụ khách du lịch.
-
-Đang theo dõi
 
 8. Chương trình du lịch là văn bản thể hiện lịch trình, dịch vụ và giá bán được định trước cho chuyến đi của khách du lịch từ điểm xuất phát đến điểm kết thúc chuyến đi.
 
-Đang theo dõi
-
 9. Kinh doanh dịch vụ lữ hành là việc xây dựng, bán và tổ chức thực hiện một phần hoặc toàn bộ chương trình du lịch cho khách du lịch.
-
-Đang theo dõi
 
 10. Hướng dẫn du lịch là hoạt động cung cấp thông tin, kết nối dịch vụ, dẫn khách du lịch, hỗ trợ khách du lịch sử dụng các dịch vụ theo chương trình du lịch.
 
-Đang theo dõi
-
 11. Hướng dẫn viên du lịch là người được cấp thẻ để hành nghề hướng dẫn du lịch.
-
-Đang theo dõi
 
 12. Cơ sở lưu trú du lịch là nơi cung cấp dịch vụ phục vụ nhu cầu lưu trú của khách du lịch.
 
-Đang theo dõi
-
 13. Xúc tiến du lịch là hoạt động nghiên cứu thị trường, tổ chức tuyên truyền, quảng bá, vận động nhằm tìm kiếm, thúc đẩy cơ hội phát triển và thu hút khách du lịch.
-
-Đang theo dõi
 
 14. Phát triển du lịch bền vững là sự phát triển du lịch đáp ứng đồng thời các yêu cầu về kinh tế - xã hội và môi trường, bảo đảm hài hòa lợi ích của các chủ thể tham gia hoạt động du lịch, không làm tổn hại đến khả năng đáp ứng nhu cầu về du lịch trong tương lai.
 
-Đang theo dõi
-
 15. Du lịch cộng đồng là loại hình du lịch được phát triển trên cơ sở các giá trị văn hóa của cộng đồng, do cộng đồng dân cư quản lý, tổ chức khai thác và hưởng lợi.
-
-Đang theo dõi
 
 16. Du lịch sinh thái là loại hình du lịch dựa vào thiên nhiên, gắn với bản sắc văn hoá địa phương, có sự tham gia của cộng đồng dân cư, kết hợp giáo dục về bảo vệ môi trường.
 
-Đang theo dõi
-
 17. Du lịch văn hóa là loại hình du lịch được phát triển trên cơ sở khai thác giá trị văn hóa, góp phần bảo tồn và phát huy giá trị văn hóa truyền thống, tôn vinh giá trị văn hóa mới của nhân loại.
-
-Đang theo dõi
 
 18. Môi trường du lịch là môi trường tự nhiên và môi trường xã hội nơi diễn ra các hoạt động du lịch.
 
-Đang theo dõi
-
 Điều 4. Nguyên tắc phát triển du lịch
-
-Đang theo dõi
 
 1. Phát triển du lịch bền vững, theo chiến lược, quy hoạch, kế hoạch, có trọng tâm, trọng điểm.
 
-Đang theo dõi
-
 2. Phát triển du lịch gắn với bảo tồn và phát huy giá trị di sản văn hóa dân tộc, tài nguyên thiên nhiên, khai thác lợi thế của từng địa phương và tăng cường liên kết vùng.
-
-Đang theo dõi
 
 3. Bảo đảm chủ quyền quốc gia, quốc phòng, an ninh, trật tự, an toàn xã hội, mở rộng quan hệ đối ngoại và hội nhập quốc tế, quảng bá hình ảnh đất nước, con người Việt Nam.
 
-Đang theo dõi
-
 4. Bảo đảm lợi ích quốc gia, lợi ích cộng đồng, quyền và lợi ích hợp pháp của khách du lịch, tổ chức, cá nhân kinh doanh du lịch.
-
-Đang theo dõi
 
 5. Phát triển đồng thời du lịch nội địa và du lịch quốc tế; tôn trọng và đối xử bình đẳng đối với khách du lịch.
 
-Đang theo dõi
-
 Điều 5. Chính sách phát triển du lịch
-
-Đang theo dõi
 
 1. Nhà nước có chính sách huy động mọi nguồn lực cho phát triển du lịch để bảo đảm du lịch trở thành ngành kinh tế mũi nhọn của đất nước.
 
-Đang theo dõi
-
 2. Tổ chức, cá nhân kinh doanh du lịch được hưởng mức ưu đãi, hỗ trợ đầu tư cao nhất khi Nhà nước ban hành, áp dụng các chính sách về ưu đãi và hỗ trợ đầu tư.
-
-Đang theo dõi
 
 3. Nhà nước ưu tiên bố trí kinh phí cho các hoạt động sau đây:
 
-Đang theo dõi
-
 a) Điều tra, đánh giá, bảo vệ, tôn tạo, phát triển giá trị tài nguyên du lịch;
-
-Đang theo dõi
 
 b) Lập quy hoạch về du lịch;
 
-Đang theo dõi
-
 c) Xúc tiến du lịch, xây dựng thương hiệu du lịch quốc gia, địa phương;
-
-Đang theo dõi
 
 d) Xây dựng kết cấu hạ tầng phục vụ phát triển du lịch.
 
-Đang theo dõi
-
 4. Nhà nước có chính sách khuyến khích, hỗ trợ cho các hoạt động sau đây:
-
-Đang theo dõi
 
 a) Đầu tư phát triển cơ sở vật chất kỹ thuật, dịch vụ du lịch chất lượng cao;
 
-Đang theo dõi
-
 b) Nghiên cứu, định hướng phát triển sản phẩm du lịch;
-
-Đang theo dõi
 
 c) Đào tạo và phát triển nguồn nhân lực du lịch;
 
-Đang theo dõi
-
 d) Đầu tư phát triển sản phẩm du lịch mới có tác động tích cực tới môi trường, thu hút sự tham gia của cộng đồng dân cư; đầu tư phát triển sản phẩm du lịch biển, đảo, du lịch sinh thái, du lịch cộng đồng, du lịch văn hóa và sản phẩm du lịch đặc thù khác;
-
-Đang theo dõi
 
 đ) Ứng dụng khoa học, công nghệ hiện đại phục vụ quản lý và phát triển du lịch;
 
-Đang theo dõi
-
 e) Phát triển du lịch tại nơi có tiềm năng du lịch; sử dụng nhân lực du lịch tại địa phương;
-
-Đang theo dõi
 
 g) Đầu tư hình thành khu dịch vụ du lịch phức hợp, có quy mô lớn; hệ thống cửa hàng miễn thuế, trung tâm mua sắm phục vụ khách du lịch.
 
-Đang theo dõi
-
 5. Nhà nước có chính sách tạo điều kiện thuận lợi về đi lại, cư trú, thủ tục xuất cảnh, nhập cảnh, hải quan, hoàn thuế giá trị gia tăng và bảo đảm quyền, lợi ích hợp pháp khác cho khách du lịch.
-
-Đang theo dõi
 
 Điều 6. Sự tham gia của cộng đồng dân cư trong phát triển du lịch
 
-Đang theo dõi
-
 1. Cộng đồng dân cư có quyền tham gia và hưởng lợi ích hợp pháp từ hoạt động du lịch; có trách nhiệm bảo vệ tài nguyên du lịch, bản sắc văn hóa địa phương; giữ gìn an ninh, trật tự, an toàn xã hội, bảo vệ môi trường.
-
-Đang theo dõi
 
 2. Cộng đồng dân cư được tạo điều kiện để đầu tư phát triển du lịch, khôi phục và phát huy các loại hình văn hóa, nghệ thuật dân gian, ngành, nghề thủ công truyền thống, sản xuất hàng hóa của địa phương phục vụ khách du lịch, góp phần nâng cao đời sống vật chất và tinh thần của người dân địa phương.
 
-Đang theo dõi
-
 Điều 7. Tổ chức xã hội - nghề nghiệp về du lịch
-
-Đang theo dõi
 
 1. Tổ chức xã hội - nghề nghiệp về du lịch được thành lập và hoạt động theo quy định của pháp luật về hội.
 
-Đang theo dõi
-
 2. Tổ chức xã hội - nghề nghiệp về du lịch có trách nhiệm sau đây:
-
-Đang theo dõi
 
 a) Tuân thủ pháp luật và bảo vệ quyền, lợi ích hợp pháp của hội viên;
 
-Đang theo dõi
-
 b) Tham gia xây dựng, phổ biến, giáo dục, giám sát việc thực hiện các quy định của pháp luật, chính sách về du lịch;
-
-Đang theo dõi
 
 c) Tham gia xúc tiến du lịch, đào tạo, bồi dưỡng kiến thức về du lịch; đánh giá, tư vấn, thẩm định tiêu chuẩn chuyên môn, nghiệp vụ, chất lượng dịch vụ cho doanh nghiệp và lao động trong ngành du lịch; xây dựng môi trường kinh doanh lành mạnh cho các hội viên; huy động các nguồn lực xã hội để triển khai hoạt động du lịch theo quy định của pháp luật;
 
-Đang theo dõi
-
 d) Tổ chức triển khai việc thực hiện quy tắc đạo đức nghề nghiệp, vận động hội viên kinh doanh du lịch bảo đảm chất lượng dịch vụ;
-
-Đang theo dõi
 
 đ) Phát hiện và kiến nghị với cơ quan nhà nước có thẩm quyền xử lý vi phạm pháp luật về du lịch, bảo vệ môi trường.
 
-Đang theo dõi
-
 Điều 8. Bảo vệ môi trường du lịch
-
-Đang theo dõi
 
 1. Môi trường du lịch phải được bảo vệ, tôn tạo và phát triển theo hướng xanh, sạch, đẹp, an ninh, an toàn, lành mạnh và văn minh.
 
-Đang theo dõi
-
 2. Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, ban hành quy định nhằm bảo vệ, tôn tạo và phát triển môi trường du lịch.
-
-Đang theo dõi
 
 3. Chính quyền địa phương các cấp có biện pháp bảo vệ, tôn tạo và phát triển môi trường du lịch phù hợp với thực tế của địa phương.
 
-Đang theo dõi
-
 4. Tổ chức, cá nhân kinh doanh du lịch có trách nhiệm thu gom, xử lý các loại chất thải phát sinh trong hoạt động kinh doanh; khắc phục tác động tiêu cực do hoạt động của mình gây ra đối với môi trường; có biện pháp phòng, chống tệ nạn xã hội trong hoạt động kinh doanh của mình.
-
-Đang theo dõi
 
 5. Khách du lịch, cộng đồng dân cư và tổ chức, cá nhân khác có trách nhiệm bảo vệ, giữ gìn cảnh quan, môi trường, bản sắc văn hóa, phong tục, tập quán của dân tộc; có thái độ ứng xử văn minh, lịch sự nhằm nâng cao hình ảnh đất nước, con người và du lịch Việt Nam.
 
-Đang theo dõi
-
 Điều 9. Các hành vi bị nghiêm cấm trong hoạt động du lịch
-
-Đang theo dõi
 
 1. Làm phương hại đến chủ quyền, lợi ích quốc gia, quốc phòng, an ninh, trật tự, an toàn xã hội, truyền thống văn hóa, đạo đức, thuần phong mỹ tục của dân tộc.
 
-Đang theo dõi
-
 2. Lợi dụng hoạt động du lịch để đưa người từ Việt Nam ra nước ngoài hoặc từ nước ngoài vào Việt Nam trái pháp luật.
-
-Đang theo dõi
 
 3. Xâm hại tài nguyên du lịch, môi trường du lịch.
 
-Đang theo dõi
-
 4. Phân biệt đối xử với khách du lịch, thu lợi bất hợp pháp từ khách du lịch; tranh giành khách du lịch, nài ép khách du lịch mua hàng hóa, dịch vụ.
-
-Đang theo dõi
 
 5. Kinh doanh du lịch khi không đủ điều kiện kinh doanh, không có giấy phép kinh doanh hoặc không duy trì điều kiện kinh doanh trong quá trình hoạt động theo quy định của Luật này và quy định khác của pháp luật có liên quan.
 
-Đang theo dõi
-
 6. Sử dụng giấy phép kinh doanh dịch vụ lữ hành của doanh nghiệp kinh doanh dịch vụ lữ hành khác hoặc cho tổ chức, cá nhân khác sử dụng giấy phép kinh doanh dịch vụ lữ hành của doanh nghiệp để hoạt động kinh doanh.
-
-Đang theo dõi
 
 7. Hành nghề hướng dẫn du lịch khi không đủ điều kiện hành nghề.
 
-Đang theo dõi
-
 8. Quảng cáo không đúng loại, hạng cơ sở lưu trú du lịch đã được cơ quan nhà nước có thẩm quyền công nhận; quảng cáo về loại, hạng cơ sở lưu trú du lịch khi chưa được cơ quan nhà nước có thẩm quyền công nhận.
 
-Đang theo dõi
-
 9. Các hành vi bị nghiêm cấm khác theo quy định của luật khác có liên quan.
-
-Đang theo dõi
 
 Chương II
 
 KHÁCH DU LỊCH
 
-Đang theo dõi
-
 Điều 10. Các loại khách du lịch
-
-Đang theo dõi
 
 1. Khách du lịch bao gồm khách du lịch nội địa, khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài.
 
-Đang theo dõi
-
 2. Khách du lịch nội địa là công dân Việt Nam, người nước ngoài cư trú ở Việt Nam đi du lịch trong lãnh thổ Việt Nam.
-
-Đang theo dõi
 
 3. Khách du lịch quốc tế đến Việt Nam là người nước ngoài, người Việt Nam định cư ở nước ngoài vào Việt Nam du lịch.
 
-Đang theo dõi
-
 4. Khách du lịch ra nước ngoài là công dân Việt Nam và người nước ngoài cư trú ở Việt Nam đi du lịch nước ngoài.
-
-Đang theo dõi
 
 Điều 11. Quyền của khách du lịch
 
-Đang theo dõi
-
 1. Sử dụng dịch vụ du lịch do tổ chức, cá nhân kinh doanh du lịch cung cấp hoặc tự đi du lịch.
-
-Đang theo dõi
 
 2. Yêu cầu tổ chức, cá nhân kinh doanh du lịch cung cấp thông tin về chương trình, dịch vụ, điểm đến du lịch theo hợp đồng đã ký kết.
 
-Đang theo dõi
-
 3. Được tạo điều kiện thuận lợi về xuất cảnh, nhập cảnh, quá cảnh, hải quan, lưu cư trú, đi lại trên lãnh thổ Việt Nam phù hợp với quy định của pháp luật và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
-
-Đang theo dõi
 
 4. Được bảo đảm quyền và lợi ích hợp pháp theo hợp đồng đã giao kết với tổ chức, cá nhân kinh doanh, cung cấp dịch vụ du lịch.
 
-Đang theo dõi
-
 5. Được đối xử bình đẳng; được bảo đảm an toàn về tính mạng, sức khỏe, tài sản khi sử dụng dịch vụ du lịch; được tôn trọng danh dự, nhân phẩm; được cứu hộ, cứu nạn trong trường hợp khẩn cấp.
-
-Đang theo dõi
 
 6. Khiếu nại, tố cáo, khởi kiện hành vi vi phạm pháp luật về du lịch.
 
-Đang theo dõi
-
 7. Kiến nghị với tổ chức, cá nhân quản lý khu du lịch, điểm du lịch, cơ sở cung cấp dịch vụ du lịch và cơ quan nhà nước có thẩm quyền về các vấn đề liên quan đến hoạt động du lịch.
-
-Đang theo dõi
 
 8. Được bồi thường thiệt hại theo quy định của pháp luật.
 
-Đang theo dõi
-
 Điều 12. Nghĩa vụ của khách du lịch
-
-Đang theo dõi
 
 1. Tuân thủ pháp luật Việt Nam và pháp luật của quốc gia, vùng lãnh thổ nơi đến du lịch; ứng xử văn minh, tôn trọng phong tục, tập quán, bản sắc văn hóa địa phương, bảo vệ và giữ gìn tài nguyên du lịch, môi trường du lịch; không gây phương hại đến hình ảnh quốc gia, truyền thống văn hóa dân tộc của Việt Nam.
 
-Đang theo dõi
-
 2. Thực hiện nội quy của khu du lịch, điểm du lịch, cơ sở cung cấp dịch vụ du lịch.
-
-Đang theo dõi
 
 3. Thanh toán tiền dịch vụ theo hợp đồng, phí, lệ phí và các khoản thu khác theo quy định của pháp luật.
 
-Đang theo dõi
-
 4. Bồi thường thiệt hại theo quy định của pháp luật về dân sự.
-
-Đang theo dõi
 
 Điều 13. Bảo đảm an toàn cho khách du lịch
 
-Đang theo dõi
-
 1. Cơ quan nhà nước có thẩm quyền, trong phạm vi nhiệm vụ, quyền hạn của mình, có biện pháp bảo đảm an ninh, trật tự, an toàn xã hội tại khu du lịch, điểm du lịch.
-
-Đang theo dõi
 
 2. Tổ chức, cá nhân quản lý khu du lịch, điểm du lịch có biện pháp phòng, tránh rủi ro và tổ chức bộ phận bảo vệ, cứu hộ, cứu nạn cho khách du lịch.
 
-Đang theo dõi
-
 3. Tổ chức, cá nhân kinh doanh du lịch có trách nhiệm cảnh báo nguy cơ gây nguy hiểm cho khách du lịch; thông báo, chỉ dẫn kịp thời cho khách du lịch trong trường hợp khẩn cấp; áp dụng biện pháp cần thiết, phối hợp với cơ quan, tổ chức, cá nhân có liên quan trong việc cứu hộ, cứu nạn cho khách du lịch.
-
-Đang theo dõi
 
 Điều 14. Giải quyết kiến nghị của khách du lịch
 
-Đang theo dõi
-
 1. Tổ chức, cá nhân kinh doanh du lịch, quản lý khu du lịch, điểm du lịch tổ chức tiếp nhận và giải quyết kịp thời kiến nghị của khách du lịch trong phạm vi quản lý.
-
-Đang theo dõi
 
 2. Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, tổ chức tiếp nhận, giải quyết kiến nghị của khách du lịch trên địa bàn.
 
-Đang theo dõi
-
 3. Bộ Văn hóa, Thể thao và Du lịch, trong phạm vi nhiệm vụ, quyền hạn của mình, tiếp nhận, giải quyết hoặc phối hợp với cơ quan nhà nước có thẩm quyền giải quyết kiến nghị của khách du lịch.
-
-Đang theo dõi
 
 Chương III
 
 TÀI NGUYÊN DU LỊCH, PHÁT TRIỂN SẢN PHẨM DU LỊCH VÀ QUY HOẠCH VỀ DU LỊCH
 
-Đang theo dõi
-
 Mục 1. TÀI NGUYÊN DU LỊCH
-
-Đang theo dõi
 
 Điều 15. Các loại tài nguyên du lịch
 
-Đang theo dõi
-
 1. Tài nguyên du lịch tự nhiên bao gồm cảnh quan thiên nhiên, các yếu tố địa chất, địa mạo, khí hậu, thủy văn, hệ sinh thái và các yếu tố tự nhiên khác có thể được sử dụng cho mục đích du lịch.
-
-Đang theo dõi
 
 2. Tài nguyên du lịch văn hóa bao gồm di tích lịch sử - văn hóa, di tích cách mạng, khảo cổ, kiến trúc; giá trị văn hóa truyền thống, lễ hội, văn nghệ dân gian và các giá trị văn hóa khác; công trình lao động sáng tạo của con người có thể được sử dụng cho mục đích du lịch.
 
-Đang theo dõi
-
 Điều 16. Điều tra tài nguyên du lịch
-
-Đang theo dõi
 
 1. Bộ Văn hóa, Thể thao và Du lịch chủ trì, phối hợp với Ủy ban nhân dân cấp tỉnh và cơ quan nhà nước có liên quan điều tra, đánh giá, phân loại tài nguyên du lịch để làm căn cứ lập quy hoạch về du lịch; quản lý, khai thác, phát huy giá trị tài nguyên du lịch và phát triển sản phẩm du lịch.
 
-Đang theo dõi
-
 2. Chính phủ quy định chi tiết Điều này.
-
-Đang theo dõi
 
 Điều 17. Trách nhiệm quản lý, bảo vệ và khai thác tài nguyên du lịch
 
-Đang theo dõi
-
 1. Nhà nước có chính sách quản lý, bảo vệ, tôn tạo, khai thác hợp lý, phát huy giá trị tài nguyên du lịch trong phạm vi cả nước để phát triển du lịch bền vững.
-
-Đang theo dõi
 
 2. Bộ Văn hóa, Thể thao và Du lịch chủ trì, phối hợp với Bộ, cơ quan ngang Bộ, Ủy ban nhân dân cấp tỉnh trong việc quản lý, bảo vệ, tôn tạo, khai thác hợp lý và phát huy giá trị tài nguyên du lịch.
 
-Đang theo dõi
-
 3. Cơ quan, tổ chức, cá nhân, cộng đồng dân cư quản lý tài nguyên du lịch có trách nhiệm bảo vệ, đầu tư, tôn tạo tài nguyên du lịch, tạo điều kiện thuận lợi cho khách du lịch tham quan, thụ hưởng giá trị của tài nguyên du lịch; phối hợp với cơ quan quản lý nhà nước về du lịch có thẩm quyền trong việc bảo vệ và khai thác tài nguyên du lịch cho các mục tiêu kinh tế khác.
-
-Đang theo dõi
 
 4. Khách du lịch, tổ chức, cá nhân kinh doanh du lịch, cộng đồng dân cư có trách nhiệm bảo vệ tài nguyên du lịch.
 
-Đang theo dõi
-
 Mục 2. PHÁT TRIỂN SẢN PHẨM DU LỊCH
-
-Đang theo dõi
 
 Điều 18. Xây dựng, phát triển sản phẩm du lịch
 
-Đang theo dõi
-
 1. Tổ chức, cá nhân có quyền sáng tạo, phát triển, kinh doanh các sản phẩm du lịch đáp ứng nhu cầu của khách du lịch và phù hợp với quy định của pháp luật.
-
-Đang theo dõi
 
 2. Chính phủ có chính sách hỗ trợ phát triển sản phẩm du lịch chủ đạo đối với từng vùng và trong phạm vi toàn quốc theo từng giai đoạn, đáp ứng nhu cầu của thị trường trên cơ sở đánh giá, phân loại tài nguyên du lịch.
 
-Đang theo dõi
-
 3. Chính phủ quy định các biện pháp bảo đảm an toàn cho khách du lịch đối với những sản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch.
-
-Đang theo dõi
 
 Điều 19. Phát triển du lịch cộng đồng
 
-Đang theo dõi
-
 1. Cá nhân, hộ gia đình nơi phát triển du lịch cộng đồng được ưu đãi, khuyến khích cung cấp dịch vụ lưu trú, ăn uống; hướng dẫn khách du lịch tham quan, trải nghiệm văn hóa, nếp sống tại cộng đồng; sản xuất hàng hóa, hàng thủ công truyền thống và các dịch vụ khác phục vụ khách du lịch.
-
-Đang theo dõi
 
 2. Ủy ban nhân dân cấp tỉnh tổ chức nghiên cứu, khảo sát, lựa chọn địa điểm có tiềm năng phát triển du lịch cộng đồng; có chính sách hỗ trợ về trang thiết bị cần thiết ban đầu và bồi dưỡng kiến thức, kỹ năng phục vụ khách du lịch cho cá nhân, hộ gia đình trong cộng đồng tham gia cung cấp dịch vụ du lịch; hỗ trợ xúc tiến sản phẩm du lịch cộng đồng.
 
-Đang theo dõi
-
 3. Ủy ban nhân dân cấp xã nơi phát triển du lịch cộng đồng tổ chức tuyên truyền, phổ biến, nâng cao nhận thức của cộng đồng; chủ trì xây dựng cam kết của cộng đồng nhằm giữ gìn bản sắc văn hóa, bảo vệ môi trường, ứng xử văn minh đối với khách du lịch.
-
-Đang theo dõi
 
 4. Tổ chức, cá nhân khai thác, phát triển du lịch cộng đồng có trách nhiệm tôn trọng văn hóa, nếp sống và chia sẻ lợi ích từ hoạt động du lịch với cộng đồng.
 
-Đang theo dõi
-
 Mục 3. QUY HOẠCH VỀ DU LỊCH
-
-Đang theo dõi
 
 Điều 20. Nguyên tắc lập quy hoạch về du lịch
 
-Đang theo dõi
-
 1. Phù hợp với chiến lược và quy hoạch phát triển kinh tế - xã hội, quốc phòng, an ninh của đất nước; chiến lược phát triển ngành du lịch và các quy hoạch khác đã được cơ quan nhà nước có thẩm quyền phê duyệt theo từng thời kỳ.
-
-Đang theo dõi
 
 2. Khai thác, sử dụng hợp lý, hiệu quả tài nguyên du lịch và bảo tồn các di tích lịch sử - văn hóa, di sản thiên nhiên hướng tới mục tiêu phát triển bền vững gắn với bảo vệ môi trường và ứng phó với biến đổi khí hậu.
 
-Đang theo dõi
-
 3. Bảo đảm tính liên kết giữa các địa phương trong vùng, giữa các vùng trong cả nước; khai thác, sử dụng tối đa kết cấu hạ tầng hiện có; phát huy tối ưu tiềm năng, lợi thế của từng vùng, từng địa phương để phát triển sản phẩm du lịch.
-
-Đang theo dõi
 
 4. Giảm thiểu các tác động tiêu cực do phát triển du lịch đến kinh tế - xã hội và môi trường.
 
-Đang theo dõi
-
 5. Bảo đảm sự tham gia của cơ quan, tổ chức, cộng đồng dân cư và cá nhân trong quá trình lập quy hoạch; kết hợp hài hòa giữa lợi ích của Nhà nước và lợi ích của cộng đồng, giữa lợi ích của vùng và địa phương.
-
-Đang theo dõi
 
 6. Bảo đảm tính khoa học, ứng dụng công nghệ hiện đại trong quá trình lập quy hoạch; đáp ứng tiêu chuẩn, quy chuẩn và phù hợp với yêu cầu phát triển kinh tế - xã hội và hội nhập quốc tế của đất nước.
 
-Đang theo dõi
-
 Điều 21. Nội dung quy hoạch về du lịch
-
-Đang theo dõi
 
 1. Xác định vị trí, vai trò và lợi thế của du lịch trong phát triển kinh tế - xã hội của quốc gia, vùng và địa phương.
 
-Đang theo dõi
-
 2. Phân tích, đánh giá tiềm năng, hiện trạng tài nguyên và môi trường du lịch, thị trường du lịch; khả năng thu hút đầu tư, nguồn lực phát triển du lịch.
-
-Đang theo dõi
 
 3. Xác định quan điểm, mục tiêu phát triển du lịch; dự báo các chỉ tiêu và luận chứng các phương án phát triển du lịch.
 
-Đang theo dõi
-
 4. Định hướng tổ chức không gian du lịch, hệ thống cơ sở vật chất kỹ thuật du lịch.
-
-Đang theo dõi
 
 5. Định hướng phát triển sản phẩm du lịch, thị trường du lịch.
 
-Đang theo dõi
-
 6. Định hướng đầu tư phát triển du lịch; xác định danh mục các khu vực, các dự án ưu tiên đầu tư, vốn đầu tư.
-
-Đang theo dõi
 
 7. Định hướng bảo vệ tài nguyên du lịch và môi trường theo quy định của pháp luật.
 
-Đang theo dõi
-
 8. Đề xuất chính sách, giải pháp quản lý, phát triển du lịch theo quy hoạch.
-
-Đang theo dõi
 
 Điều 22. Lập, quản lý và thực hiện quy hoạch về du lịch
 
-Đang theo dõi
-
 1. Việc lập quy hoạch về du lịch phải tuân thủ nguyên tắc, nội dung lập quy hoạch về du lịch quy định tại Điều 20 và Điều 21 của Luật này và quy định khác của pháp luật có liên quan.
 
-Đang theo dõi
-
 2. Chính phủ quy định việc lập, quản lý và thực hiện quy hoạch về du lịch.
-
-Đang theo dõi
 
 Chương IV
 
 ĐIỂM DU LỊCH, KHU DU LỊCH
 
-Đang theo dõi
-
 Điều 23. Điều kiện công nhận điểm du lịch
-
-Đang theo dõi
 
 1. Điều kiện công nhận điểm du lịch bao gồm:
 
-Đang theo dõi
-
 a) Có tài nguyên du lịch, có ranh giới xác định;
-
-Đang theo dõi
 
 b) Có kết cấu hạ tầng, dịch vụ cần thiết bảo đảm phục vụ khách du lịch;
 
-Đang theo dõi
-
 c) Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường theo quy định của pháp luật.
-
-Đang theo dõi
 
 2. Chính phủ quy định chi tiết Điều này.
 
-Đang theo dõi
-
 Điều 24. Hồ sơ, trình tự, thủ tục, thẩm quyền công nhận điểm du lịch
-
-Đang theo dõi
 
 1. Hồ sơ đề nghị công nhận điểm du lịch bao gồm:
 
-Đang theo dõi
-
 a) Đơn đề nghị công nhận điểm du lịch theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
-
-Đang theo dõi
 
 b) Bản thuyết minh về điều kiện công nhận điểm du lịch quy định tại khoản 1 Điều 23 của Luật này.
 
-Đang theo dõi
-
 2. Trình tự, thủ tục, thẩm quyền đề nghị công nhận điểm du lịch được quy định như sau:
-
-Đang theo dõi
 
 a) Tổ chức, cá nhân sở hữu, quản lý điểm du lịch nộp 01 bộ hồ sơ đến cơ quan chuyên môn thuộc Ủy ban nhân dân cấp tỉnh thực hiện quản lý nhà nước về du lịch (sau đây gọi chung là cơ quan chuyên môn về du lịch cấp tỉnh) nơi có điểm du lịch;
 
-Đang theo dõi
-
 b) Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn về du lịch cấp tỉnh thẩm định, trình Ủy ban nhân dân cấp tỉnh;
-
-Đang theo dõi
 
 c) Trong thời hạn 10 ngày kể từ ngày nhận được kết quả thẩm định, Ủy ban nhân dân cấp tỉnh quyết định công nhận điểm du lịch; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
 
-Đang theo dõi
-
 3. Ủy ban nhân dân cấp tỉnh thu hồi quyết định công nhận điểm du lịch trong trường hợp điểm du lịch không còn bảo đảm điều kiện quy định tại khoản 1 Điều 23 của Luật này.
-
-Đang theo dõi
 
 Điều 25. Quyền và nghĩa vụ của tổ chức, cá nhân quản lý điểm du lịch
 
-Đang theo dõi
-
 1. Tổ chức, cá nhân quản lý điểm du lịch có quyền sau đây:
-
-Đang theo dõi
 
 a) Đầu tư, khai thác, bảo vệ tài nguyên du lịch;
 
-Đang theo dõi
-
 b) Ban hành nội quy; tổ chức kinh doanh dịch vụ phục vụ khách du lịch;
-
-Đang theo dõi
 
 c) Tổ chức dịch vụ hướng dẫn; quy định, quản lý việc sử dụng hướng dẫn viên du lịch trong phạm vi quản lý;
 
-Đang theo dõi
-
 d) Được thu phí theo quy định của pháp luật.
-
-Đang theo dõi
 
 2. Tổ chức, cá nhân quản lý điểm du lịch có nghĩa vụ sau đây:
 
-Đang theo dõi
-
 a) Bảo đảm điều kiện quy định tại khoản 1 Điều 23 của Luật này;
-
-Đang theo dõi
 
 b) Tạo điều kiện thuận lợi cho khách du lịch đến tham quan;
 
-Đang theo dõi
-
 c) Quản lý, giám sát hoạt động kinh doanh dịch vụ du lịch trong phạm vi quản lý;
-
-Đang theo dõi
 
 d) Bảo đảm an toàn cho khách du lịch, trật tự, an toàn xã hội, bảo vệ môi trường tại điểm du lịch;
 
-Đang theo dõi
-
 đ) Tổ chức tiếp nhận và giải quyết kịp thời kiến nghị của khách du lịch trong phạm vi quản lý.
-
-Đang theo dõi
 
 Điều 26. Điều kiện công nhận khu du lịch
 
-Đang theo dõi
-
 1. Điều kiện công nhận khu du lịch cấp tỉnh bao gồm:
-
-Đang theo dõi
 
 a) Có tài nguyên du lịch với ưu thế về cảnh quan thiên nhiên hoặc giá trị văn hóa, có ranh giới xác định;
 
-Đang theo dõi
-
 b) Có kết cấu hạ tầng, cơ sở vật chất kỹ thuật, dịch vụ đáp ứng nhu cầu lưu trú, ăn uống và các nhu cầu khác của khách du lịch;
-
-Đang theo dõi
 
 c) Có kết nối với hệ thống hạ tầng giao thông, viễn thông quốc gia;
 
-Đang theo dõi
-
 d) Đáp ứng điều kiện về an ninh, trật tự, an toàn xã hội, bảo vệ môi trường theo quy định của pháp luật.
-
-Đang theo dõi
 
 2. Điều kiện công nhận khu du lịch quốc gia bao gồm:
 
-Đang theo dõi
-
 a) Có tài nguyên du lịch đa dạng, đặc biệt hấp dẫn với ưu thế về cảnh quan thiên nhiên hoặc giá trị văn hóa, có ranh giới xác định;
-
-Đang theo dõi
 
 b) Có trong danh mục các khu vực tiềm năng phát triển khu du lịch quốc gia được cơ quan nhà nước có thẩm quyền phê duyệt;
 
-Đang theo dõi
-
 c) Có kết cấu hạ tầng, cơ sở vật chất kỹ thuật, dịch vụ chất lượng cao, đồng bộ, đáp ứng nhu cầu lưu trú, ăn uống và các nhu cầu khác của khách du lịch;
-
-Đang theo dõi
 
 d) Các điều kiện quy định tại điểm c và điểm d khoản 1 Điều này.
 
-Đang theo dõi
-
 3. Chính phủ quy định chi tiết Điều này.
-
-Đang theo dõi
 
 Điều 27. Hồ sơ, trình tự, thủ tục, thẩm quyền công nhận khu du lịch cấp tỉnh
 
-Đang theo dõi
-
 1. Hồ sơ đề nghị công nhận khu du lịch cấp tỉnh bao gồm:
-
-Đang theo dõi
 
 a) Đơn đề nghị công nhận khu du lịch cấp tỉnh theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
 
-Đang theo dõi
-
 Việc nộp hồ sơ đề nghị công nhận khu du lịch cấp tỉnh theo quy định tại điểm a khoản 2 Điều 27 Luật Du lịch do Ủy ban nhân dân cấp xã nơi có khu du lịch hoặc tổ chức quản lý khu du lịch thực hiện, theo hướng dẫn tại khoản 1 Điều 10 137/2025/NĐ-CP, áp dụng từ ngày 01/7/2025 đến hết ngày 28/02/2027.
-
-Đang theo dõi
 
 b) Bản thuyết minh về điều kiện công nhận khu du lịch cấp tỉnh quy định tại khoản 1 Điều 26 của Luật này.
 
-Đang theo dõi
-
 2. Trình tự, thủ tục, thẩm quyền công nhận khu du lịch cấp tỉnh được quy định như sau:
-
-Đang theo dõi
 
 a) Ủy ban nhân dân cấp huyện hoặc tổ chức quản lý khu du lịch nộp 01 bộ hồ sơ đến cơ quan chuyên môn về du lịch cấp tỉnh nơi có khu du lịch;
 
-Đang theo dõi
-
 b) Trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn về du lịch cấp tỉnh thẩm định, trình Ủy ban nhân dân cấp tỉnh;
-
-Đang theo dõi
 
 c) Trong thời hạn 15 ngày kể từ ngày nhận được kết quả thẩm định, Ủy ban nhân dân cấp tỉnh quyết định công nhận khu du lịch cấp tỉnh; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
 
-Đang theo dõi
-
 Hồ sơ, trình tự, thủ tục đề nghị công nhận khu du lịch cấp tỉnh thực hiện theo quy định tại khoản 1 và khoản 2 Điều 27 Luật Du lịch thực hiện theo hướng dẫn tại khoản 3 Điều 10 Nghị định 137/2025/NĐ-CP, áp dụng từ ngày 01/7/2025 đến hết ngày 28/02/2027.
-
-Đang theo dõi
 
 3. Đối với khu du lịch nằm trên địa bàn từ 02 đơn vị hành chính cấp huyện trở lên, cơ quan chuyên môn về du lịch cấp tỉnh lập hồ sơ đề nghị công nhận khu du lịch cấp tỉnh. Ủy ban nhân dân cấp tỉnh thành lập hội đồng thẩm định, quyết định công nhận khu du lịch cấp tỉnh.
 
-Đang theo dõi
-
 Việc lập hồ sơ đề nghị công nhận khu du lịch cấp tỉnh đối với khu du lịch nằm trên địa bàn từ 02 đơn vị hành chính cấp xã trở lên theo quy định tại khoản 3 Điều 27 Luật Du lịch do cơ quan chuyên môn về du lịch cấp tỉnh thực hiện theo hướng dẫn tại khoản 2 Điều 10 Nghị định 137/2025/NĐ-CP, áp dụng từ ngày 01/7/2025 đến hết ngày 28/02/2027.
-
-Đang theo dõi
 
 4. Ủy ban nhân dân cấp tỉnh thu hồi quyết định công nhận khu du lịch cấp tỉnh trong trường hợp khu du lịch không còn bảo đảm điều kiện quy định tại khoản 1 Điều 26 của Luật này.
 
-Đang theo dõi
-
 Điều 28. Hồ sơ, trình tự, thủ tục, thẩm quyền công nhận khu du lịch quốc gia
-
-Đang theo dõi
 
 1. Hồ sơ đề nghị công nhận khu du lịch quốc gia bao gồm:
 
-Đang theo dõi
-
 a) Đơn đề nghị công nhận khu du lịch quốc gia theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
-
-Đang theo dõi
 
 b) Bản thuyết minh về điều kiện công nhận khu du lịch quốc gia quy định tại khoản 2 Điều 26 của Luật này.
 
-Đang theo dõi
-
 2. Trình tự, thủ tục, thẩm quyền công nhận khu du lịch quốc gia được quy định như sau:
-
-Đang theo dõi
 
 a) Ủy ban nhân dân cấp tỉnh nộp 01 bộ hồ sơ đến Tổng cục Du lịch;
 
-Đang theo dõi
-
 b) Trong thời hạn 45 ngày kể từ ngày nhận được hồ sơ hợp lệ, Tổng cục Du lịch thẩm định, trình Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch;
-
-Đang theo dõi
 
 c) Trong thời hạn 15 ngày kể từ ngày nhận được kết quả thẩm định, Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quyết định công nhận và phối hợp với Ủy ban nhân dân cấp tỉnh tổ chức công bố khu du lịch quốc gia; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
 
-Đang theo dõi
-
 3. Đối với khu du lịch nằm trên địa bàn từ 02 đơn vị hành chính cấp tỉnh trở lên, Bộ Văn hóa, Thể thao và Du lịch lập hồ sơ đề nghị công nhận khu du lịch quốc gia trình Thủ tướng Chính phủ công nhận.
-
-Đang theo dõi
 
 Việc công nhận đối với khu du lịch nằm trên địa bàn từ 02 đơn vị hành chính cấp tỉnh trở lên quy định tại khoản 3 Điều 28 Luật Du lịch do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quyết định theo hướng dẫn tại khoản 1 Điều 7 Nghị định 138/2025/NĐ-CP, áp dụng từ ngày 01/7/2025 đến hết ngày 28/02/2027
 
-Đang theo dõi
-
 4. Người có thẩm quyền công nhận khu du lịch quốc gia thu hồi quyết định công nhận trong trường hợp khu du lịch không còn bảo đảm điều kiện quy định tại khoản 2 Điều 26 của Luật này.
-
-Đang theo dõi
 
 Điều 29. Quản lý khu du lịch
 
-Đang theo dõi
-
 1. Nội dung quản lý khu du lịch bao gồm:
-
-Đang theo dõi
 
 a) Quản lý công tác quy hoạch và đầu tư phát triển;
 
-Đang theo dõi
-
 b) Quản lý hoạt động kinh doanh dịch vụ du lịch, hoạt động của hướng dẫn viên du lịch;
-
-Đang theo dõi
 
 c) Quản lý việc đầu tư, khai thác và bảo vệ tài nguyên du lịch;
 
-Đang theo dõi
-
 d) Bảo đảm an toàn cho khách du lịch; bảo đảm trật tự, an toàn xã hội, bảo vệ môi trường trong khu du lịch;
-
-Đang theo dõi
 
 đ) Xây dựng hệ thống biển báo, biển chỉ dẫn, điểm cung cấp thông tin phục vụ khách du lịch;
 
-Đang theo dõi
-
 e) Các nội dung khác theo quy định của pháp luật.
 
-Đang theo dõi
-
 2. Chính phủ quy định mô hình quản lý khu du lịch quốc gia; Ủy ban nhân dân cấp tỉnh quy định mô hình quản lý khu du lịch cấp tỉnh.
-
-Đang theo dõi
 
 Chương V
 
 KINH DOANH DU LỊCH
 
-Đang theo dõi
-
 Mục 1. DỊCH VỤ LỮ HÀNH
-
-Đang theo dõi
 
 Điều 30. Phạm vi kinh doanh dịch vụ lữ hành
 
-Đang theo dõi
-
 1. Kinh doanh dịch vụ lữ hành nội địa phục vụ khách du lịch nội địa.
-
-Đang theo dõi
 
 2. Kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài.
 
-Đang theo dõi
-
 3. Doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế được kinh doanh dịch vụ lữ hành quốc tế và dịch vụ lữ hành nội địa, trừ trường hợp quy định tại khoản 4 Điều này.
-
-Đang theo dõi
 
 4. Doanh nghiệp có vốn đầu tư nước ngoài chỉ được kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch quốc tế đến Việt Nam, trừ trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác.
 
-Đang theo dõi
-
 Điều 31. Điều kiện kinh doanh dịch vụ lữ hành
-
-Đang theo dõi
 
 1. Điều kiện kinh doanh dịch vụ lữ hành nội địa bao gồm:
 
-Đang theo dõi
-
 a) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;
-
-Đang theo dõi
 
 b) Ký quỹ kinh doanh dịch vụ lữ hành nội địa tại ngân hàng;
 
-Đang theo dõi
-
 c) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp trung cấp trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch nội địa.
-
-Đang theo dõi
 
 2. Điều kiện kinh doanh dịch vụ lữ hành quốc tế bao gồm:
 
-Đang theo dõi
-
 a) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;
-
-Đang theo dõi
 
 b) Ký quỹ kinh doanh dịch vụ lữ hành quốc tế tại ngân hàng;
 
-Đang theo dõi
-
 c) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp cao đẳng trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch quốc tế.
-
-Đang theo dõi
 
 3. Doanh nghiệp đáp ứng các điều kiện kinh doanh quy định tại khoản 1 Điều này được cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa; đáp ứng các điều kiện kinh doanh quy định tại khoản 2 Điều này được cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế.
 
 Phí thẩm định cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế, Giấy phép kinh doanh dịch vụ lữ hành nội địa được thực hiện theo quy định của pháp luật về phí và lệ phí.
 
-Đang theo dõi
-
 4. Chính phủ quy định chi tiết về việc ký quỹ kinh doanh dịch vụ lữ hành quy định tại điểm b khoản 1 và điểm b khoản 2 Điều này.
-
-Đang theo dõi
 
 5. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết về người phụ trách kinh doanh dịch vụ lữ hành; nội dung đào tạo, bồi dưỡng, tổ chức thi, cấp chứng chỉ nghiệp vụ điều hành du lịch nội địa và nghiệp vụ điều hành du lịch quốc tế.
 
-Đang theo dõi
-
 Điều 32. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa
-
-Đang theo dõi
 
 1. Hồ sơ đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa bao gồm:
 
-Đang theo dõi
-
 a) Đơn đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
-
-Đang theo dõi
 
 b) Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp;
 
-Đang theo dõi
-
 c) Giấy chứng nhận ký quỹ kinh doanh dịch vụ lữ hành;
-
-Đang theo dõi
 
 d) Bản sao có chứng thực quyết định bổ nhiệm hoặc hợp đồng lao động giữa doanh nghiệp kinh doanh dịch vụ lữ hành với người phụ trách kinh doanh dịch vụ lữ hành;
 
-Đang theo dõi
-
 đ) Bản sao có chứng thực văn bằng, chứng chỉ của người phụ trách kinh doanh dịch vụ lữ hành quy định tại điểm c khoản 1 Điều 31 của Luật này.
-
-Đang theo dõi
 
 Theo quy định tại điểm IX khoản C Tiểu mục 2.2 Mục 2 Phụ lục I.9 Nghị quyết 66.18/2026/NQ-CP: Đơn giản hóa hồ sơ, trình tự, thủ tục cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa quy định tại khoản 1 và khoản 2 Điều 32 của Luật Du lịch số 09/2017/QH14.
 
-Đang theo dõi
-
 2. Trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa được quy định như sau:
-
-Đang theo dõi
 
 a) Doanh nghiệp đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa nộp 01 bộ hồ sơ đến cơ quan chuyên môn về du lịch cấp tỉnh nơi doanh nghiệp có trụ sở;
 
-Đang theo dõi
-
 b) Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn về du lịch cấp tỉnh thẩm định và cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa cho doanh nghiệp; trường hợp từ chối, phải thông báo bằng văn bản và nêu rõ lý do.
-
-Đang theo dõi
 
 3. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định mẫu Giấy phép kinh doanh dịch vụ lữ hành nội địa.
 
-Đang theo dõi
-
 Điều 33. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế
-
-Đang theo dõi
 
 1. Hồ sơ đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế bao gồm:
 
-Đang theo dõi
-
 a) Đơn đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
-
-Đang theo dõi
 
 b) Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư do cơ quan nhà nước có thẩm quyền cấp;
 
-Đang theo dõi
-
 c) Giấy chứng nhận ký quỹ kinh doanh dịch vụ lữ hành;
-
-Đang theo dõi
 
 d) Bản sao có chứng thực văn bằng, chứng chỉ của người phụ trách kinh doanh dịch vụ lữ hành quy định tại điểm c khoản 2 Điều 31 của Luật này;
 
-Đang theo dõi
-
 đ) Bản sao có chứng thực quyết định bổ nhiệm hoặc hợp đồng lao động giữa doanh nghiệp kinh doanh dịch vụ lữ hành với người phụ trách kinh doanh dịch vụ lữ hành.
-
-Đang theo dõi
 
 Theo quy định tại điểm VIII khoản C Tiểu mục 2.2 Mục 2 Phụ lục I.9 Nghị quyết 66.18/2026/NQ-CP: Đơn giản hóa hồ sơ, trình tự, thủ tục cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế được quy định tại khoản 1 và khoản 2 Điều 33 của Luật Du lịch số 09/2017/QH14.
 
-Đang theo dõi
-
 2. Trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế được quy định như sau:
-
-Đang theo dõi
 
 a) Doanh nghiệp đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế nộp 01 bộ hồ sơ đến Tổng cục Du lịch;
 
-Đang theo dõi
-
 b) Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ hợp lệ, Tổng cục Du lịch thẩm định, cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế cho doanh nghiệp và thông báo cho cơ quan chuyên môn về du lịch cấp tỉnh nơi doanh nghiệp có trụ sở; trường hợp từ chối, phải thông báo bằng văn bản và nêu rõ lý do.
-
-Đang theo dõi
 
 3. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định mẫu Giấy phép kinh doanh dịch vụ lữ hành quốc tế.
 
-Đang theo dõi
-
 Điều 34. Cấp lại giấy phép kinh doanh dịch vụ lữ hành
-
-Đang theo dõi
 
 1. Doanh nghiệp đề nghị cấp lại giấy phép kinh doanh dịch vụ lữ hành trong trường hợp giấy phép kinh doanh dịch vụ lữ hành bị mất hoặc bị hư hỏng.
 
-Đang theo dõi
-
 2. Trình tự, thủ tục cấp lại giấy phép kinh doanh dịch vụ lữ hành được quy định như sau:
 
-Đang theo dõi
-
 a) Doanh nghiệp gửi đơn đề nghị cấp lại giấy phép kinh doanh dịch vụ lữ hành theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định đến cơ quan nhà nước có thẩm quyền cấp giấy phép;
-
-Đang theo dõi
 
 b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được đơn đề nghị của doanh nghiệp, cơ quan nhà nước có thẩm quyền cấp giấy phép có trách nhiệm cấp lại giấy phép kinh doanh dịch vụ lữ hành cho doanh nghiệp; trường hợp từ chối, phải thông báo bằng văn bản và nêu rõ lý do.
 
 Tổng cục Du lịch thông báo cho cơ quan chuyên môn về du lịch cấp tỉnh nơi doanh nghiệp có trụ sở khi cấp lại Giấy phép kinh doanh dịch vụ lữ hành quốc tế.
 
-Đang theo dõi
-
 Điều 35. Cấp đổi giấy phép kinh doanh dịch vụ lữ hành
-
-Đang theo dõi
 
 1. Doanh nghiệp đề nghị cấp đổi giấy phép kinh doanh dịch vụ lữ hành trong các trường hợp sau đây:
 
-Đang theo dõi
-
 a) Thay đổi Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư;
-
-Đang theo dõi
 
 b) Thay đổi phạm vi kinh doanh dịch vụ lữ hành quốc tế.
 
-Đang theo dõi
-
 2. Hồ sơ đề nghị cấp đổi giấy phép kinh doanh dịch vụ lữ hành bao gồm:
-
-Đang theo dõi
 
 a) Đơn đề nghị cấp đổi giấy phép kinh doanh dịch vụ lữ hành theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
 
-Đang theo dõi
-
 b) Giấy phép kinh doanh dịch vụ lữ hành của doanh nghiệp;
-
-Đang theo dõi
 
 c) Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư trong trường hợp quy định tại điểm a khoản 1 Điều này; giấy chứng nhận ký quỹ kinh doanh dịch vụ lữ hành phù hợp với phạm vi kinh doanh trong trường hợp quy định tại điểm b khoản 1 Điều này.
 
-Đang theo dõi
-
 3. Trình tự, thủ tục cấp đổi giấy phép kinh doanh dịch vụ lữ hành được quy định như sau:
 
-Đang theo dõi
-
 a) Doanh nghiệp nộp 01 bộ hồ sơ đến cơ quan nhà nước có thẩm quyền đã cấp giấy phép;
-
-Đang theo dõi
 
 b) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền cấp giấy phép có trách nhiệm cấp đổi giấy phép kinh doanh dịch vụ lữ hành cho doanh nghiệp; trường hợp từ chối, phải thông báo bằng văn bản và nêu rõ lý do.
 
 Tổng cục Du lịch thông báo cho cơ quan chuyên môn về du lịch cấp tỉnh nơi doanh nghiệp có trụ sở khi cấp đổi Giấy phép kinh doanh dịch vụ lữ hành quốc tế.
 
-Đang theo dõi
-
 Điều 36. Thu hồi giấy phép kinh doanh dịch vụ lữ hành
-
-Đang theo dõi
 
 1. Doanh nghiệp bị thu hồi giấy phép kinh doanh dịch vụ lữ hành trong các trường hợp sau đây:
 
-Đang theo dõi
-
 a) Chấm dứt hoạt động kinh doanh dịch vụ lữ hành, giải thể hoặc phá sản;
-
-Đang theo dõi
 
 b) Không đáp ứng một trong các điều kiện kinh doanh dịch vụ lữ hành quy định tại khoản 1 hoặc khoản 2 Điều 31 của Luật này;
 
-Đang theo dõi
-
 c) Không đổi giấy phép kinh doanh dịch vụ lữ hành theo quy định tại khoản 1 Điều 35 của Luật này;
-
-Đang theo dõi
 
 d) Làm phương hại đến chủ quyền, lợi ích quốc gia, quốc phòng, an ninh;
 
-Đang theo dõi
-
 đ) Lợi dụng hoạt động du lịch để đưa người từ Việt Nam ra nước ngoài hoặc từ nước ngoài vào Việt Nam trái pháp luật;
-
-Đang theo dõi
 
 e) Cho tổ chức, cá nhân khác sử dụng giấy phép kinh doanh dịch vụ lữ hành của doanh nghiệp để hoạt động kinh doanh;
 
-Đang theo dõi
-
 g) Không thực hiện đầy đủ nghĩa vụ quy định tại điểm i khoản 1 Điều 37 của Luật này, gây thiệt hại nghiêm trọng đến tính mạng, sức khỏe, tài sản của khách du lịch;
-
-Đang theo dõi
 
 h) Giả mạo hồ sơ đề nghị cấp, cấp đổi, cấp lại giấy phép kinh doanh dịch vụ lữ hành.
 
-Đang theo dõi
-
 2. Doanh nghiệp đã bị thu hồi giấy phép kinh doanh dịch vụ lữ hành theo quy định tại điểm b và điểm c khoản 1 Điều này chỉ được đề nghị cấp giấy phép kinh doanh dịch vụ lữ hành sau 06 tháng kể từ ngày quyết định thu hồi giấy phép có hiệu lực. Doanh nghiệp đã bị thu hồi giấy phép kinh doanh dịch vụ lữ hành theo quy định tại các điểm d, đ, e, g và h khoản 1 Điều này chỉ được đề nghị cấp giấy phép kinh doanh dịch vụ lữ hành sau 12 tháng kể từ ngày quyết định thu hồi giấy phép có hiệu lực.
-
-Đang theo dõi
 
 3. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định trình tự, thủ tục thu hồi giấy phép kinh doanh dịch vụ lữ hành.
 
-Đang theo dõi
-
 Điều 37. Quyền và nghĩa vụ của doanh nghiệp kinh doanh dịch vụ lữ hành
-
-Đang theo dõi
 
 1. Doanh nghiệp kinh doanh dịch vụ lữ hành nội địa có quyền và nghĩa vụ sau đây:
 
-Đang theo dõi
-
 a) Xây dựng, quảng cáo, bán và tổ chức thực hiện các dịch vụ du lịch, chương trình du lịch cho khách du lịch theo phạm vi kinh doanh quy định trong giấy phép;
-
-Đang theo dõi
 
 b) Bảo đảm duy trì các điều kiện kinh doanh dịch vụ lữ hành theo quy định tại khoản 1 Điều 31 của Luật này; công khai tên doanh nghiệp, số giấy phép kinh doanh dịch vụ lữ hành trên biển hiệu tại trụ sở, chi nhánh, văn phòng giao dịch, trong hợp đồng lữ hành, trên ấn phẩm quảng cáo và trong giao dịch điện tử;
 
-Đang theo dõi
-
 c) Thông báo về việc thay đổi người phụ trách kinh doanh dịch vụ lữ hành, gửi hồ sơ về người phụ trách kinh doanh dịch vụ lữ hành thay thế cho cơ quan nhà nước có thẩm quyền cấp giấy phép trong thời hạn 15 ngày kể từ khi thay đổi;
-
-Đang theo dõi
 
 d) Cung cấp thông tin về chương trình, dịch vụ, điểm đến du lịch cho khách du lịch;
 
-Đang theo dõi
-
 đ) Mua bảo hiểm cho khách du lịch trong thời gian thực hiện chương trình du lịch, trừ trường hợp khách du lịch đã có bảo hiểm cho toàn bộ chương trình du lịch;
-
-Đang theo dõi
 
 e) Sử dụng hướng dẫn viên du lịch để hướng dẫn khách du lịch theo hợp đồng lữ hành; chịu trách nhiệm về hoạt động của hướng dẫn viên du lịch trong thời gian hướng dẫn khách du lịch theo hợp đồng;
 
-Đang theo dõi
-
 g) Chấp hành, phổ biến, hướng dẫn khách du lịch tuân thủ pháp luật, quy định của nơi đến du lịch; ứng xử văn minh, tôn trọng bản sắc văn hóa, phong tục, tập quán của Việt Nam và nơi đến du lịch; phối hợp với cơ quan nhà nước có thẩm quyền xử lý kịp thời các hành vi vi phạm pháp luật của khách du lịch trong thời gian tham gia chương trình du lịch;
-
-Đang theo dõi
 
 h) Thực hiện chế độ báo cáo, thống kê, kế toán, lưu giữ hồ sơ theo quy định của pháp luật;
 
-Đang theo dõi
-
 i) Áp dụng biện pháp bảo đảm an toàn tính mạng, sức khỏe, tài sản của khách du lịch; kịp thời thông báo cho cơ quan nhà nước có thẩm quyền về tai nạn, rủi ro xảy ra với khách du lịch và có biện pháp khắc phục hậu quả;
-
-Đang theo dõi
 
 k) Quản lý khách du lịch theo chương trình du lịch đã thỏa thuận với khách du lịch.
 
-Đang theo dõi
-
 2. Doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch quốc tế đến Việt Nam có quyền và nghĩa vụ sau đây:
-
-Đang theo dõi
 
 a) Quyền và nghĩa vụ quy định tại các điểm a, c, d, đ, e, g, h, i và k khoản 1 Điều này;
 
-Đang theo dõi
-
 b) Bảo đảm duy trì điều kiện kinh doanh dịch vụ lữ hành theo quy định tại khoản 2 Điều 31 của Luật này; công khai tên doanh nghiệp, số giấy phép kinh doanh dịch vụ lữ hành trên biển hiệu tại trụ sở, chi nhánh, văn phòng giao dịch, trong hợp đồng lữ hành, trên ấn phẩm quảng cáo và trong giao dịch điện tử;
-
-Đang theo dõi
 
 c) Hỗ trợ khách du lịch làm thủ tục nhập cảnh, xuất cảnh, quá cảnh, hải quan.
 
-Đang theo dõi
-
 3. Doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch ra nước ngoài có quyền và nghĩa vụ sau đây:
-
-Đang theo dõi
 
 a) Quyền và nghĩa vụ quy định tại các điểm a, c, d, đ, g, h, i và k khoản 1, điểm b và điểm c khoản 2 Điều này;
 
-Đang theo dõi
-
 b) Sử dụng hướng dẫn viên du lịch quốc tế để đưa khách du lịch ra nước ngoài theo hợp đồng lữ hành; chịu trách nhiệm về hoạt động của hướng dẫn viên du lịch trong thời gian đưa khách du lịch ra nước ngoài.
-
-Đang theo dõi
 
 Điều 38. Doanh nghiệp có vốn đầu tư nước ngoài kinh doanh dịch vụ lữ hành
 
-Đang theo dõi
-
 1. Nhà đầu tư nước ngoài được góp vốn với đối tác Việt Nam để thành lập doanh nghiệp kinh doanh dịch vụ lữ hành theo pháp luật Việt Nam và điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên.
-
-Đang theo dõi
 
 2. Điều kiện, hồ sơ, trình tự, thủ tục, thẩm quyền cấp, cấp lại, cấp đổi, thu hồi giấy phép kinh doanh dịch vụ lữ hành đối với doanh nghiệp có vốn đầu tư nước ngoài thực hiện theo quy định tại các điều 31, 33, 34, 35 và 36 của Luật này.
 
-Đang theo dõi
-
 3. Doanh nghiệp có vốn đầu tư nước ngoài kinh doanh dịch vụ lữ hành có các quyền và nghĩa vụ quy định tại khoản 2 Điều 37 của Luật này.
-
-Đang theo dõi
 
 Điều 39. Hợp đồng lữ hành
 
-Đang theo dõi
-
 1. Hợp đồng lữ hành là sự thỏa thuận việc thực hiện chương trình du lịch giữa doanh nghiệp kinh doanh dịch vụ lữ hành với doanh nghiệp, khách du lịch hoặc đại diện của khách du lịch.
-
-Đang theo dõi
 
 2. Hợp đồng lữ hành phải được lập thành văn bản.
 
-Đang theo dõi
-
 3. Hợp đồng lữ hành phải có các nội dung sau đây:
-
-Đang theo dõi
 
 a) Mô tả rõ ràng số lượng, chất lượng, giá dịch vụ, thời gian, cách thức cung cấp dịch vụ trong chương trình du lịch;
 
-Đang theo dõi
-
 b) Giá trị hợp đồng và phương thức thanh toán;
-
-Đang theo dõi
 
 c) Điều khoản loại trừ trách nhiệm trong trường hợp bất khả kháng;
 
-Đang theo dõi
-
 d) Điều kiện và trách nhiệm tài chính liên quan đến việc thay đổi, bổ sung, hủy bỏ hợp đồng;
-
-Đang theo dõi
 
 đ) Điều khoản về bảo hiểm cho khách du lịch.
 
-Đang theo dõi
-
 Điều 40. Kinh doanh đại lý lữ hành
-
-Đang theo dõi
 
 1. Kinh doanh đại lý lữ hành là việc tổ chức, cá nhân nhận bán chương trình du lịch của doanh nghiệp kinh doanh dịch vụ lữ hành cho khách du lịch để hưởng hoa hồng.
 
-Đang theo dõi
-
 2. Tổ chức, cá nhân kinh doanh đại lý lữ hành phải đăng ký kinh doanh tại cơ quan nhà nước có thẩm quyền và có hợp đồng đại lý với doanh nghiệp kinh doanh dịch vụ lữ hành.
-
-Đang theo dõi
 
 3. Trường hợp khách du lịch mua chương trình du lịch thông qua đại lý lữ hành thì hợp đồng lữ hành được giao kết giữa khách du lịch và doanh nghiệp kinh doanh dịch vụ lữ hành giao đại lý; trong hợp đồng phải ghi tên, địa chỉ của đại lý lữ hành.
 
-Đang theo dõi
-
 Điều 41. Hợp đồng đại lý lữ hành
-
-Đang theo dõi
 
 1. Hợp đồng đại lý lữ hành phải được lập thành văn bản giữa bên giao đại lý là doanh nghiệp kinh doanh dịch vụ lữ hành và bên nhận đại lý là tổ chức, cá nhân kinh doanh đại lý lữ hành.
 
-Đang theo dõi
-
 2. Hợp đồng đại lý lữ hành phải có các nội dung sau đây:
-
-Đang theo dõi
 
 a) Tên, địa chỉ của bên giao đại lý và bên nhận đại lý;
 
-Đang theo dõi
-
 b) Chương trình du lịch, giá bán chương trình du lịch được giao cho đại lý, mức hoa hồng đại lý, thời điểm thanh toán;
-
-Đang theo dõi
 
 c) Quyền và trách nhiệm của các bên;
 
-Đang theo dõi
-
 d) Thời hạn hiệu lực của hợp đồng đại lý.
-
-Đang theo dõi
 
 Điều 42. Trách nhiệm của bên giao đại lý lữ hành
 
-Đang theo dõi
-
 1. Kiểm tra, giám sát việc thực hiện hợp đồng của bên nhận đại lý lữ hành.
-
-Đang theo dõi
 
 2. Tổ chức thực hiện chương trình du lịch do bên nhận đại lý lữ hành bán; chịu trách nhiệm với khách du lịch về chương trình du lịch giao cho bên nhận đại lý lữ hành.
 
-Đang theo dõi
-
 3. Hướng dẫn, cung cấp cho bên nhận đại lý lữ hành thông tin liên quan đến chương trình du lịch.
-
-Đang theo dõi
 
 Điều 43. Trách nhiệm của đại lý lữ hành
 
-Đang theo dõi
-
 1. Thông báo cho cơ quan chuyên môn về du lịch cấp tỉnh thời điểm bắt đầu hoạt động kinh doanh, địa điểm kinh doanh, thông tin về doanh nghiệp giao đại lý lữ hành.
-
-Đang theo dõi
 
 2. Thực hiện việc bán chương trình du lịch đúng nội dung và đúng giá như hợp đồng đại lý; không được tổ chức thực hiện chương trình du lịch.
 
-Đang theo dõi
-
 3. Lập và lưu giữ hồ sơ về chương trình du lịch đã bán cho khách du lịch theo quy định của pháp luật.
-
-Đang theo dõi
 
 4. Treo biển đại lý lữ hành ở vị trí dễ nhận biết tại trụ sở đại lý.
 
-Đang theo dõi
-
 Điều 44. Văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài
-
-Đang theo dõi
 
 1. Việc thành lập văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài được thực hiện theo quy định của pháp luật về thương mại.
 
-Đang theo dõi
-
 2. Cơ quan chuyên môn về du lịch cấp tỉnh tiếp nhận, thẩm định hồ sơ, cấp, cấp lại, điều chỉnh, gia hạn, thu hồi Giấy phép thành lập văn phòng đại diện tại Việt Nam của doanh nghiệp kinh doanh dịch vụ lữ hành nước ngoài.
-
-Đang theo dõi
 
 Mục 2. VẬN TẢI KHÁCH DU LỊCH
 
-Đang theo dõi
-
 Điều 45. Kinh doanh vận tải khách du lịch
-
-Đang theo dõi
 
 1. Kinh doanh vận tải khách du lịch là việc cung cấp dịch vụ vận tải đường hàng không, đường biển, đường thủy nội địa, đường sắt, đường bộ chuyên phục vụ khách du lịch theo chương trình du lịch, tại khu du lịch, điểm du lịch.
 
-Đang theo dõi
-
 2. Tổ chức, cá nhân kinh doanh vận tải khách du lịch quy định tại khoản 1 Điều này phải đáp ứng điều kiện kinh doanh vận tải; quy chuẩn kỹ thuật, bảo vệ môi trường của phương tiện vận tải; điều kiện của người điều khiển phương tiện vận tải, nhân viên phục vụ, trang thiết bị, chất lượng dịch vụ trên từng loại phương tiện vận tải theo quy định của pháp luật.
-
-Đang theo dõi
 
 3. Bộ trưởng Bộ Giao thông vận tải quy định điều kiện của người điều khiển phương tiện, nhân viên phục vụ, trang thiết bị, chất lượng dịch vụ trên phương tiện vận tải khách du lịch sau khi có ý kiến của Bộ Văn hóa, Thể thao và Du lịch.
 
-Đang theo dõi
-
 Điều 46. Cấp biển hiệu phương tiện vận tải khách du lịch
-
-Đang theo dõi
 
 1. Phương tiện vận tải khách du lịch được cấp biển hiệu khi đáp ứng các điều kiện quy định tại khoản 2 Điều 45 của Luật này.
 
-Đang theo dõi
-
 2. Phương tiện vận tải khách du lịch có biển hiệu được vận tải hành khách theo hợp đồng và được ưu tiên bố trí nơi neo đậu, dừng, đỗ để đón, trả khách du lịch tại sân bay, bến cảng, nhà ga, bến xe, trong khu du lịch, gần điểm du lịch, cơ sở lưu trú du lịch và được hoạt động không hạn chế thời gian trên các tuyến giao thông dẫn tới các điểm tham quan du lịch, cơ sở lưu trú du lịch, điểm cung ứng dịch vụ du lịch theo quy định của chính quyền địa phương.
-
-Đang theo dõi
 
 3. Chính phủ quy định trình tự, thủ tục, thẩm quyền cấp biển hiệu phương tiện vận tải khách du lịch.
 
-Đang theo dõi
-
 Điều 47. Quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh vận tải khách du lịch
-
-Đang theo dõi
 
 1. Vận tải khách du lịch theo hợp đồng với doanh nghiệp kinh doanh dịch vụ lữ hành, với khách du lịch theo hành trình, tuyến đường phù hợp.
 
-Đang theo dõi
-
 2. Mua bảo hiểm cho khách du lịch theo phương tiện vận tải.
-
-Đang theo dõi
 
 3. Bảo đảm các tiêu chuẩn, điều kiện theo quy định trong suốt quá trình khai thác, sử dụng phương tiện vận tải.
 
-Đang theo dõi
-
 4. Gắn biển hiệu vận tải khách du lịch ở nơi dễ nhận biết trên phương tiện vận tải.
-
-Đang theo dõi
 
 Mục 3. LƯU TRÚ DU LỊCH
 
-Đang theo dõi
-
 Điều 48. Các loại cơ sở lưu trú du lịch
-
-Đang theo dõi
 
 1. Khách sạn.
 
-Đang theo dõi
-
 2. Biệt thự du lịch.
-
-Đang theo dõi
 
 3. Căn hộ du lịch.
 
-Đang theo dõi
-
 4. Tàu thủy lưu trú du lịch.
-
-Đang theo dõi
 
 5. Nhà nghỉ du lịch.
 
-Đang theo dõi
-
 6. Nhà ở có phòng cho khách du lịch thuê.
-
-Đang theo dõi
 
 7. Bãi cắm trại du lịch.
 
-Đang theo dõi
-
 8. Các cơ sở lưu trú du lịch khác.
-
-Đang theo dõi
 
 Điều 49. Điều kiện kinh doanh dịch vụ lưu trú du lịch
 
-Đang theo dõi
-
 1. Điều kiện kinh doanh dịch vụ lưu trú du lịch bao gồm:
-
-Đang theo dõi
 
 a) Có đăng ký kinh doanh theo quy định của pháp luật;
 
-Đang theo dõi
-
 b) Đáp ứng điều kiện về an ninh, trật tự, an toàn về phòng cháy và chữa cháy, bảo vệ môi trường, an toàn thực phẩm theo quy định của pháp luật;
-
-Đang theo dõi
 
 c) Đáp ứng điều kiện tối thiểu về cơ sở vật chất kỹ thuật và dịch vụ phục vụ khách du lịch.
 
-Đang theo dõi
-
 2. Chính phủ quy định chi tiết điểm c khoản 1 Điều này.
-
-Đang theo dõi
 
 Điều 50. Xếp hạng cơ sở lưu trú du lịch
 
-Đang theo dõi
-
 1. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch được tự nguyện đăng ký xếp hạng cơ sở lưu trú du lịch với cơ quan nhà nước có thẩm quyền.
-
-Đang theo dõi
 
 2. Khách sạn, biệt thự du lịch, căn hộ du lịch, tàu thủy lưu trú du lịch được xếp hạng theo tiêu chuẩn quốc gia về xếp hạng cơ sở lưu trú du lịch. Hạng cơ sở lưu trú du lịch bao gồm 01 sao, 02 sao, 03 sao, 04 sao và 05 sao.
 
-Đang theo dõi
-
 3. Thẩm quyền thẩm định, công nhận hạng cơ sở lưu trú du lịch được quy định như sau:
-
-Đang theo dõi
 
 a) Tổng cục Du lịch thẩm định, công nhận cơ sở lưu trú du lịch hạng 04 sao và hạng 05 sao;
 
-Đang theo dõi
-
 b) Cơ quan chuyên môn về du lịch cấp tỉnh thẩm định, công nhận cơ sở lưu trú du lịch hạng 01 sao, hạng 02 sao và hạng 03 sao.
-
-Đang theo dõi
 
 4. Hồ sơ đăng ký công nhận hạng cơ sở lưu trú du lịch bao gồm:
 
-Đang theo dõi
-
 a) Đơn đề nghị công nhận hạng cơ sở lưu trú du lịch theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
-
-Đang theo dõi
 
 b) Bản tự đánh giá chất lượng của cơ sở lưu trú du lịch theo quy định trong tiêu chuẩn quốc gia về xếp hạng cơ sở lưu trú du lịch;
 
-Đang theo dõi
-
 c) Danh sách người quản lý và nhân viên trong cơ sở lưu trú du lịch;
-
-Đang theo dõi
 
 d) Bản sao có chứng thực văn bằng, chứng chỉ, giấy chứng nhận bồi dưỡng nghiệp vụ và giấy chứng nhận thời gian làm việc trong lĩnh vực du lịch của người quản lý, trưởng bộ phận trong cơ sở lưu trú du lịch.
 
-Đang theo dõi
-
 5. Trình tự, thủ tục công nhận hạng cơ sở lưu trú du lịch được quy định như sau:
-
-Đang theo dõi
 
 a) Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch nộp 01 bộ hồ sơ đến cơ quan nhà nước có thẩm quyền quy định tại khoản 3 Điều này. Trường hợp hồ sơ không hợp lệ, trong thời hạn 03 ngày làm việc kể từ ngày nhận được hồ sơ, cơ quan nhà nước có thẩm quyền phải thông báo bằng văn bản và nêu rõ yêu cầu sửa đổi, bổ sung;
 
-Đang theo dõi
-
 b) Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền chủ trì, phối hợp với tổ chức xã hội - nghề nghiệp về du lịch thẩm định và ra quyết định công nhận hạng cơ sở lưu trú du lịch; trường hợp không công nhận, phải thông báo bằng văn bản và nêu rõ lý do.
-
-Đang theo dõi
 
 6. Quyết định công nhận hạng cơ sở lưu trú du lịch có thời hạn 05 năm. Sau khi hết thời hạn, tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch có nhu cầu đăng ký xếp hạng lại cơ sở lưu trú du lịch thực hiện theo quy định tại các khoản 4, 5 và 7 Điều này.
 
-Đang theo dõi
-
 7. Phí thẩm định công nhận hạng cơ sở lưu trú du lịch được thực hiện theo quy định của pháp luật về phí và lệ phí.
-
-Đang theo dõi
 
 8. Biển công nhận hạng cơ sở lưu trú du lịch được gắn ở khu vực cửa chính của cơ sở lưu trú du lịch.
 
 Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định mẫu biển công nhận hạng cơ sở lưu trú du lịch.
 
-Đang theo dõi
-
 Điều 51. Công bố, kiểm tra chất lượng cơ sở lưu trú du lịch
-
-Đang theo dõi
 
 1. Tổng cục Du lịch công bố danh sách cơ sở lưu trú du lịch đã được xếp hạng theo thẩm quyền; hướng dẫn, kiểm tra việc xếp hạng cơ sở lưu trú du lịch của cơ quan chuyên môn về du lịch cấp tỉnh; tổ chức kiểm tra chất lượng cơ sở lưu trú du lịch trên toàn quốc.
 
-Đang theo dõi
-
 2. Cơ quan chuyên môn về du lịch cấp tỉnh công bố danh sách cơ sở lưu trú du lịch đã được xếp hạng theo thẩm quyền; tổ chức kiểm tra chất lượng cơ sở lưu trú du lịch trên địa bàn.
-
-Đang theo dõi
 
 Điều 52. Thu hồi quyết định công nhận hạng, thay đổi hạng cơ sở lưu trú du lịch
 
-Đang theo dõi
-
 1. Cơ quan nhà nước có thẩm quyền công nhận hạng cơ sở lưu trú du lịch thu hồi quyết định công nhận hạng đối với cơ sở lưu trú du lịch không duy trì chất lượng theo tiêu chuẩn đã được công nhận.
-
-Đang theo dõi
 
 2. Khi có sự thay đổi về cơ sở vật chất kỹ thuật, dịch vụ, tổ chức, cá nhân kinh doanh cơ sở lưu trú du lịch đề nghị cơ quan nhà nước có thẩm quyền thẩm định lại để công nhận hạng cơ sở lưu trú du lịch. Hồ sơ, trình tự, thủ tục thay đổi hạng cơ sở lưu trú du lịch thực hiện theo quy định tại các khoản 4, 5, 6 và 7 Điều 50 của Luật này.
 
-Đang theo dõi
-
 Điều 53. Quyền và nghĩa vụ của tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch
-
-Đang theo dõi
 
 1. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch có quyền sau đây:
 
-Đang theo dõi
-
 a) Từ chối tiếp nhận khách du lịch có hành vi vi phạm pháp luật, vi phạm nội quy của cơ sở lưu trú du lịch hoặc khi cơ sở lưu trú du lịch không còn khả năng đáp ứng yêu cầu của khách du lịch;
-
-Đang theo dõi
 
 b) Hủy bỏ hợp đồng cung cấp dịch vụ đối với khách du lịch có hành vi vi phạm pháp luật, vi phạm nội quy của cơ sở lưu trú du lịch.
 
-Đang theo dõi
-
 2. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch có nghĩa vụ sau đây:
-
-Đang theo dõi
 
 a) Bảo đảm duy trì điều kiện kinh doanh dịch vụ lưu trú du lịch theo quy định tại khoản 1 Điều 49 của Luật này;
 
-Đang theo dõi
-
 b) Niêm yết công khai giá bán hàng hóa và dịch vụ, nội quy của cơ sở lưu trú du lịch;
-
-Đang theo dõi
 
 c) Bồi thường thiệt hại cho khách du lịch theo quy định của pháp luật về dân sự;
 
-Đang theo dõi
-
 d) Thông báo bằng văn bản cho cơ quan chuyên môn về du lịch cấp tỉnh nơi có cơ sở lưu trú du lịch khi có sự thay đổi về tên cơ sở, quy mô, địa chỉ, người đại diện theo pháp luật;
-
-Đang theo dõi
 
 đ) Chỉ được sử dụng từ “sao” hoặc hình ảnh ngôi sao để quảng cáo về hạng cơ sở lưu trú du lịch sau khi được cơ quan nhà nước có thẩm quyền công nhận hạng cơ sở lưu trú du lịch;
 
-Đang theo dõi
-
 e) Thực hiện chế độ báo cáo, thống kê, kế toán theo quy định của pháp luật.
-
-Đang theo dõi
 
 3. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch đã được công nhận hạng có quyền và nghĩa vụ sau đây:
 
-Đang theo dõi
-
 a) Quyền và nghĩa vụ quy định tại khoản 1 và khoản 2 Điều này;
-
-Đang theo dõi
 
 b) Treo biển công nhận hạng cơ sở lưu trú du lịch và quảng cáo đúng với loại, hạng đã được công nhận;
 
-Đang theo dõi
-
 c) Duy trì chất lượng của cơ sở lưu trú du lịch theo đúng loại, hạng đã được công nhận.
-
-Đang theo dõi
 
 Mục 4. DỊCH VỤ DU LỊCH KHÁC
 
-Đang theo dõi
-
 Điều 54. Các loại dịch vụ du lịch khác
-
-Đang theo dõi
 
 1. Dịch vụ ăn uống.
 
-Đang theo dõi
-
 2. Dịch vụ mua sắm.
-
-Đang theo dõi
 
 3. Dịch vụ thể thao.
 
-Đang theo dõi
-
 4. Dịch vụ vui chơi, giải trí.
-
-Đang theo dõi
 
 5. Dịch vụ chăm sóc sức khỏe.
 
-Đang theo dõi
-
 6. Dịch vụ liên quan khác phục vụ khách du lịch.
-
-Đang theo dõi
 
 Điều 55. Phát triển các loại dịch vụ du lịch khác
 
 Nhà nước khuyến khích tổ chức, cá nhân thực hiện các hoạt động sau đây:
 
-Đang theo dõi
-
 1. Đầu tư, xây dựng các chuỗi nhà hàng ăn uống, khu ẩm thực, lễ hội ẩm thực nhằm bảo tồn và phát huy các giá trị ẩm thực truyền thống, tiếp thu tinh hoa ẩm thực thế giới;
-
-Đang theo dõi
 
 2. Đầu tư, xây dựng các khu phố mua sắm, trung tâm mua sắm, chuỗi cửa hàng kinh doanh hàng hóa, đồ lưu niệm, hàng thủ công mỹ nghệ có xuất xứ trong nước, cửa hàng miễn thuế; tổ chức các chương trình khuyến mại hằng năm;
 
-Đang theo dõi
-
 3. Đầu tư phát triển dịch vụ du lịch gắn với thể thao trên cơ sở tài nguyên du lịch và lợi thế về địa hình của Việt Nam; tổ chức các sự kiện thể thao để thu hút khách du lịch;
-
-Đang theo dõi
 
 4. Xây dựng và tổ chức các chương trình nghệ thuật biểu diễn truyền thống và đương đại; kết nối hệ thống bảo tàng, nhà hát với hoạt động du lịch; khai thác trò chơi dân gian, lễ hội truyền thống hấp dẫn khách du lịch; xây dựng các công viên chủ đề, trung tâm giải trí;
 
-Đang theo dõi
-
 5. Cung cấp các dịch vụ y tế, chăm sóc sức khỏe, chăm sóc sắc đẹp trên cơ sở khai thác giá trị y học cổ truyền, y học hiện đại;
-
-Đang theo dõi
 
 6. Cung cấp các dịch vụ có liên quan khác theo nhu cầu của khách du lịch và phù hợp với quy định của pháp luật.
 
-Đang theo dõi
-
 Điều 56. Công nhận cơ sở kinh doanh dịch vụ du lịch khác đạt tiêu chuẩn phục vụ khách du lịch
-
-Đang theo dõi
 
 1. Tổ chức, cá nhân kinh doanh dịch vụ du lịch khác được tự nguyện đăng ký công nhận cơ sở kinh doanh dịch vụ du lịch khác đạt tiêu chuẩn phục vụ khách du lịch với cơ quan nhà nước có thẩm quyền.
 
-Đang theo dõi
-
 2. Hồ sơ đăng ký công nhận bao gồm:
-
-Đang theo dõi
 
 a) Đơn đề nghị theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
 
-Đang theo dõi
-
 b) Bản thuyết minh đáp ứng các tiêu chuẩn phục vụ khách du lịch.
-
-Đang theo dõi
 
 3. Trình tự, thủ tục, thẩm quyền công nhận được quy định như sau:
 
-Đang theo dõi
-
 a) Tổ chức, cá nhân kinh doanh dịch vụ du lịch khác nộp 01 bộ hồ sơ đến cơ quan chuyên môn về du lịch cấp tỉnh nơi đặt cơ sở kinh doanh;
 
-Đang theo dõi
-
 b) Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn về du lịch cấp tỉnh thẩm định và công nhận; trường hợp không công nhận, phải trả lời bằng văn bản và nêu rõ lý do.
-
-Đang theo dõi
 
 - Theo quy định tại điểm I khoản C Tiểu mục 2.2 Mục 2 Phụ lục I.9 Nghị quyết 66.18/2026/NQ-CP: Cắt giảm thời hạn giải quyết thủ tục công nhận cơ sở kinh doanh dịch vụ thể thao đạt tiêu chuẩn phục vụ khách du lịch được quy định tại điểm b khoản 3 Điều 56 Luật Du lịch số 09/2017/QH14;
 
@@ -2014,753 +904,383 @@ b) Trong thời hạn 20 ngày kể từ ngày nhận được hồ sơ hợp l�
 
 - Theo quy định tại điểm V khoản C Tiểu mục 2.2 Mục 2 Phụ lục I.9 Nghị quyết 66.18/2026/NQ-CP: Cắt giảm thời hạn giải quyết thủ tục công nhận cơ sở kinh doanh dịch vụ ăn uống đạt tiêu chuẩn phục vụ khách du lịch được quy định tại điểm b khoản 3 Điều 56 Luật Du lịch số 09/2017/QH14.
 
-Đang theo dõi
-
 4. Phí thẩm định công nhận cơ sở kinh doanh dịch vụ du lịch khác đạt tiêu chuẩn phục vụ khách du lịch được thực hiện theo quy định của pháp luật về phí và lệ phí.
-
-Đang theo dõi
 
 5. Quyết định công nhận cơ sở kinh doanh dịch vụ du lịch khác đạt tiêu chuẩn phục vụ khách du lịch có thời hạn 03 năm. Sau khi hết thời hạn, tổ chức, cá nhân kinh doanh dịch vụ du lịch khác có nhu cầu đăng ký công nhận lại cơ sở kinh doanh dịch vụ du lịch đạt tiêu chuẩn phục vụ khách du lịch thực hiện theo quy định tại các khoản 2, 3 và 4 Điều này.
 
-Đang theo dõi
-
 6. Cơ quan chuyên môn về du lịch cấp tỉnh có trách nhiệm tổ chức thanh tra, kiểm tra chất lượng cơ sở kinh doanh dịch vụ du lịch khác đã được công nhận đạt tiêu chuẩn phục vụ khách du lịch trên địa bàn; thu hồi quyết định công nhận trong trường hợp cơ sở kinh doanh dịch vụ du lịch không bảo đảm các tiêu chuẩn phục vụ khách du lịch theo quy định của pháp luật.
-
-Đang theo dõi
 
 7. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch ban hành tiêu chuẩn và mẫu biển hiệu đạt tiêu chuẩn phục vụ khách du lịch cho cơ sở kinh doanh dịch vụ du lịch khác.
 
-Đang theo dõi
-
 Điều 57. Quyền và nghĩa vụ của cơ sở kinh doanh dịch vụ du lịch khác được công nhận đạt tiêu chuẩn phục vụ khách du lịch
-
-Đang theo dõi
 
 1. Được đưa vào cơ sở dữ liệu xúc tiến du lịch quốc gia.
 
-Đang theo dõi
-
 2. Được ưu tiên tham gia các hoạt động xúc tiến du lịch do cơ quan quản lý nhà nước về du lịch ở trung ương và địa phương tổ chức.
-
-Đang theo dõi
 
 3. Được treo biển hiệu đạt tiêu chuẩn phục vụ khách du lịch và sử dụng danh hiệu này để quảng cáo, thu hút khách du lịch.
 
-Đang theo dõi
-
 4. Phải bảo đảm điều kiện kinh doanh, tiêu chuẩn phục vụ khách du lịch theo quy định của Luật này và quy định khác của pháp luật có liên quan trong suốt quá trình kinh doanh.
-
-Đang theo dõi
 
 Chương VI
 
 HƯỚNG DẪN VIÊN DU LỊCH
 
-Đang theo dõi
-
 Điều 58. Hướng dẫn viên du lịch, thẻ hướng dẫn viên du lịch
-
-Đang theo dõi
 
 1. Hướng dẫn viên du lịch bao gồm hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa và hướng dẫn viên du lịch tại điểm.
 
-Đang theo dõi
-
 2. Phạm vi hành nghề của hướng dẫn viên du lịch được quy định như sau:
-
-Đang theo dõi
 
 a) Hướng dẫn viên du lịch quốc tế được hướng dẫn cho khách du lịch nội địa, khách du lịch quốc tế đến Việt Nam trong phạm vi toàn quốc và đưa khách du lịch ra nước ngoài;
 
-Đang theo dõi
-
 b) Hướng dẫn viên du lịch nội địa được hướng dẫn cho khách du lịch nội địa là công dân Việt Nam trong phạm vi toàn quốc;
-
-Đang theo dõi
 
 c) Hướng dẫn viên du lịch tại điểm được hướng dẫn cho khách du lịch trong phạm vi khu du lịch, điểm du lịch.
 
-Đang theo dõi
-
 3. Điều kiện hành nghề của hướng dẫn viên du lịch bao gồm:
-
-Đang theo dõi
 
 a) Có thẻ hướng dẫn viên du lịch;
 
-Đang theo dõi
-
 b) Có hợp đồng lao động với doanh nghiệp kinh doanh dịch vụ lữ hành, doanh nghiệp cung cấp dịch vụ hướng dẫn du lịch hoặc là hội viên của tổ chức xã hội - nghề nghiệp về hướng dẫn du lịch đối với hướng dẫn viên du lịch quốc tế và hướng dẫn viên du lịch nội địa;
 
-Đang theo dõi
-
 c) Có hợp đồng hướng dẫn với doanh nghiệp kinh doanh dịch vụ lữ hành hoặc văn bản phân công hướng dẫn theo chương trình du lịch; đối với hướng dẫn viên du lịch tại điểm, phải có phân công của tổ chức, cá nhân quản lý khu du lịch, điểm du lịch.
-
-Đang theo dõi
 
 4. Thẻ hướng dẫn viên du lịch bao gồm thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa và thẻ hướng dẫn viên du lịch tại điểm.
 
 Thẻ hướng dẫn viên du lịch quốc tế và thẻ hướng dẫn viên du lịch nội địa có thời hạn 05 năm.
 
-Đang theo dõi
-
 5. Phí thẩm định cấp thẻ hướng dẫn viên du lịch được thực hiện theo quy định của pháp luật về phí và lệ phí.
-
-Đang theo dõi
 
 Điều 59. Điều kiện cấp thẻ hướng dẫn viên du lịch
 
-Đang theo dõi
-
 1. Điều kiện cấp thẻ hướng dẫn viên du lịch nội địa bao gồm:
-
-Đang theo dõi
 
 a) Có quốc tịch Việt Nam, thường trú tại Việt Nam;
 
-Đang theo dõi
-
 b) Có năng lực hành vi dân sự đầy đủ;
-
-Đang theo dõi
 
 c) Không mắc bệnh truyền nhiễm, không sử dụng chất ma túy;
 
-Đang theo dõi
-
 d) Tốt nghiệp trung cấp trở lên chuyên ngành hướng dẫn du lịch; trường hợp tốt nghiệp trung cấp trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ hướng dẫn du lịch nội địa.
-
-Đang theo dõi
 
 2. Điều kiện cấp thẻ hướng dẫn viên du lịch quốc tế bao gồm:
 
-Đang theo dõi
-
 a) Điều kiện quy định tại các điểm a, b và c khoản 1 Điều này;
-
-Đang theo dõi
 
 b) Tốt nghiệp cao đẳng trở lên chuyên ngành hướng dẫn du lịch; trường hợp tốt nghiệp cao đẳng trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ hướng dẫn du lịch quốc tế;
 
-Đang theo dõi
-
 c) Sử dụng thành thạo ngoại ngữ đăng ký hành nghề.
-
-Đang theo dõi
 
 3. Điều kiện cấp thẻ hướng dẫn viên du lịch tại điểm bao gồm:
 
-Đang theo dõi
-
 a) Điều kiện quy định tại các điểm a, b và c khoản 1 Điều này;
-
-Đang theo dõi
 
 b) Đạt yêu cầu kiểm tra nghiệp vụ hướng dẫn du lịch tại điểm do cơ quan chuyên môn về du lịch cấp tỉnh tổ chức.
 
-Đang theo dõi
-
 4. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết về mẫu thẻ, nội dung đào tạo, bồi dưỡng, tổ chức thi, cấp chứng chỉ nghiệp vụ hướng dẫn du lịch; nội dung kiểm tra nghiệp vụ hướng dẫn du lịch tại điểm; tiêu chuẩn thành thạo ngoại ngữ.
-
-Đang theo dõi
 
 Điều 60. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa
 
-Đang theo dõi
-
 Theo quy định tại điểm X khoản C Tiểu mục 2.2 Mục 2 Phụ lục I.9 Nghị quyết 66.18/2026/NQ-CP: Đơn giản hóa hồ sơ, trình tự, thủ tục cấp thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa quy định tại Điều 60 Luật Du lịch số 09/2017/QH14.
-
-Đang theo dõi
 
 1. Hồ sơ đề nghị cấp thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa bao gồm:
 
-Đang theo dõi
-
 a) Đơn đề nghị cấp thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
-
-Đang theo dõi
 
 b) Sơ yếu lý lịch có xác nhận của Ủy ban nhân dân cấp xã nơi cư trú;
 
-Đang theo dõi
-
 c) Bản sao có chứng thực các văn bằng, chứng chỉ tương ứng với điều kiện quy định tại điểm d khoản 1 hoặc điểm b và điểm c khoản 2 Điều 59 của Luật này;
-
-Đang theo dõi
 
 d) Giấy chứng nhận sức khỏe do cơ sở khám bệnh, chữa bệnh có thẩm quyền cấp trong thời hạn không quá 06 tháng tính đến thời điểm nộp hồ sơ;
 
-Đang theo dõi
-
 đ) 02 ảnh chân dung màu cỡ 3cm x 4cm.
-
-Đang theo dõi
 
 2. Trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du lịch quốc tế, thẻ hướng dẫn viên du lịch nội địa được quy định như sau:
 
-Đang theo dõi
-
 a) Người đề nghị cấp thẻ hướng dẫn viên du lịch nộp 01 bộ hồ sơ đến cơ quan chuyên môn về du lịch cấp tỉnh;
-
-Đang theo dõi
 
 b) Trong thời hạn 15 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan chuyên môn về du lịch cấp tỉnh cấp thẻ hướng dẫn viên du lịch cho người đề nghị; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
 
-Đang theo dõi
-
 Điều 61. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du lịch tại điểm
-
-Đang theo dõi
 
 Theo quy định tại điểm VI khoản C Tiểu mục 2.2 Mục 2 Phụ lục I.9 Nghị quyết 66.18/2026/NQ-CP: Đơn giản hóa hồ sơ, trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du lịch tại điểm quy định tại Điều 61 Luật Du lịch số 09/2017/QH14.
 
-Đang theo dõi
-
 1. Hồ sơ đề nghị cấp thẻ hướng dẫn viên du lịch tại điểm bao gồm:
-
-Đang theo dõi
 
 a) Đơn đề nghị cấp thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
 
-Đang theo dõi
-
 b) Giấy tờ quy định tại các điểm b, d và đ khoản 1 Điều 60 của Luật này.
-
-Đang theo dõi
 
 2. Trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du lịch tại điểm được quy định như sau:
 
-Đang theo dõi
-
 a) Cơ quan chuyên môn về du lịch cấp tỉnh định kỳ hằng năm công bố kế hoạch tổ chức kiểm tra nghiệp vụ hướng dẫn du lịch tại điểm;
-
-Đang theo dõi
 
 b) Người đề nghị cấp thẻ hướng dẫn viên du lịch tại điểm nộp 01 bộ hồ sơ đến cơ quan chuyên môn về du lịch cấp tỉnh;
 
-Đang theo dõi
-
 c) Cơ quan chuyên môn về du lịch cấp tỉnh tổ chức kiểm tra và cấp thẻ hướng dẫn viên du lịch tại điểm đối với người đã đạt yêu cầu kiểm tra nghiệp vụ trong thời hạn 10 ngày kể từ ngày có kết quả kiểm tra.
-
-Đang theo dõi
 
 Điều 62. Cấp đổi thẻ hướng dẫn viên du lịch
 
-Đang theo dõi
-
 Theo quy định tại điểm XI khoản C Tiểu mục 2.2 Mục 2 Phụ lục I.9 Nghị quyết 66.18/2026/NQ-CP: Đơn giản hóa hồ sơ, trình tự, thủ tục cấp đổi thẻ hướng dẫn viên du lịch quy định tại Điều 62 Luật Du lịch số 09/2017/QH14.
-
-Đang theo dõi
 
 1. Hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa làm thủ tục đề nghị cấp đổi thẻ hướng dẫn viên du lịch khi thẻ hết hạn sử dụng.
 
-Đang theo dõi
-
 2. Hồ sơ đề nghị cấp đổi thẻ hướng dẫn viên du lịch bao gồm:
-
-Đang theo dõi
 
 a) Đơn đề nghị cấp đổi thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
 
-Đang theo dõi
-
 b) Giấy tờ quy định tại các điểm b, d và đ khoản 1 Điều 60 của Luật này;
-
-Đang theo dõi
 
 c) Bản sao có chứng thực giấy chứng nhận đã qua khóa cập nhật kiến thức cho hướng dẫn viên du lịch do cơ quan nhà nước có thẩm quyền cấp;
 
-Đang theo dõi
-
 d) Thẻ hướng dẫn viên du lịch đã được cấp.
-
-Đang theo dõi
 
 3. Trình tự, thủ tục cấp đổi thẻ hướng dẫn viên du lịch được quy định như sau:
 
-Đang theo dõi
-
 a) Người đề nghị cấp đổi thẻ hướng dẫn viên du lịch nộp 01 bộ hồ sơ đến cơ quan nhà nước có thẩm quyền cấp thẻ;
-
-Đang theo dõi
 
 b) Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền cấp thẻ có trách nhiệm cấp đổi thẻ hướng dẫn viên du lịch cho người đề nghị; trường hợp từ chối, phải trả lời bằng văn bản và nêu rõ lý do.
 
-Đang theo dõi
-
 4. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết về khóa cập nhật kiến thức, giấy chứng nhận khóa cập nhật kiến thức cho hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa.
-
-Đang theo dõi
 
 Điều 63. Cấp lại thẻ hướng dẫn viên du lịch
 
-Đang theo dõi
-
 Theo quy định tại điểm XII khoản C Tiểu mục 2.2 Mục 2 Phụ lục I.9 Nghị quyết 66.18/2026/NQ-CP: Đơn giản hóa hồ sơ, trình tự, thủ tục cấp lại thẻ hướng dẫn viên du lịch quy định tại Điều 63 Luật Du lịch số 09/2017/QH14.
-
-Đang theo dõi
 
 1. Thẻ hướng dẫn viên du lịch được cấp lại trong trường hợp bị mất, bị hư hỏng hoặc thay đổi thông tin trên thẻ. Thời hạn của thẻ hướng dẫn viên du lịch được cấp lại bằng thời hạn còn lại của thẻ đã được cấp.
 
-Đang theo dõi
-
 2. Hồ sơ đề nghị cấp lại thẻ hướng dẫn viên du lịch bao gồm:
-
-Đang theo dõi
 
 a) Đơn đề nghị cấp lại thẻ hướng dẫn viên du lịch theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
 
-Đang theo dõi
-
 b) 02 ảnh chân dung màu cỡ 3cm x 4cm;
-
-Đang theo dõi
 
 c) Bản sao có chứng thực giấy tờ liên quan đến nội dung thay đổi trong trường hợp cấp lại thẻ do thay đổi thông tin trên thẻ hướng dẫn viên du lịch.
 
-Đang theo dõi
-
 3. Trình tự, thủ tục cấp lại thẻ hướng dẫn viên du lịch được quy định như sau:
-
-Đang theo dõi
 
 a) Người đề nghị cấp lại thẻ hướng dẫn viên du lịch nộp 01 bộ hồ sơ đến cơ quan nhà nước có thẩm quyền cấp thẻ;
 
-Đang theo dõi
-
 b) Trong thời hạn 10 ngày kể từ ngày nhận được hồ sơ hợp lệ, cơ quan nhà nước có thẩm quyền cấp thẻ cấp lại thẻ hướng dẫn viên du lịch cho người đề nghị; trường hợp từ chối phải trả lời bằng văn bản và nêu rõ lý do.
-
-Đang theo dõi
 
 Điều 64. Thu hồi thẻ hướng dẫn viên du lịch
 
-Đang theo dõi
-
 1. Thẻ hướng dẫn viên du lịch bị thu hồi trong trường hợp hướng dẫn viên du lịch có một trong các hành vi sau đây:
-
-Đang theo dõi
 
 a) Làm phương hại đến chủ quyền, lợi ích quốc gia, quốc phòng, an ninh;
 
-Đang theo dõi
-
 b) Cho cá nhân khác sử dụng thẻ hướng dẫn viên du lịch để hành nghề;
-
-Đang theo dõi
 
 c) Không bảo đảm điều kiện hành nghề, điều kiện cấp thẻ hướng dẫn viên du lịch theo quy định của Luật này;
 
-Đang theo dõi
-
 d) Giả mạo hồ sơ cấp, cấp đổi, cấp lại thẻ hướng dẫn viên du lịch.
-
-Đang theo dõi
 
 2. Cơ quan nhà nước có thẩm quyền cấp thẻ hướng dẫn viên du lịch quyết định thu hồi thẻ hướng dẫn viên du lịch và công bố công khai trên trang thông tin điện tử quản lý hướng dẫn viên du lịch của Tổng cục Du lịch và cơ quan thu hồi thẻ.
 
-Đang theo dõi
-
 3. Hướng dẫn viên du lịch đã bị thu hồi thẻ chỉ được đề nghị cơ quan nhà nước có thẩm quyền cấp thẻ hướng dẫn viên du lịch sau 12 tháng kể từ ngày bị thu hồi thẻ.
-
-Đang theo dõi
 
 Điều 65. Quyền và nghĩa vụ của hướng dẫn viên du lịch
 
-Đang theo dõi
-
 1. Hướng dẫn viên du lịch có quyền sau đây:
-
-Đang theo dõi
 
 a) Tham gia tổ chức xã hội - nghề nghiệp về hướng dẫn du lịch;
 
-Đang theo dõi
-
 b) Nhận tiền lương và khoản thù lao khác theo hợp đồng;
-
-Đang theo dõi
 
 c) Tham gia các khóa bồi dưỡng kiến thức, chuyên môn, nghiệp vụ, kỹ năng hành nghề hướng dẫn du lịch;
 
-Đang theo dõi
-
 d) Trong trường hợp khẩn cấp hoặc bất khả kháng, được quyền thay đổi chương trình du lịch, điều chỉnh tiêu chuẩn, dịch vụ của khách du lịch.
-
-Đang theo dõi
 
 2. Hướng dẫn viên du lịch có nghĩa vụ sau đây:
 
-Đang theo dõi
-
 a) Hướng dẫn khách du lịch theo nhiệm vụ được giao hoặc theo hợp đồng hướng dẫn;
-
-Đang theo dõi
 
 b) Tuân thủ, hướng dẫn khách du lịch tuân thủ pháp luật Việt Nam, pháp luật nơi đến du lịch, nội quy nơi đến tham quan; tôn trọng phong tục, tập quán của địa phương;
 
-Đang theo dõi
-
 c) Thông tin cho khách du lịch về chương trình du lịch, dịch vụ và các quyền, lợi ích hợp pháp của khách du lịch;
-
-Đang theo dõi
 
 d) Hướng dẫn khách du lịch theo đúng chương trình du lịch, có thái độ văn minh, tận tình và chu đáo với khách du lịch; báo cáo người phụ trách kinh doanh dịch vụ lữ hành quyết định thay đổi chương trình du lịch trong trường hợp khách du lịch có yêu cầu;
 
-Đang theo dõi
-
 đ) Có trách nhiệm hỗ trợ trong việc bảo đảm an toàn tính mạng, sức khỏe, tài sản của khách du lịch;
-
-Đang theo dõi
 
 e) Tham gia khóa cập nhật kiến thức theo quy định tại khoản 4 Điều 62 của Luật này;
 
-Đang theo dõi
-
 g) Đeo thẻ hướng dẫn viên du lịch trong khi hành nghề hướng dẫn du lịch;
-
-Đang theo dõi
 
 h) Hướng dẫn viên du lịch quốc tế và hướng dẫn viên du lịch nội địa phải mang theo giấy tờ phân công nhiệm vụ của doanh nghiệp tổ chức chương trình du lịch và chương trình du lịch bằng tiếng Việt trong khi hành nghề. Trường hợp hướng dẫn khách du lịch quốc tế thì hướng dẫn viên du lịch phải mang theo chương trình du lịch bằng tiếng Việt và tiếng nước ngoài.
 
-Đang theo dõi
-
 Điều 66. Trách nhiệm quản lý hướng dẫn viên du lịch
-
-Đang theo dõi
 
 1. Bộ Văn hóa, Thể thao và Du lịch có trách nhiệm thanh tra, kiểm tra hoạt động cấp thẻ hướng dẫn viên du lịch, hoạt động đào tạo, bồi dưỡng nghiệp vụ hướng dẫn du lịch và hoạt động hướng dẫn du lịch trên phạm vi toàn quốc.
 
-Đang theo dõi
-
 2. Cơ quan chuyên môn về du lịch cấp tỉnh có trách nhiệm thanh tra, kiểm tra hoạt động đào tạo, bồi dưỡng nghiệp vụ hướng dẫn du lịch và hoạt động hướng dẫn du lịch trên địa bàn.
-
-Đang theo dõi
 
 3. Doanh nghiệp kinh doanh dịch vụ lữ hành, doanh nghiệp cung cấp dịch vụ hướng dẫn du lịch có trách nhiệm sau đây:
 
-Đang theo dõi
-
 a) Kiểm tra, giám sát hoạt động của hướng dẫn viên du lịch trong việc tuân thủ pháp luật và hợp đồng đã ký với doanh nghiệp;
 
-Đang theo dõi
-
 b) Bồi dưỡng kiến thức, chuyên môn, nghiệp vụ, kỹ năng hành nghề hướng dẫn du lịch.
-
-Đang theo dõi
 
 Chương VII
 
 XÚC TIẾN DU LỊCH, QUỸ HỖ TRỢ PHÁT TRIỂN DU LỊCH
 
-Đang theo dõi
-
 Mục 1. XÚC TIẾN DU LỊCH
-
-Đang theo dõi
 
 Điều 67. Nội dung xúc tiến du lịch
 
-Đang theo dõi
-
 1. Quảng bá, giới thiệu về đất nước, con người Việt Nam, di sản văn hóa, di tích lịch sử - văn hóa, danh lam thắng cảnh, công trình lao động sáng tạo của con người, bản sắc văn hóa dân tộc nhằm tăng cường thu hút khách du lịch.
-
-Đang theo dõi
 
 2. Xây dựng, phát triển thương hiệu du lịch quốc gia, vùng, địa phương, doanh nghiệp; nghiên cứu thị trường du lịch, xây dựng, quảng bá sản phẩm du lịch phù hợp với thị hiếu của khách du lịch.
 
-Đang theo dõi
-
 3. Tuyên truyền nâng cao nhận thức xã hội về du lịch, góp phần bảo đảm môi trường du lịch an ninh, an toàn, lành mạnh, văn minh, phát huy truyền thống mến khách của dân tộc.
-
-Đang theo dõi
 
 4. Vận động, tìm kiếm cơ hội, tập trung nguồn lực đầu tư phát triển kết cấu hạ tầng, cơ sở vật chất kỹ thuật du lịch; đa dạng hóa và nâng cao chất lượng dịch vụ du lịch.
 
-Đang theo dõi
-
 Điều 68. Hoạt động xúc tiến du lịch
-
-Đang theo dõi
 
 1. Bộ Văn hóa, Thể thao và Du lịch xây dựng và tổ chức thực hiện chiến lược, kế hoạch, chương trình xúc tiến du lịch quốc gia; điều phối các hoạt động xúc tiến du lịch liên vùng, liên tỉnh.
 
-Đang theo dõi
-
 2. Bộ, cơ quan ngang Bộ, Ủy ban nhân dân các cấp, trong phạm vi nhiệm vụ, quyền hạn của mình, xây dựng và tổ chức thực hiện kế hoạch, chương trình xúc tiến du lịch theo lĩnh vực và địa bàn quản lý phù hợp với chiến lược, kế hoạch, chương trình xúc tiến du lịch quốc gia.
-
-Đang theo dõi
 
 3. Tổ chức xã hội - nghề nghiệp về du lịch, doanh nghiệp, tổ chức và cá nhân liên quan chủ động xây dựng và tổ chức thực hiện kế hoạch, chương trình xúc tiến du lịch trong nước và nước ngoài phù hợp với chiến lược, kế hoạch, chương trình xúc tiến du lịch quốc gia, thành lập văn phòng xúc tiến du lịch tại nước ngoài. Chi phí hoạt động xúc tiến du lịch của doanh nghiệp được hạch toán vào chi phí của doanh nghiệp.
 
-Đang theo dõi
-
 Điều 69. Thành lập văn phòng đại diện tại Việt Nam của cơ quan du lịch nước ngoài, tổ chức du lịch quốc tế và khu vực
-
-Đang theo dõi
 
 1. Cơ quan du lịch nước ngoài, tổ chức du lịch quốc tế và khu vực được thành lập văn phòng đại diện tại Việt Nam.
 
-Đang theo dõi
-
 2. Hồ sơ đề nghị thành lập văn phòng đại diện phải được hợp pháp hóa lãnh sự, bao gồm:
-
-Đang theo dõi
 
 a) Đơn đề nghị thành lập văn phòng đại diện theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;
 
-Đang theo dõi
-
 b) Quyết định thành lập cơ quan du lịch nước ngoài, tổ chức du lịch quốc tế và khu vực;
-
-Đang theo dõi
 
 c) Quyết định thành lập văn phòng đại diện của cơ quan du lịch nước ngoài, tổ chức du lịch quốc tế và khu vực;
 
-Đang theo dõi
-
 d) Quyết định bổ nhiệm người đứng đầu văn phòng đại diện.
-
-Đang theo dõi
 
 Theo quy định tại điểm VII khoản C Tiểu mục 2.2 Mục 2 Phụ lục I.9 Nghị quyết 66.18/2026/NQ-CP: Đơn giản trình tự, thủ tục thành lập văn phòng đại diện tại Việt Nam của cơ quan du lịch nước ngoài, tổ chức du lịch quốc tế và khu vực quy định tại khoản 2 và khoản 3 Điều 69 Luật Du lịch số 09/2017/QH14.
 
-Đang theo dõi
-
 3. Trình tự, thủ tục thành lập văn phòng đại diện tại Việt Nam được quy định như sau:
-
-Đang theo dõi
 
 a) Người đứng đầu văn phòng đại diện nộp 01 bộ hồ sơ đến Bộ Văn hóa, Thể thao và Du lịch;
 
-Đang theo dõi
-
 b) Trong thời hạn 30 ngày kể từ ngày nhận được hồ sơ hợp lệ, Bộ Văn hóa Thể thao và Du lịch thẩm định, trình Thủ tướng Chính phủ xem xét, quyết định;
-
-Đang theo dõi
 
 Việc cho phép thành lập Văn phòng đại diện tại Việt Nam của cơ quan du lịch nước ngoài, tổ chức du lịch quốc tế và khu vực quy định tại điểm b khoản 3 Điều 69 Luật Du lịch do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quyết định theo hướng dẫn tại khoản 1 Điều 8 Nghị định 138/2025/NĐ-CP, áp dụng từ ngày 01/7/2025 đến hết ngày 28/02/2027.
 
-Đang theo dõi
-
 c) Trong thời hạn 05 ngày làm việc kể từ ngày nhận được ý kiến của Thủ tướng Chính phủ, Bộ Văn hóa, Thể thao và Du lịch thông báo bằng văn bản cho người đứng đầu văn phòng đại diện.
-
-Đang theo dõi
 
 Mục 2. QUỸ HỖ TRỢ PHÁT TRIỂN DU LỊCH
 
-Đang theo dõi
-
 Điều 70. Thành lập Quỹ hỗ trợ phát triển du lịch
-
-Đang theo dõi
 
 1. Quỹ hỗ trợ phát triển du lịch là quỹ tài chính nhà nước ngoài ngân sách, có tư cách pháp nhân, có con dấu, tài khoản riêng, do Thủ tướng Chính phủ thành lập, phê duyệt Điều lệ tổ chức và hoạt động.
 
-Đang theo dõi
-
 2. Quỹ hỗ trợ phát triển du lịch được miễn nộp thuế và các khoản nộp ngân sách nhà nước theo quy định của pháp luật.
-
-Đang theo dõi
 
 3. Quỹ hỗ trợ phát triển du lịch được hình thành từ các nguồn sau đây:
 
-Đang theo dõi
-
 a) Vốn điều lệ do ngân sách nhà nước cấp;
-
-Đang theo dõi
 
 b) Ngân sách nhà nước bổ sung hằng năm một phần trích từ nguồn thu phí tham quan, phí cấp thị thực và các giấy tờ có liên quan đến xuất cảnh, nhập cảnh Việt Nam cho người nước ngoài;
 
-Đang theo dõi
-
 c) Nguồn tài trợ, đóng góp tự nguyện, hợp pháp của doanh nghiệp, tổ chức, cá nhân trong nước và nước ngoài;
-
-Đang theo dõi
 
 d) Các nguồn thu hợp pháp khác theo quy định của pháp luật.
 
-Đang theo dõi
-
 4. Chính phủ quy định chi tiết khoản 3 Điều này.
-
-Đang theo dõi
 
 Điều 71. Mục đích của Quỹ hỗ trợ phát triển du lịch
 
-Đang theo dõi
-
 1. Xúc tiến du lịch trong nước và nước ngoài.
-
-Đang theo dõi
 
 2. Hỗ trợ nghiên cứu thị trường và phát triển sản phẩm du lịch.
 
-Đang theo dõi
-
 3. Hỗ trợ đào tạo, bồi dưỡng phát triển nguồn nhân lực du lịch.
-
-Đang theo dõi
 
 4. Hỗ trợ hoạt động truyền thông du lịch trong cộng đồng.
 
-Đang theo dõi
-
 Điều 72. Nguyên tắc hoạt động của Quỹ hỗ trợ phát triển du lịch
-
-Đang theo dõi
 
 1. Không vì mục đích lợi nhuận; bảo toàn vốn điều lệ và tự bù đắp chi phí quản lý.
 
-Đang theo dõi
-
 2. Thực hiện thu, chi, quyết toán, công khai tài chính, tài sản và công tác kế toán theo quy định của pháp luật.
-
-Đang theo dõi
 
 3. Chịu sự kiểm tra, thanh tra, kiểm toán của cơ quan quản lý nhà nước về tài chính và kiểm toán nhà nước về các hoạt động tài chính của Quỹ hỗ trợ phát triển du lịch.
 
-Đang theo dõi
-
 4. Bảo đảm công khai, minh bạch, tiết kiệm, hiệu quả, sử dụng đúng mục đích và phù hợp với quy định của pháp luật.
 
-Đang theo dõi
-
 5. Số dư kinh phí năm trước của Quỹ hỗ trợ phát triển du lịch được chuyển sang năm sau để tiếp tục sử dụng.
-
-Đang theo dõi
 
 Chương VIII
 
 QUẢN LÝ NHÀ NƯỚC VỀ DU LỊCH
 
-Đang theo dõi
-
 Điều 73. Trách nhiệm quản lý nhà nước về du lịch của Chính phủ
-
-Đang theo dõi
 
 1. Chính phủ thống nhất quản lý nhà nước về du lịch.
 
-Đang theo dõi
-
 2. Bộ Văn hóa, Thể thao và Du lịch là cơ quan đầu mối giúp Chính phủ thực hiện quản lý nhà nước về du lịch và có nhiệm vụ, quyền hạn sau đây:
-
-Đang theo dõi
 
 a) Ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành và tổ chức thực hiện văn bản quy phạm pháp luật về du lịch; chiến lược, quy hoạch, kế hoạch, chính sách phát triển du lịch; danh mục các địa điểm tiềm năng phát triển khu du lịch quốc gia;
 
-Đang theo dõi
-
 b) Điều phối, liên kết các hoạt động du lịch liên quốc gia, liên vùng, liên tỉnh;
-
-Đang theo dõi
 
 c) Xây dựng tiêu chuẩn quốc gia, quy chuẩn kỹ thuật quốc gia về du lịch; xây dựng cơ sở dữ liệu quản lý về du lịch;
 
-Đang theo dõi
-
 d) Phối hợp với các cơ quan có liên quan, tổ chức xã hội - nghề nghiệp về du lịch phổ biến, giáo dục pháp luật về du lịch;
-
-Đang theo dõi
 
 đ) Tổ chức, quản lý hoạt động đào tạo, bồi dưỡng nguồn nhân lực du lịch; nghiên cứu, ứng dụng khoa học và công nghệ trong lĩnh vực du lịch; hướng dẫn về giao dịch điện tử trong lĩnh vực du lịch;
 
-Đang theo dõi
-
 e) Tổ chức điều tra, đánh giá tài nguyên du lịch;
-
-Đang theo dõi
 
 g) Thực hiện hợp tác quốc tế về du lịch; hoạt động xúc tiến du lịch ở trong nước và nước ngoài;
 
-Đang theo dõi
-
 h) Quản lý, tổ chức thực hiện việc cấp, thu hồi giấy phép, thẻ hướng dẫn viên du lịch và các văn bản chứng nhận khác về hoạt động du lịch;
-
-Đang theo dõi
 
 i) Xã hội hóa hoạt động đầu tư, phát triển sản phẩm du lịch, xúc tiến du lịch, đào tạo, bồi dưỡng nguồn nhân lực du lịch;
 
-Đang theo dõi
-
 k) Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về du lịch.
-
-Đang theo dõi
 
 Điều 74. Trách nhiệm quản lý nhà nước về du lịch của Bộ, cơ quan ngang Bộ
 
-Đang theo dõi
-
 1. Các Bộ, cơ quan ngang Bộ, trong phạm vi nhiệm vụ, quyền hạn của mình, có trách nhiệm phối hợp với Bộ Văn hóa, Thể thao và Du lịch trong việc thực hiện quản lý nhà nước về du lịch.
-
-Đang theo dõi
 
 2. Bộ Kế hoạch và Đầu tư chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch, cơ quan nhà nước có liên quan ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành chính sách ưu đãi, hỗ trợ đầu tư trong lĩnh vực du lịch; huy động nguồn lực, thu hút đầu tư phát triển du lịch; lồng ghép các nội dung liên quan đến phát triển du lịch trong các chiến lược, chương trình, quy hoạch, kế hoạch phát triển kinh tế - xã hội.
 
-Đang theo dõi
-
 3. Bộ Tài chính chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch, cơ quan nhà nước có liên quan ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành chính sách về tài chính, thuế và hải quan nhằm tạo điều kiện phát triển du lịch; bảo đảm nguồn lực tài chính cho các hoạt động xúc tiến du lịch quốc gia.
-
-Đang theo dõi
 
 4. Bộ Công Thương chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch, cơ quan nhà nước có liên quan ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành chính sách khuyến khích sản xuất, cung cấp hàng hóa, đồ lưu niệm, hàng thủ công, dịch vụ chất lượng cao để phát triển du lịch, xây dựng hệ thống cửa hàng miễn thuế phục vụ khách du lịch tại một số địa bàn du lịch trọng điểm; lồng ghép xúc tiến du lịch trong xúc tiến thương mại.
 
-Đang theo dõi
-
 5. Bộ Ngoại giao chủ trì, phối hợp với Bộ Văn hóa, Thể thao và Du lịch, cơ quan nhà nước có liên quan tuyên truyền, quảng bá hình ảnh, đất nước, con người Việt Nam; tham mưu chính sách về thị thực phục vụ phát triển du lịch.
-
-Đang theo dõi
 
 Điều 75. Trách nhiệm quản lý nhà nước về du lịch của Ủy ban nhân dân các cấp
 
-Đang theo dõi
-
 1. Ủy ban nhân dân cấp tỉnh, trong phạm vi nhiệm vụ, quyền hạn của mình, thực hiện quản lý nhà nước về du lịch tại địa phương; cụ thể hóa chiến lược, quy hoạch, kế hoạch, chính sách phát triển du lịch phù hợp với thực tế tại địa phương.
-
-Đang theo dõi
 
 2. Ủy ban nhân dân các cấp có nhiệm vụ, quyền hạn sau đây:
 
-Đang theo dõi
-
 a) Ban hành hoặc trình cơ quan nhà nước có thẩm quyền ban hành các chính sách ưu đãi, thu hút đầu tư để khai thác tiềm năng, thế mạnh về du lịch của địa phương; hỗ trợ phát triển du lịch cộng đồng;
-
-Đang theo dõi
 
 b) Quản lý tài nguyên du lịch, khu du lịch, điểm du lịch, hoạt động kinh doanh du lịch và hướng dẫn du lịch trên địa bàn;
 
-Đang theo dõi
-
 c) Bảo đảm an ninh, trật tự, an toàn xã hội, môi trường, an toàn thực phẩm tại khu du lịch, điểm du lịch, nơi tập trung nhiều khách du lịch;
-
-Đang theo dõi
 
 d) Tuyên truyền, nâng cao nhận thức của người dân để bảo đảm môi trường du lịch thân thiện, lành mạnh và văn minh;
 
-Đang theo dõi
-
 đ) Tổ chức bố trí nơi dừng, đỗ cho các phương tiện giao thông đã được cấp biển hiệu phương tiện vận tải khách du lịch để tiếp cận điểm tham quan du lịch, cơ sở lưu trú du lịch; tổ chức rà soát, lắp đặt biển báo, biển chỉ dẫn vào khu du lịch, điểm du lịch;
-
-Đang theo dõi
 
 e) Tổ chức tiếp nhận và giải quyết kiến nghị của khách du lịch;
 
-Đang theo dõi
-
 g) Thực hiện các nhiệm vụ khác theo quy định của Luật này.
-
-Đang theo dõi
 
 Chương IX
 
 ĐIỀU KHOẢN THI HÀNH
 
-Đang theo dõi
-
 Điều 76. Sửa đổi, bổ sung Danh mục phí, lệ phí ban hành kèm theo Luật Phí và lệ phí số 97/2015/QH13 Sửa đổi, bổ sung mục 3.1 và mục 3.2 thuộc phần VII - Phí thuộc lĩnh vực văn hóa, thể thao, du lịch trong Danh mục phí, lệ phí ban hành kèm theo Luật Phí và lệ phí số 97/2015/QH13 như sau:
-
-Đang theo dõi
 
 3.1
 
@@ -2774,356 +1294,22 @@ Phí thẩm định cấp Giấy phép kinh doanh dịch vụ lữ hành quốc 
 
 Bộ Tài chính
 
-Đang theo dõi
-
 Điều 77. Hiệu lực thi hành
-
-Đang theo dõi
 
 1. Luật này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2018.
 
-Đang theo dõi
-
 2. Luật Du lịch số 44/2005/QH11 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành.
-
-Đang theo dõi
 
 Điều 78. Quy định chuyển tiếp
 
-Đang theo dõi
-
 1. Doanh nghiệp đã được cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế trước ngày Luật này có hiệu lực thi hành không phải làm thủ tục đổi giấy phép, nhưng phải bảo đảm đáp ứng đủ các điều kiện kinh doanh theo quy định của Luật này trong thời hạn 12 tháng kể từ ngày Luật này có hiệu lực thi hành.
-
-Đang theo dõi
 
 2. Doanh nghiệp kinh doanh dịch vụ lữ hành nội địa phải làm thủ tục đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa trong thời hạn 12 tháng kể từ ngày Luật này có hiệu lực thi hành. Sau thời hạn trên, nếu không có giấy phép thì doanh nghiệp không được kinh doanh dịch vụ lữ hành nội địa.
 
-Đang theo dõi
-
 3. Hướng dẫn viên du lịch quốc tế, hướng dẫn viên du lịch nội địa đã được cấp thẻ hướng dẫn viên du lịch trước ngày Luật này có hiệu lực thi hành được tiếp tục hành nghề cho đến hết thời hạn ghi trên thẻ.
 
-Đang theo dõi
-
 4. Cơ sở lưu trú du lịch đã được công nhận hạng theo quyết định của cơ quan nhà nước có thẩm quyền trước ngày Luật này có hiệu lực được tiếp tục sử dụng hạng đã được công nhận cho đến hết thời hạn theo quyết định.
-
-Đang theo dõi
 
 Luật này được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIV, kỳ họp thứ 3 thông qua ngày 19 tháng 6 năm 2017.
 
 CHỦ TỊCH QUỐC HỘI Nguyễn Thị Kim Ngân
-
-Bạn chưa Đăng nhập thành viên.
-
-Đây là tiện ích dành cho tài khoản thành viên. Vui lòng Đăng nhập để xem chi tiết. Nếu chưa có tài khoản, vui lòng Đăng ký tại đây!
-
-Luật Du lịch của Quốc hội, số 09/2017/QH14
-
-văn bản tiếng việt
-
-Luật 09/2017/QH14 (Bản PDF)
-
-Vui lòng Đăng nhập để tải văn bản.
-
-Nếu chưa có tài khoản, vui lòng Đăng ký tại đây!
-
-Luật 09/2017/QH14 (Bản Word)
-
-Vui lòng Đăng nhập để tải văn bản.
-
-Nếu chưa có tài khoản, vui lòng Đăng ký tại đây!
-
-văn bản TIẾNG ANH
-
-Công báo tiếng Anh
-
-Tourism Law, Law No. 09/2017/QH14 (Bản PDF)
-
-Tiện ích dành cho tài khoản Tiếng Anh hoặc Nâng cao.
-
-Vui lòng Đăng nhập để tải văn bản.
-
-Nếu chưa có tài khoản, vui lòng Đăng ký tại đây!
-
-Tourism Law, Law No. 09/2017/QH14 (Bản Word)
-
-Tiện ích dành cho tài khoản Tiếng Anh hoặc Nâng cao.
-
-Vui lòng Đăng nhập để tải văn bản.
-
-Nếu chưa có tài khoản, vui lòng Đăng ký tại đây!
-
-* Lưu ý: Để đọc được văn bản tải trên Luatvietnam.vn, bạn cần cài
-
-phần mềm đọc file DOC, DOCX và phần mềm đọc file PDF.
-
-Bạn chưa Đăng nhập thành viên.
-
-Đây là tiện ích dành cho tài khoản thành viên. Vui lòng Đăng nhập để xem chi tiết. Nếu chưa có tài khoản, vui lòng Đăng ký tại đây!
-
-Hải Yến
-
-Từ khóa liên quan:
-
-Luật Du lịch năm 2005
-
-,
-
-Luật Phí và Lệ phí 2015
-
-,
-
-Thông tư 42/2017/TT-BGTVT
-
-,
-
-Công văn 1615/TCDL-LH
-
-,
-
-Thông tư 06/2017/TT-BVHTTDL
-
-,
-
-Nghị định 168/2017/NĐ-CP
-
-,
-
-Thông tư 34/2018/TT-BTC mức thu phí thẩm định công nhận hạng cơ sở lưu trú du lịch
-
-,
-
-Thông tư 33/2018/TT-BTC
-
-,
-
-Nghị định 142/2018/NĐ-CP
-
-,
-
-Nghị định 45/2019/NĐ-CP
-
-,
-
-Công văn 120/TCDL-LH
-
-,
-
-Nghị định 48/2019/NĐ-CP
-
-,
-
-Thông tư 13/2019/TT-BVHTTDL
-
-,
-
-94/2021/NĐ-CP
-
-,
-
-Thông tư 13/2021/TT-BVHTTDL
-
-,
-
-129/2021/NĐ-CP
-
-,
-
-Nghị định 30/2022/NĐ-CP
-
-,
-
-19/2024/NĐ-CP
-
-,
-
-30/2024/NĐ-CP
-
-,
-
-04/2024/TT-BVHTTDL
-
-,
-
-Nghị định 138/2025/NĐ-CP
-
-,
-
-Nghị định 137/2025/NĐ-CP
-
-,
-
-Nghị định 348/2025/NĐ-CP
-
-,
-
-Thông tư 21/2025/TT-BVHTTDL
-
-Xem thêm
-
-01
-
-Nghị định 348/2025/NĐ-CP sửa đổi Nghị định 45/2019/NĐ-CP về xử phạt vi phạm hành chính trong du lịch
-
-02
-
-Thông tư 21/2025/TT-BVHTTDL sửa đổi thủ tục hành chính sản xuất kinh doanh
-
-03
-
-Nghị định 138/2025/NĐ-CP về phân quyền, phân cấp trong văn hoá, thể thao, du lịch
-
-04
-
-Nghị định 137/2025/NĐ-CP về thẩm quyền chính quyền địa phương trong văn hóa, thể thao, du lịch
-
-05
-
-Thông tư 04/2024/TT-BVHTTDL sửa đổi TT 06/2017/TT-BVHTTDL và 13/2019/TT-BVHTTDL hướng dẫn Luật Du lịch
-
-06
-
-Nghị định 30/2024/NĐ-CP quản lý phương tiện cơ giới người nước ngoài đưa vào Việt Nam du lịch
-
-07
-
-Nghị định 19/2024/NĐ-CP sửa đổi Nghị định 48/2019/NĐ-CP quản lý phương tiện vui chơi dưới nước
-
-08
-
-Nghị định 30/2022/NĐ-CP quy định mô hình quản lý khu du lịch quốc gia
-
-09
-
-Nghị định 129/2021/NĐ-CP sửa đổi các Nghị định về xử phạt vi phạm hành chính lĩnh vực du lịch; thể thao; quyền tác giả; văn hóa, quảng cáo
-
-10
-
-Thông tư 13/2021/TT-BVHTTDL sửa đổi Thông tư 06/2017/TT-BVHTTDL quy định Luật Du lịch
-
-Xem thêm
-
-Xem thêm
-
-Mục lục
-
-Tổng quan
-
-Nội dung
-
-VB gốc
-
-Tiếng Anh
-
-Hiệu lực
-
-VB liên quan
-
-Lược đồ
-
-Nội dung hợp nhất
-
-Tính năng này chỉ có tại LuatVietnam.vn. Nội dung hợp nhất tổng hợp lại tất cả các quy định còn hiệu lực của văn bản gốc và các văn bản sửa đổi, bổ sung, đính chính... trên một trang. Việc hợp nhất văn bản gốc và những văn bản, Thông tư, Nghị định hướng dẫn khác không làm thay đổi thứ tự điều khoản, nội dung.
-
-Khách hàng chỉ cần xem Nội dung hợp nhất là có thể nắm bắt toàn bộ quy định hiện hành đang áp dụng, cho dù văn bản gốc đã qua nhiều lần chỉnh sửa, bổ sung.
-
-=&gt;&gt; Xem hướng dẫn chi tiết cách sử dụng Nội dung hợp nhất
-
-Tải về
-
-So sánh VB
-
-Đây là tiện ích dành cho tài khoản
-
-Tiêu chuẩn
-
-hoặc
-
-Nâng cao
-
-. Vui lòng Đăng nhập tài khoản để xem chi tiết.
-
-VB song ngữ
-
-Đây là tiện ích dành cho tài khoản
-
-Tiếng Anh
-
-hoặc
-
-Nâng cao
-
-. Vui lòng Đăng nhập tài khoản để xem chi tiết.
-
-Đây là tiện ích dành cho tài khoản
-
-Tiêu chuẩn
-
-hoặc
-
-Nâng cao
-
-. Vui lòng Đăng nhập tài khoản để xem chi tiết.
-
-Đây là tiện ích dành cho tài khoản
-
-Tiêu chuẩn
-
-hoặc
-
-Nâng cao
-
-. Vui lòng Đăng nhập tài khoản để xem chi tiết.
-
-In
-
-So sánh VB
-
-VB song ngữ
-
-Báo lỗi
-
-Gửi liên kết tới Email
-
-Chia sẻ:
-
-Trang chủ
-
-Về LuatVietnam
-
-CHÍNH SÁCH BẢO VỆ DỮ LIỆU CÁ NHÂN
-
-Yêu cầu hỗ trợ
-
-Chú thích màu chỉ
-
-dẫn
-
-Chú thích màu chỉ dẫn:
-
-Các nội dung của VB này được VB khác thay đổi, hướng dẫn sẽ được làm nổi bật bằng các màu sắc:
-
-Sửa đổi, bổ sung, đính
-
-chính
-
-Thay
-
-thế
-
-Hướng
-
-dẫn
-
-Bãi bỏ
-
-Bãi
-
-bỏ cụm từ
-
-Bình
-
-luận
-
-Click vào nội dung được bôi màu để xem chi tiết.
-
-×
