@@ -1,0 +1,494 @@
+{
+  "top_k": 5,
+  "num_cases": 18,
+  "configs": {
+    "dense_only": {
+      "scores": {
+        "faithfulness": NaN,
+        "answer_relevancy": NaN,
+        "context_recall": NaN,
+        "context_precision": 0.0
+      },
+      "rows": [
+        {
+          "user_input": "Khách du lịch có những quyền gì theo Luật Du lịch 2017?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Điều 11 Luật Du lịch 2017, khách du lịch có các quyền: sử dụng dịch vụ du lịch hoặc tự đi du lịch; yêu cầu cung cấp thông tin về chương trình, dịch vụ, điểm đến theo hợp đồng đã ký; được tạo điều kiện thuận lợi về xuất cảnh, nhập cảnh, quá cảnh, hải quan, lưu cư trú, đi lại; được bảo đảm quyền và lợi ích hợp pháp theo hợp đồng; được đối xử bình đẳng, bảo đảm an toàn về tính mạng, sức khỏe, tài sản, được tôn trọng danh dự, nhân phẩm và được cứu hộ, cứu nạn khi khẩn cấp; khiếu nại, tố cáo, khởi kiện hành vi vi phạm pháp luật về du lịch; kiến nghị với tổ chức, cá nhân quản lý khu, điểm du lịch và cơ quan nhà nước có thẩm quyền.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Nghĩa vụ của khách du lịch được quy định như thế nào?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Điều 12 Luật Du lịch 2017, khách du lịch có nghĩa vụ: tuân thủ pháp luật Việt Nam và pháp luật của quốc gia, vùng lãnh thổ nơi đến du lịch, ứng xử văn minh, tôn trọng phong tục tập quán, bản sắc văn hóa địa phương, bảo vệ tài nguyên và môi trường du lịch, không gây phương hại đến hình ảnh quốc gia; thực hiện nội quy của khu du lịch, điểm du lịch, cơ sở cung cấp dịch vụ; thanh toán tiền dịch vụ theo hợp đồng, phí, lệ phí và các khoản thu khác theo quy định; bồi thường thiệt hại theo quy định của pháp luật về dân sự.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Khách du lịch được phân thành những loại nào?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Điều 10 Luật Du lịch 2017, khách du lịch bao gồm ba loại: khách du lịch nội địa, khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài. Khách du lịch nội địa là công dân Việt Nam và người nước ngoài cư trú ở Việt Nam đi du lịch trong lãnh thổ Việt Nam. Khách du lịch quốc tế đến Việt Nam là người nước ngoài, người Việt Nam định cư ở nước ngoài vào Việt Nam du lịch. Khách du lịch ra nước ngoài là công dân Việt Nam và người nước ngoài cư trú ở Việt Nam đi du lịch nước ngoài.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Điều kiện kinh doanh dịch vụ lữ hành quốc tế gồm những gì?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo khoản 2 Điều 31 Luật Du lịch 2017, điều kiện kinh doanh dịch vụ lữ hành quốc tế gồm: là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp; ký quỹ kinh doanh dịch vụ lữ hành quốc tế tại ngân hàng; người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành, trường hợp tốt nghiệp cao đẳng trở lên chuyên ngành khác thì phải có chứng chỉ nghiệp vụ điều hành du lịch quốc tế.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Điều kiện kinh doanh dịch vụ lữ hành nội địa khác gì so với lữ hành quốc tế về bằng cấp của người phụ trách?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Điều 31 Luật Du lịch 2017, người phụ trách kinh doanh dịch vụ lữ hành nội địa phải tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành, nếu tốt nghiệp trung cấp trở lên chuyên ngành khác thì phải có chứng chỉ nghiệp vụ điều hành du lịch nội địa. Trong khi đó, người phụ trách kinh doanh dịch vụ lữ hành quốc tế phải tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành, nếu tốt nghiệp cao đẳng trở lên chuyên ngành khác thì phải có chứng chỉ nghiệp vụ điều hành du lịch quốc tế. Như vậy yêu cầu về trình độ với lữ hành quốc tế cao hơn một bậc so với lữ hành nội địa.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa là bao nhiêu?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo khoản 1 Điều 14 Nghị định 168/2017/NĐ-CP, mức ký quỹ kinh doanh dịch vụ lữ hành nội địa là 100.000.000 đồng (một trăm triệu đồng).",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Mức ký quỹ kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài là bao nhiêu?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo điểm b khoản 2 Điều 14 Nghị định 168/2017/NĐ-CP, mức ký quỹ kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài là 500.000.000 đồng (năm trăm triệu đồng). Mức này cũng áp dụng cho trường hợp kinh doanh đồng thời cả khách quốc tế đến Việt Nam và khách ra nước ngoài.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "So sánh mức ký quỹ giữa kinh doanh lữ hành cho khách quốc tế đến Việt Nam và khách ra nước ngoài?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo khoản 2 Điều 14 Nghị định 168/2017/NĐ-CP, kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam phải ký quỹ 250.000.000 đồng, còn kinh doanh đối với khách du lịch ra nước ngoài phải ký quỹ 500.000.000 đồng. Như vậy mức ký quỹ cho khách ra nước ngoài cao gấp đôi so với khách quốc tế đến Việt Nam.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Có những loại cơ sở lưu trú du lịch nào?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Điều 48 Luật Du lịch 2017, các loại cơ sở lưu trú du lịch gồm: khách sạn; biệt thự du lịch; căn hộ du lịch; tàu thủy lưu trú du lịch; nhà nghỉ du lịch; nhà ở có phòng cho khách du lịch thuê; bãi cắm trại du lịch; và các cơ sở lưu trú du lịch khác.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Những sản phẩm du lịch nào bị coi là có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Điều 8 Nghị định 94/2021/NĐ-CP, sản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch khi có một hoặc một số hoạt động: bay dù lượn, khinh khí cầu, nhảy dù, đu dây mạo hiểm hành trình trên cao; đi xe đạp, mô tô, ô tô địa hình trên núi, trên đồi cát, đi trên dây, leo núi, vách đá, đu dây vượt thác; lặn dưới nước, chèo thuyền vượt ghềnh thác, đi mô tô nước, lướt ván, ca nô kéo dù bay; thám hiểm hang động, rừng, núi.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Doanh nghiệp kinh doanh sản phẩm du lịch mạo hiểm phải áp dụng biện pháp bảo đảm an toàn nào?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Điều 9 Nghị định 94/2021/NĐ-CP, doanh nghiệp phải: có cảnh báo, chỉ dẫn về điều kiện khí hậu, thời tiết, sức khỏe và các yếu tố liên quan; có phương án cứu hộ, cứu nạn, bố trí lực lượng cứu hộ và xử lý kịp thời sự cố, duy trì thông tin liên lạc với khách trong suốt thời gian cung cấp sản phẩm; bố trí huấn luyện viên, kỹ thuật viên, hướng dẫn viên có chuyên môn phù hợp; phổ biến quy định bảo đảm an toàn và hướng dẫn thao tác kỹ thuật cho khách trước khi cung cấp sản phẩm; cung cấp, hướng dẫn sử dụng và giám sát việc sử dụng trang thiết bị, dụng cụ hỗ trợ theo quy chuẩn, tiêu chuẩn.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Các hành vi nào bị nghiêm cấm trong hoạt động du lịch?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Điều 9 Luật Du lịch 2017 quy định các hành vi bị nghiêm cấm trong hoạt động du lịch, bao gồm làm phương hại đến chủ quyền, lợi ích quốc gia, quốc phòng, an ninh, trật tự, an toàn xã hội, truyền thống văn hóa, đạo đức, thuần phong mỹ tục của dân tộc; lợi dụng hoạt động du lịch để đưa người từ Việt Nam ra nước ngoài hoặc từ nước ngoài vào Việt Nam trái pháp luật; xâm hại tài nguyên du lịch, môi trường du lịch; phân biệt đối xử với khách du lịch, thu lợi bất hợp pháp từ khách du lịch; kinh doanh du lịch khi không đủ điều kiện theo quy định.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Khách quốc tế đến Việt Nam trong 8 tháng năm 2026 đạt bao nhiêu lượt người?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Cục Thống kê (Bộ Tài chính), lượng khách quốc tế đến Việt Nam trong tám tháng năm 2026 đạt 15,9 triệu lượt người, tăng 14,4% so với cùng kỳ năm trước. Đây là số lượt khách đến Việt Nam cao nhất của 8 tháng các năm trong nhiều năm qua.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Trong 8 tháng năm 2026, khách quốc tế đến Việt Nam bằng đường hàng không chiếm tỷ lệ bao nhiêu?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Khách đến bằng đường hàng không đạt 13,2 triệu lượt người, chiếm 83,1% lượng khách quốc tế đến và tăng 11,6% so với cùng kỳ năm trước. Đường bộ đạt 2,5 triệu lượt người chiếm 15,5%, còn đường biển đạt 220,6 nghìn lượt người chiếm 1,4%.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Thị trường nào gửi khách lớn nhất đến Việt Nam trong 7 tháng đầu năm 2026?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Trung tâm Thông tin du lịch (Cục Du lịch Quốc gia Việt Nam), Trung Quốc là thị trường gửi khách lớn nhất của Việt Nam với khoảng 3,1 triệu lượt, chiếm 22,2% tổng lượng khách. Hàn Quốc giữ vị trí thứ hai với 2,4 triệu lượt khách.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Lượng khách du lịch Nga đến Việt Nam năm 2026 được dự báo đạt bao nhiêu?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Cục Du lịch quốc gia Việt Nam thông tin rằng lượng khách du lịch Nga đến Việt Nam trong năm 2026 có thể đạt mức kỷ lục lịch sử là 1,5 triệu lượt người. Đây là mức cao nhất từ trước đến nay theo dự đoán của ông Nikita Kondratyev.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Việt Nam xếp thứ mấy châu Á về tỷ lệ khách quốc tế quay lại?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo nền tảng du lịch kỹ thuật số Agoda, Việt Nam nằm trong top 3 điểm đến châu Á có tỷ lệ du khách quay lại cao nhất. Ông Vũ Ngọc Lâm, Giám đốc Quốc gia Agoda tại Việt Nam, cho rằng điều này phản ánh sự phong phú và hấp dẫn của điểm đến Việt Nam.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        },
+        {
+          "user_input": "Sáu tháng đầu năm 2026 Việt Nam đón bao nhiêu lượt khách quốc tế?",
+          "retrieved_contexts": [],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo số liệu của Cục Thống kê (Bộ Tài chính), sáu tháng đầu năm 2026 khách quốc tế đến Việt Nam đạt 12,3 triệu lượt người, tăng 14,9% so với cùng kỳ năm trước. Riêng tháng 6/2026 ước đạt 1,68 triệu lượt người, giảm 5,7% so với tháng trước nhưng tăng 14,7% so với cùng kỳ năm trước.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": 0.0
+        }
+      ]
+    },
+    "hybrid_rrf": {
+      "scores": {
+        "faithfulness": NaN,
+        "answer_relevancy": NaN,
+        "context_recall": NaN,
+        "context_precision": NaN
+      },
+      "rows": [
+        {
+          "user_input": "Khách du lịch có những quyền gì theo Luật Du lịch 2017?",
+          "retrieved_contexts": [
+            "ngày 28 tháng 10 năm 2021\n\nSỬA ĐỔI, BỔ SUNG ĐIỀU 14 CỦA NGHỊ ĐỊNH SỐ 168/2017/NĐ-CP NGÀY 31 THÁNG 12 NĂM 2017 CỦA CHÍNH PHỦ QUY ĐỊNH CHI TIẾT MỘT SỐ ĐIỀU CỦA LUẬT DU LỊCH VỀ MỨC KÝ QUỸ KINH DOANH DỊCH VỤ LỮ HÀNH\n\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015; Luật sửa đổi, bổ sung một số điều của Luật Tổ chức Chính phủ và Luật Tổ chức chính quyền địa phương ngày 22 tháng 11 năm 2019;\n\nCăn cứ Luật Du lịch ngày 19 tháng 6 năm 2017;",
+            "Căn cứ Luật Du lịch ngày 19 tháng 6 năm 2017;\n\nTheo đề nghị của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch;\n\nChính phủ ban hành Nghị định sửa đổi, bổ sung Điều 14 của Nghị định số 168/2017/NĐ-CP ngày 31 tháng 12 năm 2017 của Chính phủ quy định chi tiết một số điều của Luật Du lịch về mức ký quỹ kinh doanh dịch vụ lữ hành.",
+            "3. Từ ngày 01 tháng 01 năm 2024, mức ký quỹ kinh doanh dịch vụ lữ hành được thực hiện theo quy định tại khoản 1 và khoản 2 Điều 14 Nghị định số 168/2017/NĐ-CP ngày 31 tháng 12 năm 2017./.\n\nBài viết liên quan\n\n(Mục lục) Luật 09/2017 về Du lịch\n\n(Mục lục) TT 06/2017/BVHTTDL về Du lịch\n\nDịch vụ —  TEL, ZALO  0915 67 11 67  —\n\nThành lập công ty vốn nước ngoài\n\nTư vấn điều điện đầu tư tại Việt Nam\n\nĐăng ký bảo hộ nhãn hiệu\n\nGiải quyết tranh chấp nhãn hiệu\n\nTư vấn pháp luật thường xuyên",
+            "Điều 61. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du lịch tại điểm\n\nTheo quy định tại điểm VI khoản C Tiểu mục 2.2 Mục 2 Phụ lục I.9 Nghị quyết 66.18/2026/NQ-CP: Đơn giản hóa hồ sơ, trình tự, thủ tục, thẩm quyền cấp thẻ hướng dẫn viên du lịch tại điểm quy định tại Điều 61 Luật Du lịch số 09/2017/QH14.\n\n1. Hồ sơ đề nghị cấp thẻ hướng dẫn viên du lịch tại điểm bao gồm:",
+            "3. Thanh toán tiền dịch vụ theo hợp đồng, phí, lệ phí và các khoản thu khác theo quy định của pháp luật.\n\n4. Bồi thường thiệt hại theo quy định của pháp luật về dân sự.\n\nĐiều 13. Bảo đảm an toàn cho khách du lịch\n\n1. Cơ quan nhà nước có thẩm quyền, trong phạm vi nhiệm vụ, quyền hạn của mình, có biện pháp bảo đảm an ninh, trật tự, an toàn xã hội tại khu du lịch, điểm du lịch."
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Điều 11 Luật Du lịch 2017, khách du lịch có các quyền: sử dụng dịch vụ du lịch hoặc tự đi du lịch; yêu cầu cung cấp thông tin về chương trình, dịch vụ, điểm đến theo hợp đồng đã ký; được tạo điều kiện thuận lợi về xuất cảnh, nhập cảnh, quá cảnh, hải quan, lưu cư trú, đi lại; được bảo đảm quyền và lợi ích hợp pháp theo hợp đồng; được đối xử bình đẳng, bảo đảm an toàn về tính mạng, sức khỏe, tài sản, được tôn trọng danh dự, nhân phẩm và được cứu hộ, cứu nạn khi khẩn cấp; khiếu nại, tố cáo, khởi kiện hành vi vi phạm pháp luật về du lịch; kiến nghị với tổ chức, cá nhân quản lý khu, điểm du lịch và cơ quan nhà nước có thẩm quyền.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Nghĩa vụ của khách du lịch được quy định như thế nào?",
+          "retrieved_contexts": [
+            "Cục Du lịch Quốc gia Việt Nam nhận định, kết quả tăng trưởng của lượng khách quốc tế trong 7 tháng đầu năm có ý nghĩa tích cực khi đạt được trong bối cảnh thế giới vẫn đối mặt với nhiều bất ổn và hiện đang trong giai đoạn thấp điểm du lịch quốc tế đến Việt Nam.",
+            "Cục Du lịch Quốc gia Việt Nam nhận định, kết quả tăng trưởng của lượng khách quốc tế trong 7 tháng đầu năm có ý nghĩa tích cực khi đạt được trong bối cảnh thế giới vẫn đối mặt với nhiều bất ổn và hiện đang trong giai đoạn thấp điểm du lịch quốc tế đến Việt Nam.",
+            "đ) Chỉ được sử dụng từ “sao” hoặc hình ảnh ngôi sao để quảng cáo về hạng cơ sở lưu trú du lịch sau khi được cơ quan nhà nước có thẩm quyền công nhận hạng cơ sở lưu trú du lịch;\n\ne) Thực hiện chế độ báo cáo, thống kê, kế toán theo quy định của pháp luật.\n\n3. Tổ chức, cá nhân kinh doanh dịch vụ lưu trú du lịch đã được công nhận hạng có quyền và nghĩa vụ sau đây:\n\na) Quyền và nghĩa vụ quy định tại khoản 1 và khoản 2 Điều này;",
+            "3. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định trình tự, thủ tục thu hồi giấy phép kinh doanh dịch vụ lữ hành.\n\nĐiều 37. Quyền và nghĩa vụ của doanh nghiệp kinh doanh dịch vụ lữ hành\n\n1. Doanh nghiệp kinh doanh dịch vụ lữ hành nội địa có quyền và nghĩa vụ sau đây:\n\na) Xây dựng, quảng cáo, bán và tổ chức thực hiện các dịch vụ du lịch, chương trình du lịch cho khách du lịch theo phạm vi kinh doanh quy định trong giấy phép;",
+            "c) Tổ chức dịch vụ hướng dẫn; quy định, quản lý việc sử dụng hướng dẫn viên du lịch trong phạm vi quản lý;\n\nd) Được thu phí theo quy định của pháp luật.\n\n2. Tổ chức, cá nhân quản lý điểm du lịch có nghĩa vụ sau đây:\n\na) Bảo đảm điều kiện quy định tại khoản 1 Điều 23 của Luật này;\n\nb) Tạo điều kiện thuận lợi cho khách du lịch đến tham quan;\n\nc) Quản lý, giám sát hoạt động kinh doanh dịch vụ du lịch trong phạm vi quản lý;"
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Điều 12 Luật Du lịch 2017, khách du lịch có nghĩa vụ: tuân thủ pháp luật Việt Nam và pháp luật của quốc gia, vùng lãnh thổ nơi đến du lịch, ứng xử văn minh, tôn trọng phong tục tập quán, bản sắc văn hóa địa phương, bảo vệ tài nguyên và môi trường du lịch, không gây phương hại đến hình ảnh quốc gia; thực hiện nội quy của khu du lịch, điểm du lịch, cơ sở cung cấp dịch vụ; thanh toán tiền dịch vụ theo hợp đồng, phí, lệ phí và các khoản thu khác theo quy định; bồi thường thiệt hại theo quy định của pháp luật về dân sự.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Khách du lịch được phân thành những loại nào?",
+          "retrieved_contexts": [
+            "Điều 7. Kinh phí điều tra, đánh giá, phân loại tài nguyên du lịch\n\n1. Kinh phí điều tra, đánh giá, phân loại tài nguyên du lịch được bố trí từ nguồn ngân sách nhà nước, nguồn đóng góp tự nguyện của tổ chức, cá nhân và nguồn huy động hợp pháp khác.\n\n2. Việc quản lý, sử dụng kinh phí điều tra, đánh giá, phân loại tài nguyên du lịch thực hiện theo quy định của pháp luật.",
+            "Điều 7. Kinh phí điều tra, đánh giá, phân loại tài nguyên du lịch\n\n1. Kinh phí điều tra, đánh giá, phân loại tài nguyên du lịch được bố trí từ nguồn ngân sách nhà nước, nguồn đóng góp tự nguyện của tổ chức, cá nhân và nguồn huy động hợp pháp khác.\n\n2. Việc quản lý, sử dụng kinh phí điều tra, đánh giá, phân loại tài nguyên du lịch thực hiện theo quy định của pháp luật.\n\nChương III",
+            "Thực tế cho thấy, đây đều là những thị trường được hưởng chính sách miễn thị thực của Việt Nam. Và sự tăng trưởng về lượng khách đã phản ánh hiệu quả rõ nét của các chính sách tạo thuận lợi nhập cảnh trong việc thúc đẩy tăng trưởng khách quốc tế.\n\nỞ khía cạnh khác, với ngành du lịch Việt Nam, châu Âu vốn là thị trường xa có mức chi tiêu cao. Bước đột phá của khu vực này cũng phần nào cho thấy sự dịch chuyển về chất trong tăng trưởng của du lịch Việt Nam.",
+            "2. Căn cứ kết quả đánh giá, tài nguyên du lịch quy định tại Điều 15 Luật Du lịch được phân loại thành tài nguyên du lịch cấp quốc gia và tài nguyên du lịch cấp tỉnh.\n\nĐiều 6. Trách nhiệm của các bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh\n\n1. Trách nhiệm của Bộ Văn hóa, Thể thao và Du lịch:",
+            "2. Căn cứ kết quả đánh giá, tài nguyên du lịch quy định tại Điều 15 Luật Du lịch được phân loại thành tài nguyên du lịch cấp quốc gia và tài nguyên du lịch cấp tỉnh.\n\nĐiều 6. Trách nhiệm của các bộ, cơ quan ngang bộ, Ủy ban nhân dân cấp tỉnh\n\n1. Trách nhiệm của Bộ Văn hóa, Thể thao và Du lịch:"
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Điều 10 Luật Du lịch 2017, khách du lịch bao gồm ba loại: khách du lịch nội địa, khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài. Khách du lịch nội địa là công dân Việt Nam và người nước ngoài cư trú ở Việt Nam đi du lịch trong lãnh thổ Việt Nam. Khách du lịch quốc tế đến Việt Nam là người nước ngoài, người Việt Nam định cư ở nước ngoài vào Việt Nam du lịch. Khách du lịch ra nước ngoài là công dân Việt Nam và người nước ngoài cư trú ở Việt Nam đi du lịch nước ngoài.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Điều kiện kinh doanh dịch vụ lữ hành quốc tế gồm những gì?",
+          "retrieved_contexts": [
+            "2. Điều kiện kinh doanh dịch vụ lữ hành quốc tế bao gồm:\n\na) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;\n\nb) Ký quỹ kinh doanh dịch vụ lữ hành quốc tế tại ngân hàng;\n\nc) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp cao đẳng trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch quốc tế.",
+            "3. Doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế được kinh doanh dịch vụ lữ hành quốc tế và dịch vụ lữ hành nội địa, trừ trường hợp quy định tại khoản 4 Điều này.\n\n4. Doanh nghiệp có vốn đầu tư nước ngoài chỉ được kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch quốc tế đến Việt Nam, trừ trường hợp điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên có quy định khác.\n\nĐiều 31. Điều kiện kinh doanh dịch vụ lữ hành",
+            "3. Doanh nghiệp đáp ứng các điều kiện kinh doanh quy định tại khoản 1 Điều này được cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa; đáp ứng các điều kiện kinh doanh quy định tại khoản 2 Điều này được cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế.\n\nPhí thẩm định cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế, Giấy phép kinh doanh dịch vụ lữ hành nội địa được thực hiện theo quy định của pháp luật về phí và lệ phí.",
+            "Điều 31. Điều kiện kinh doanh dịch vụ lữ hành\n\n1. Điều kiện kinh doanh dịch vụ lữ hành nội địa bao gồm:\n\na) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;\n\nb) Ký quỹ kinh doanh dịch vụ lữ hành nội địa tại ngân hàng;\n\nc) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp trung cấp trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch nội địa.",
+            "1. Hồ sơ đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế bao gồm:\n\na) Đơn đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;\n\nb) Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp hoặc Giấy chứng nhận đăng ký đầu tư do cơ quan nhà nước có thẩm quyền cấp;\n\nc) Giấy chứng nhận ký quỹ kinh doanh dịch vụ lữ hành;"
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo khoản 2 Điều 31 Luật Du lịch 2017, điều kiện kinh doanh dịch vụ lữ hành quốc tế gồm: là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp; ký quỹ kinh doanh dịch vụ lữ hành quốc tế tại ngân hàng; người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành, trường hợp tốt nghiệp cao đẳng trở lên chuyên ngành khác thì phải có chứng chỉ nghiệp vụ điều hành du lịch quốc tế.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Điều kiện kinh doanh dịch vụ lữ hành nội địa khác gì so với lữ hành quốc tế về bằng cấp của người phụ trách?",
+          "retrieved_contexts": [
+            "Điều 31. Điều kiện kinh doanh dịch vụ lữ hành\n\n1. Điều kiện kinh doanh dịch vụ lữ hành nội địa bao gồm:\n\na) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;\n\nb) Ký quỹ kinh doanh dịch vụ lữ hành nội địa tại ngân hàng;\n\nc) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp trung cấp trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch nội địa.",
+            "2. Điều kiện kinh doanh dịch vụ lữ hành quốc tế bao gồm:\n\na) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;\n\nb) Ký quỹ kinh doanh dịch vụ lữ hành quốc tế tại ngân hàng;\n\nc) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp cao đẳng trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch quốc tế.",
+            "4. Chính phủ quy định chi tiết về việc ký quỹ kinh doanh dịch vụ lữ hành quy định tại điểm b khoản 1 và điểm b khoản 2 Điều này.\n\n5. Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định chi tiết về người phụ trách kinh doanh dịch vụ lữ hành; nội dung đào tạo, bồi dưỡng, tổ chức thi, cấp chứng chỉ nghiệp vụ điều hành du lịch nội địa và nghiệp vụ điều hành du lịch quốc tế.\n\nĐiều 32. Hồ sơ, trình tự, thủ tục, thẩm quyền cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa",
+            "d) Bản sao có chứng thực văn bằng, chứng chỉ của người phụ trách kinh doanh dịch vụ lữ hành quy định tại điểm c khoản 2 Điều 31 của Luật này;\n\nđ) Bản sao có chứng thực quyết định bổ nhiệm hoặc hợp đồng lao động giữa doanh nghiệp kinh doanh dịch vụ lữ hành với người phụ trách kinh doanh dịch vụ lữ hành.",
+            "3. Doanh nghiệp đáp ứng các điều kiện kinh doanh quy định tại khoản 1 Điều này được cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa; đáp ứng các điều kiện kinh doanh quy định tại khoản 2 Điều này được cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế.\n\nPhí thẩm định cấp Giấy phép kinh doanh dịch vụ lữ hành quốc tế, Giấy phép kinh doanh dịch vụ lữ hành nội địa được thực hiện theo quy định của pháp luật về phí và lệ phí."
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Điều 31 Luật Du lịch 2017, người phụ trách kinh doanh dịch vụ lữ hành nội địa phải tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành, nếu tốt nghiệp trung cấp trở lên chuyên ngành khác thì phải có chứng chỉ nghiệp vụ điều hành du lịch nội địa. Trong khi đó, người phụ trách kinh doanh dịch vụ lữ hành quốc tế phải tốt nghiệp cao đẳng trở lên chuyên ngành về lữ hành, nếu tốt nghiệp cao đẳng trở lên chuyên ngành khác thì phải có chứng chỉ nghiệp vụ điều hành du lịch quốc tế. Như vậy yêu cầu về trình độ với lữ hành quốc tế cao hơn một bậc so với lữ hành nội địa.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa là bao nhiêu?",
+          "retrieved_contexts": [
+            "Điều 14. Mức ký quỹ và phương thức ký quỹ\n\n1. Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa: 100.000.000 (một trăm triệu) đồng.\n\n2. Mức ký quỹ kinh doanh dịch vụ lữ hành quốc tế:\n\na) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam: 250.000.000 (hai trăm năm mươi triệu) đồng;\n\nb) Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài: 500.000.000 (năm trăm triệu) đồng;",
+            "Điều 14. Mức ký quỹ và phương thức ký quỹ\n\n1. Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa: 100.000.000 (một trăm triệu) đồng.\n\n2. Mức ký quỹ kinh doanh dịch vụ lữ hành quốc tế:\n\na) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam: 250.000.000 (hai trăm năm mươi triệu) đồng;\n\nb) Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài: 500.000.000 (năm trăm triệu) đồng;",
+            "Điều 31. Điều kiện kinh doanh dịch vụ lữ hành\n\n1. Điều kiện kinh doanh dịch vụ lữ hành nội địa bao gồm:\n\na) Là doanh nghiệp được thành lập theo quy định của pháp luật về doanh nghiệp;\n\nb) Ký quỹ kinh doanh dịch vụ lữ hành nội địa tại ngân hàng;\n\nc) Người phụ trách kinh doanh dịch vụ lữ hành phải tốt nghiệp trung cấp trở lên chuyên ngành về lữ hành; trường hợp tốt nghiệp trung cấp trở lên chuyên ngành khác phải có chứng chỉ nghiệp vụ điều hành du lịch nội địa.",
+            "Điều 1. Sửa đổi, bổ sung Điều 14 của Nghị định số 168/2017/NĐ-CP ngày 31 tháng 12 năm 2017 của Chính phủ quy định chi tiết một số điều của Luật Du lịch về mức ký quỹ kinh doanh dịch vụ lữ hành\n\nSửa đổi, bổ sung khoản 1 và khoản 2 Điều 14 như sau:\n\n“1. Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa: 20.000.000 (hai mươi triệu) đồng.\n\n2. Mức ký quỹ kinh doanh dịch vụ lữ hành quốc tế:\n\na) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam: 50.000.000 (năm mươi triệu) đồng;",
+            "1. Hồ sơ đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa bao gồm:\n\na) Đơn đề nghị cấp Giấy phép kinh doanh dịch vụ lữ hành nội địa theo mẫu do Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch quy định;\n\nb) Bản sao có chứng thực Giấy chứng nhận đăng ký doanh nghiệp;\n\nc) Giấy chứng nhận ký quỹ kinh doanh dịch vụ lữ hành;\n\nd) Bản sao có chứng thực quyết định bổ nhiệm hoặc hợp đồng lao động giữa doanh nghiệp kinh doanh dịch vụ lữ hành với người phụ trách kinh doanh dịch vụ lữ hành;"
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo khoản 1 Điều 14 Nghị định 168/2017/NĐ-CP, mức ký quỹ kinh doanh dịch vụ lữ hành nội địa là 100.000.000 đồng (một trăm triệu đồng).",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Mức ký quỹ kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài là bao nhiêu?",
+          "retrieved_contexts": [
+            "Điều 14. Mức ký quỹ và phương thức ký quỹ\n\n1. Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa: 100.000.000 (một trăm triệu) đồng.\n\n2. Mức ký quỹ kinh doanh dịch vụ lữ hành quốc tế:\n\na) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam: 250.000.000 (hai trăm năm mươi triệu) đồng;\n\nb) Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài: 500.000.000 (năm trăm triệu) đồng;",
+            "Điều 14. Mức ký quỹ và phương thức ký quỹ\n\n1. Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa: 100.000.000 (một trăm triệu) đồng.\n\n2. Mức ký quỹ kinh doanh dịch vụ lữ hành quốc tế:\n\na) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam: 250.000.000 (hai trăm năm mươi triệu) đồng;\n\nb) Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài: 500.000.000 (năm trăm triệu) đồng;",
+            "b) Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài: 100.000.000 (một trăm triệu) đồng;\n\nc) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài: 100.000.000 (một trăm triệu) đồng”.\n\nĐiều 2. Tổ chức thực hiện\n\n1. Bộ Văn hoá, Thể thao và Du lịch chủ trì, phối hợp với các Bộ, ngành có liên quan hướng dẫn, tổ chức thi hành Nghị định này.\n\n2. Ngân hàng nhận ký quỹ kinh doanh dịch vụ lữ hành có trách nhiệm như sau:",
+            "c) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài: 500.000.000 (năm trăm triệu) đồng.\n\nMức ký quỹ kinh doanh dịch vụ lữ hành theo quy định tại khoản 1, khoản 2 Điều 14 được sửa đổi, bổ sung bởi Điều 1 Nghị định 94/2021/NĐ-CP, áp dụng đến hết ngày 31/12/2023.",
+            "Điều 1. Sửa đổi, bổ sung Điều 14 của Nghị định số 168/2017/NĐ-CP ngày 31 tháng 12 năm 2017 của Chính phủ quy định chi tiết một số điều của Luật Du lịch về mức ký quỹ kinh doanh dịch vụ lữ hành\n\nSửa đổi, bổ sung khoản 1 và khoản 2 Điều 14 như sau:\n\n“1. Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa: 20.000.000 (hai mươi triệu) đồng.\n\n2. Mức ký quỹ kinh doanh dịch vụ lữ hành quốc tế:\n\na) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam: 50.000.000 (năm mươi triệu) đồng;"
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo điểm b khoản 2 Điều 14 Nghị định 168/2017/NĐ-CP, mức ký quỹ kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài là 500.000.000 đồng (năm trăm triệu đồng). Mức này cũng áp dụng cho trường hợp kinh doanh đồng thời cả khách quốc tế đến Việt Nam và khách ra nước ngoài.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "So sánh mức ký quỹ giữa kinh doanh lữ hành cho khách quốc tế đến Việt Nam và khách ra nước ngoài?",
+          "retrieved_contexts": [
+            "Điều 14. Mức ký quỹ và phương thức ký quỹ\n\n1. Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa: 100.000.000 (một trăm triệu) đồng.\n\n2. Mức ký quỹ kinh doanh dịch vụ lữ hành quốc tế:\n\na) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam: 250.000.000 (hai trăm năm mươi triệu) đồng;\n\nb) Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài: 500.000.000 (năm trăm triệu) đồng;",
+            "Điều 14. Mức ký quỹ và phương thức ký quỹ\n\n1. Mức ký quỹ kinh doanh dịch vụ lữ hành nội địa: 100.000.000 (một trăm triệu) đồng.\n\n2. Mức ký quỹ kinh doanh dịch vụ lữ hành quốc tế:\n\na) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam: 250.000.000 (hai trăm năm mươi triệu) đồng;\n\nb) Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài: 500.000.000 (năm trăm triệu) đồng;",
+            "c) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài: 500.000.000 (năm trăm triệu) đồng.\n\nMức ký quỹ kinh doanh dịch vụ lữ hành theo quy định tại khoản 1, khoản 2 Điều 14 được sửa đổi, bổ sung bởi Điều 1 Nghị định 94/2021/NĐ-CP, áp dụng đến hết ngày 31/12/2023.",
+            "b) Kinh doanh dịch vụ lữ hành đối với khách du lịch ra nước ngoài: 100.000.000 (một trăm triệu) đồng;\n\nc) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài: 100.000.000 (một trăm triệu) đồng”.\n\nĐiều 2. Tổ chức thực hiện\n\n1. Bộ Văn hoá, Thể thao và Du lịch chủ trì, phối hợp với các Bộ, ngành có liên quan hướng dẫn, tổ chức thi hành Nghị định này.\n\n2. Ngân hàng nhận ký quỹ kinh doanh dịch vụ lữ hành có trách nhiệm như sau:",
+            "c) Kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam và khách du lịch ra nước ngoài: 500.000.000 (năm trăm triệu) đồng."
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo khoản 2 Điều 14 Nghị định 168/2017/NĐ-CP, kinh doanh dịch vụ lữ hành đối với khách du lịch quốc tế đến Việt Nam phải ký quỹ 250.000.000 đồng, còn kinh doanh đối với khách du lịch ra nước ngoài phải ký quỹ 500.000.000 đồng. Như vậy mức ký quỹ cho khách ra nước ngoài cao gấp đôi so với khách quốc tế đến Việt Nam.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Có những loại cơ sở lưu trú du lịch nào?",
+          "retrieved_contexts": [
+            "Điều 29. Kiểm tra, giám sát điều kiện tối thiểu về cơ sở vật chất kỹ thuật và dịch vụ của cơ sở lưu trú du lịch\n\n1. Trước khi đi vào hoạt động chậm nhất 15 ngày, cơ sở lưu trú du lịch có trách nhiệm gửi thông báo bằng văn bản tới Sở Du lịch, Sở Văn hóa, Thể thao và Du lịch nơi có cơ sở lưu trú du lịch về những nội dung sau:\n\na) Tên, loại hình, quy mô cơ sở lưu trú du lịch;\n\nb) Địa chỉ cơ sở lưu trú du lịch, thông tin về người đại diện theo pháp luật;",
+            "Điều 29. Kiểm tra, giám sát điều kiện tối thiểu về cơ sở vật chất kỹ thuật và dịch vụ của cơ sở lưu trú du lịch\n\n1. Trước khi đi vào hoạt động chậm nhất 15 ngày, cơ sở lưu trú du lịch có trách nhiệm gửi thông báo bằng văn bản tới Sở Du lịch, Sở Văn hóa, Thể thao và Du lịch nơi có cơ sở lưu trú du lịch về những nội dung sau:\n\na) Tên, loại hình, quy mô cơ sở lưu trú du lịch;\n\nb) Địa chỉ cơ sở lưu trú du lịch, thông tin về người đại diện theo pháp luật;",
+            "Trường hợp cơ sở lưu trú du lịch không đáp ứng điều kiện tối thiểu tương ứng với loại hình cơ sở lưu trú du lịch theo quy định tại Nghị định này, Sở Du lịch, Sở Văn hóa, Thể thao và Du lịch yêu cầu cơ sở lưu trú du lịch bổ sung, hoàn thiện, đáp ứng điều kiện tối thiểu hoặc thay đổi loại hình cơ sở lưu trú du lịch phù hợp",
+            "Trường hợp cơ sở lưu trú du lịch không đáp ứng điều kiện tối thiểu tương ứng với loại hình cơ sở lưu trú du lịch theo quy định tại Nghị định này, Sở Du lịch, Sở Văn hóa, Thể thao và Du lịch yêu cầu cơ sở lưu trú du lịch bổ sung, hoàn thiện, đáp ứng điều kiện tối thiểu hoặc thay đổi loại hình cơ sở lưu trú du lịch phù hợp",
+            ". Cơ sở lưu trú có trách nhiệm thông báo bằng văn bản đến Sở Du lịch, Sở Văn hóa, Thể thao và Du lịch về việc bổ sung, hoàn thiện, đáp ứng điều kiện tối thiểu hoặc thay đổi loại hình cơ sở lưu trú du lịch."
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Điều 48 Luật Du lịch 2017, các loại cơ sở lưu trú du lịch gồm: khách sạn; biệt thự du lịch; căn hộ du lịch; tàu thủy lưu trú du lịch; nhà nghỉ du lịch; nhà ở có phòng cho khách du lịch thuê; bãi cắm trại du lịch; và các cơ sở lưu trú du lịch khác.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Những sản phẩm du lịch nào bị coi là có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch?",
+          "retrieved_contexts": [
+            "Chương III\n\nBIỆN PHÁP BẢO ĐẢM AN TOÀN CHO KHÁCH DU LỊCH ĐỐI VỚI NHỮNG SẢN PHẨM DU LỊCH CÓ NGUY CƠ ẢNH HƯỞNG ĐẾN TÍNH MẠNG, SỨC KHỎE CỦA KHÁCH DU LỊCH\n\nĐiều 8. Sản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch\n\nSản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch khi có một hoặc một số hoạt động sau đây:\n\n1. Bay dù lượn, khinh khí cầu; nhảy dù; đu dây mạo hiểm hành trình trên cao.",
+            "Chương III. BIỆN PHÁP BẢO ĐẢM AN TOÀN CHO KHÁCH DU LỊCH ĐỐI VỚI NHỮNG SẢN PHẨM DU LỊCH CÓ NGUY CƠ ẢNH HƯỞNG ĐẾN TÍNH MẠNG, SỨC KHỎE CỦA KHÁCH DU LỊCH\n\nĐiều 8. Sản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch\n\nSản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch khi có một hoặc một số hoạt động sau đây:\n\n1. Bay dù lượn, khinh khí cầu; nhảy dù; đu dây mạo hiểm hành trình trên cao.",
+            "1. Có cảnh báo, chỉ dẫn về điều kiện khí hậu, thời tiết, sức khỏe và các yếu tố liên quan khi cung cấp các sản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch.\n\n2. Có phương án cứu hộ, cứu nạn; bố trí lực lượng cứu hộ khách du lịch và can thiệp, xử lý, ứng cứu kịp thời các sự cố, tai nạn, rủi ro xảy ra; duy trì, bảo đảm thông tin liên lạc với khách du lịch trong suốt thời gian cung cấp sản phẩm.",
+            "1. Có cảnh báo, chỉ dẫn về điều kiện khí hậu, thời tiết, sức khỏe và các yếu tố liên quan khi cung cấp các sản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch.\n\n2. Có phương án cứu hộ, cứu nạn; bố trí lực lượng cứu hộ khách du lịch và can thiệp, xử lý, ứng cứu kịp thời các sự cố, tai nạn, rủi ro xảy ra; duy trì, bảo đảm thông tin liên lạc với khách du lịch trong suốt thời gian cung cấp sản phẩm.",
+            "3. Chính phủ quy định các biện pháp bảo đảm an toàn cho khách du lịch đối với những sản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch.\n\nĐiều 19. Phát triển du lịch cộng đồng\n\n1. Cá nhân, hộ gia đình nơi phát triển du lịch cộng đồng được ưu đãi, khuyến khích cung cấp dịch vụ lưu trú, ăn uống; hướng dẫn khách du lịch tham quan, trải nghiệm văn hóa, nếp sống tại cộng đồng; sản xuất hàng hóa, hàng thủ công truyền thống và các dịch vụ khác phục vụ khách du lịch."
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Điều 8 Nghị định 94/2021/NĐ-CP, sản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch khi có một hoặc một số hoạt động: bay dù lượn, khinh khí cầu, nhảy dù, đu dây mạo hiểm hành trình trên cao; đi xe đạp, mô tô, ô tô địa hình trên núi, trên đồi cát, đi trên dây, leo núi, vách đá, đu dây vượt thác; lặn dưới nước, chèo thuyền vượt ghềnh thác, đi mô tô nước, lướt ván, ca nô kéo dù bay; thám hiểm hang động, rừng, núi.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Doanh nghiệp kinh doanh sản phẩm du lịch mạo hiểm phải áp dụng biện pháp bảo đảm an toàn nào?",
+          "retrieved_contexts": [
+            "i) Áp dụng biện pháp bảo đảm an toàn tính mạng, sức khỏe, tài sản của khách du lịch; kịp thời thông báo cho cơ quan nhà nước có thẩm quyền về tai nạn, rủi ro xảy ra với khách du lịch và có biện pháp khắc phục hậu quả;\n\nk) Quản lý khách du lịch theo chương trình du lịch đã thỏa thuận với khách du lịch.\n\n2. Doanh nghiệp kinh doanh dịch vụ lữ hành quốc tế phục vụ khách du lịch quốc tế đến Việt Nam có quyền và nghĩa vụ sau đây:",
+            "Chương III\n\nBIỆN PHÁP BẢO ĐẢM AN TOÀN CHO KHÁCH DU LỊCH ĐỐI VỚI NHỮNG SẢN PHẨM DU LỊCH CÓ NGUY CƠ ẢNH HƯỞNG ĐẾN TÍNH MẠNG, SỨC KHỎE CỦA KHÁCH DU LỊCH\n\nĐiều 8. Sản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch\n\nSản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch khi có một hoặc một số hoạt động sau đây:\n\n1. Bay dù lượn, khinh khí cầu; nhảy dù; đu dây mạo hiểm hành trình trên cao.",
+            "Chương III. BIỆN PHÁP BẢO ĐẢM AN TOÀN CHO KHÁCH DU LỊCH ĐỐI VỚI NHỮNG SẢN PHẨM DU LỊCH CÓ NGUY CƠ ẢNH HƯỞNG ĐẾN TÍNH MẠNG, SỨC KHỎE CỦA KHÁCH DU LỊCH\n\nĐiều 8. Sản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch\n\nSản phẩm du lịch có nguy cơ ảnh hưởng đến tính mạng, sức khỏe của khách du lịch khi có một hoặc một số hoạt động sau đây:\n\n1. Bay dù lượn, khinh khí cầu; nhảy dù; đu dây mạo hiểm hành trình trên cao.",
+            "a) Tuân thủ quy định tại khoản 1 Điều này trong trường hợp trực tiếp kinh doanh các sản phẩm du lịch;\n\nb) Sử dụng dịch vụ do tổ chức, cá nhân thuộc Danh mục tổ chức, cá nhân đáp ứng đầy đủ các biện pháp bảo đảm an toàn cho khách du lịch cung cấp trong trường hợp không trực tiếp kinh doanh các sản phẩm du lịch này.\n\nChương IV\n\nĐIỀU KIỆN CÔNG NHẬN ĐIỂM DU LỊCH, KHU DU LỊCH\n\nĐiều 11. Điều kiện công nhận điểm du lịch",
+            "a) Tuân thủ quy định tại khoản 1 Điều này trong trường hợp trực tiếp kinh doanh các sản phẩm du lịch;\n\nb) Sử dụng dịch vụ do tổ chức, cá nhân thuộc Danh mục tổ chức, cá nhân đáp ứng đầy đủ các biện pháp bảo đảm an toàn cho khách du lịch cung cấp trong trường hợp không trực tiếp kinh doanh các sản phẩm du lịch này.\n\nChương IV. ĐIỀU KIỆN CÔNG NHẬN ĐIỂM DU LỊCH, KHU DU LỊCH\n\nĐiều 11. Điều kiện công nhận điểm du lịch"
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Điều 9 Nghị định 94/2021/NĐ-CP, doanh nghiệp phải: có cảnh báo, chỉ dẫn về điều kiện khí hậu, thời tiết, sức khỏe và các yếu tố liên quan; có phương án cứu hộ, cứu nạn, bố trí lực lượng cứu hộ và xử lý kịp thời sự cố, duy trì thông tin liên lạc với khách trong suốt thời gian cung cấp sản phẩm; bố trí huấn luyện viên, kỹ thuật viên, hướng dẫn viên có chuyên môn phù hợp; phổ biến quy định bảo đảm an toàn và hướng dẫn thao tác kỹ thuật cho khách trước khi cung cấp sản phẩm; cung cấp, hướng dẫn sử dụng và giám sát việc sử dụng trang thiết bị, dụng cụ hỗ trợ theo quy chuẩn, tiêu chuẩn.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Các hành vi nào bị nghiêm cấm trong hoạt động du lịch?",
+          "retrieved_contexts": [
+            "5. Khách du lịch, cộng đồng dân cư và tổ chức, cá nhân khác có trách nhiệm bảo vệ, giữ gìn cảnh quan, môi trường, bản sắc văn hóa, phong tục, tập quán của dân tộc; có thái độ ứng xử văn minh, lịch sự nhằm nâng cao hình ảnh đất nước, con người và du lịch Việt Nam.\n\nĐiều 9. Các hành vi bị nghiêm cấm trong hoạt động du lịch\n\n1. Làm phương hại đến chủ quyền, lợi ích quốc gia, quốc phòng, an ninh, trật tự, an toàn xã hội, truyền thống văn hóa, đạo đức, thuần phong mỹ tục của dân tộc.",
+            "7. Hành nghề hướng dẫn du lịch khi không đủ điều kiện hành nghề.\n\n8. Quảng cáo không đúng loại, hạng cơ sở lưu trú du lịch đã được cơ quan nhà nước có thẩm quyền công nhận; quảng cáo về loại, hạng cơ sở lưu trú du lịch khi chưa được cơ quan nhà nước có thẩm quyền công nhận.\n\n9. Các hành vi bị nghiêm cấm khác theo quy định của luật khác có liên quan.\n\nChương II\n\nKHÁCH DU LỊCH\n\nĐiều 10. Các loại khách du lịch",
+            "đ) Lợi dụng hoạt động du lịch để đưa người từ Việt Nam ra nước ngoài hoặc từ nước ngoài vào Việt Nam trái pháp luật;\n\ne) Cho tổ chức, cá nhân khác sử dụng giấy phép kinh doanh dịch vụ lữ hành của doanh nghiệp để hoạt động kinh doanh;\n\ng) Không thực hiện đầy đủ nghĩa vụ quy định tại điểm i khoản 1 Điều 37 của Luật này, gây thiệt hại nghiêm trọng đến tính mạng, sức khỏe, tài sản của khách du lịch;\n\nh) Giả mạo hồ sơ đề nghị cấp, cấp đổi, cấp lại giấy phép kinh doanh dịch vụ lữ hành.",
+            "g) Thực hiện hợp tác quốc tế về du lịch; hoạt động xúc tiến du lịch ở trong nước và nước ngoài;\n\nh) Quản lý, tổ chức thực hiện việc cấp, thu hồi giấy phép, thẻ hướng dẫn viên du lịch và các văn bản chứng nhận khác về hoạt động du lịch;\n\ni) Xã hội hóa hoạt động đầu tư, phát triển sản phẩm du lịch, xúc tiến du lịch, đào tạo, bồi dưỡng nguồn nhân lực du lịch;\n\nk) Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo và xử lý vi phạm pháp luật về du lịch.",
+            "1. Doanh nghiệp bị thu hồi giấy phép kinh doanh dịch vụ lữ hành trong các trường hợp sau đây:\n\na) Chấm dứt hoạt động kinh doanh dịch vụ lữ hành, giải thể hoặc phá sản;\n\nb) Không đáp ứng một trong các điều kiện kinh doanh dịch vụ lữ hành quy định tại khoản 1 hoặc khoản 2 Điều 31 của Luật này;\n\nc) Không đổi giấy phép kinh doanh dịch vụ lữ hành theo quy định tại khoản 1 Điều 35 của Luật này;\n\nd) Làm phương hại đến chủ quyền, lợi ích quốc gia, quốc phòng, an ninh;"
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Điều 9 Luật Du lịch 2017 quy định các hành vi bị nghiêm cấm trong hoạt động du lịch, bao gồm làm phương hại đến chủ quyền, lợi ích quốc gia, quốc phòng, an ninh, trật tự, an toàn xã hội, truyền thống văn hóa, đạo đức, thuần phong mỹ tục của dân tộc; lợi dụng hoạt động du lịch để đưa người từ Việt Nam ra nước ngoài hoặc từ nước ngoài vào Việt Nam trái pháp luật; xâm hại tài nguyên du lịch, môi trường du lịch; phân biệt đối xử với khách du lịch, thu lợi bất hợp pháp từ khách du lịch; kinh doanh du lịch khi không đủ điều kiện theo quy định.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Khách quốc tế đến Việt Nam trong 8 tháng năm 2026 đạt bao nhiêu lượt người?",
+          "retrieved_contexts": [
+            "Số liệu thống kê cho thấy, trong tháng 8, khách quốc tế đến nước ta ước đạt 1,99 triệu lượt người, tăng 19,7% so với tháng trước và tăng 18,4% so với cùng kỳ năm trước. Tính chung tám tháng năm 2026, khách quốc tế đến Việt Nam đạt 15,9 triệu lượt người, tăng 14,4% so với cùng kỳ năm trước và là số lượt khách đến nước ta cao nhất của 8 tháng các năm trong nhiều năm qua.",
+            "Theo Cục Thống kê, trong tháng 6/2026, khách quốc tế đến nước ta ước đạt 1,68 triệu lượt người, giảm 5,7% so với tháng trước, tăng 14,7% so với cùng kỳ năm trước; quý II/2026 ước đạt 5,49 triệu lượt khách, giảm 18,8% so với quý trước và tăng 18,2% so với cùng kỳ năm trước. Tính chung sáu tháng đầu năm 2026, khách quốc tế đến Việt Nam đạt 12,3 triệu lượt người, tăng 14,9% so với cùng kỳ năm trước. \n\nSức hút của điểm đến Việt Nam ngày càng bền vững",
+            "# 8 tháng qua, khách quốc tế đến Việt Nam đạt 15,9 triệu lượt người\n\n**Source:** https://nhandan.vn/8-thang-qua-khach-quoc-te-den-viet-nam-dat-159-trieu-luot-nguoi-post986169.html\n\n**Crawled:** 2026-09-20T15:00:42.760250\n\n---\n\n8 tháng qua, khách quốc tế đến Việt Nam đạt 15,9 triệu lượt người Xin trân trọng cảm ơn!\n\nMua báo Tin mới Tin địa phương Nhận tin \n\nKinh tế Thông tin hàng hóa \n\nVăn hóa \n\nXã hội Người tốt việc tốt \n\nPháp luật \n\nDu lịch \n\nThế giới ASEAN \n\nChâu Phi \n\nChâu Mỹ \n\nChâu Âu",
+            "# \n\n# Theo Cục Thống kê (Bộ Tài chính), hoạt động du lịch tiếp tục duy trì đà tăng trưởng trong tám tháng năm 2026. Lượng khách quốc tế đến Việt Nam tám tháng năm 2026 đạt 15,9 triệu lượt người, tăng 14,4% so với cùng kỳ năm trước.",
+            "Số liệu từ Cục Thống kê (Bộ Tài chính) cho thấy, chỉ xét riêng tháng 7 năm 2026, Việt Nam đón 1,67 triệu lượt khách quốc tế, tăng 6,6% so với cùng kỳ năm trước. Tính chung cả 7 tháng đầu năm, lượng khách quốc tế đạt 13,9 triệu lượt, tăng 13,8% so với cùng kỳ năm 2025. Con số này cũng giúp ngành du lịch hoàn thành khoảng 56% mục tiêu đón 25 triệu lượt khách quốc tế trong năm 2026."
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Cục Thống kê (Bộ Tài chính), lượng khách quốc tế đến Việt Nam trong tám tháng năm 2026 đạt 15,9 triệu lượt người, tăng 14,4% so với cùng kỳ năm trước. Đây là số lượt khách đến Việt Nam cao nhất của 8 tháng các năm trong nhiều năm qua.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Trong 8 tháng năm 2026, khách quốc tế đến Việt Nam bằng đường hàng không chiếm tỷ lệ bao nhiêu?",
+          "retrieved_contexts": [
+            "Trong đó, khách đến bằng đường hàng không đạt 10,1 triệu lượt người, chiếm 82,6% lượng khách quốc tế đến và tăng 11,4% so với cùng kỳ năm trước; bằng đường bộ đạt 1,9 triệu lượt người, chiếm 15,7% và tăng 37,5%; bằng đường biển đạt 209,0 nghìn lượt người, chiếm 1,7% và tăng 15,2%.",
+            "Trong đó, khách đến bằng đường hàng không đạt 13,2 triệu lượt người, chiếm 83,1% lượng khách quốc tế đến và tăng 11,6% so với cùng kỳ năm trước; bằng đường bộ đạt 2,5 triệu lượt người, chiếm 15,5% và tăng 32,0%; bằng đường biển đạt 220,6 nghìn lượt người, chiếm 1,4% và tăng 17,5%.\n\nNguồn: Cục Thống kê, Bộ Tài chính.",
+            "Số liệu thống kê cho thấy, trong tháng 8, khách quốc tế đến nước ta ước đạt 1,99 triệu lượt người, tăng 19,7% so với tháng trước và tăng 18,4% so với cùng kỳ năm trước. Tính chung tám tháng năm 2026, khách quốc tế đến Việt Nam đạt 15,9 triệu lượt người, tăng 14,4% so với cùng kỳ năm trước và là số lượt khách đến nước ta cao nhất của 8 tháng các năm trong nhiều năm qua.",
+            "Theo Cục Thống kê, trong tháng 6/2026, khách quốc tế đến nước ta ước đạt 1,68 triệu lượt người, giảm 5,7% so với tháng trước, tăng 14,7% so với cùng kỳ năm trước; quý II/2026 ước đạt 5,49 triệu lượt khách, giảm 18,8% so với quý trước và tăng 18,2% so với cùng kỳ năm trước. Tính chung sáu tháng đầu năm 2026, khách quốc tế đến Việt Nam đạt 12,3 triệu lượt người, tăng 14,9% so với cùng kỳ năm trước. \n\nSức hút của điểm đến Việt Nam ngày càng bền vững",
+            "Thứ Năm, ngày 10/09/2026 - 07:30 Prefer Nhan Dan on Google Phố cổ Hội An luôn là điểm đến thu hút đông đảo du khách trong nước và quốc tế. (Ảnh: PHAN HẢI TÙNG LÂM) Theo nền tảng du lịch kỹ thuật số Agoda, Việt Nam tiếp tục lọt vào top 3 điểm đến châu Á có tỷ lệ du khách quay lại cao nhất. Đà Nẵng cũng góp phần không nhỏ trong kết quả này khi tăng hai bậc so năm ngoái, vươn lên vị trí thứ sáu châu Á. Bảng xếp hạng được thực hiện dựa trên dữ liệu đặt phòng trên Agoda trong sáu tháng đầu năm 2026."
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Khách đến bằng đường hàng không đạt 13,2 triệu lượt người, chiếm 83,1% lượng khách quốc tế đến và tăng 11,6% so với cùng kỳ năm trước. Đường bộ đạt 2,5 triệu lượt người chiếm 15,5%, còn đường biển đạt 220,6 nghìn lượt người chiếm 1,4%.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Thị trường nào gửi khách lớn nhất đến Việt Nam trong 7 tháng đầu năm 2026?",
+          "retrieved_contexts": [
+            "Đà tăng trưởng mạnh của thị trường Nga được phản ánh rõ qua số liệu 8 tháng đầu năm 2026. Theo số liệu của Cục Thống kê, Việt Nam đã đón hơn 1 triệu lượt khách Nga trong suốt 8 tháng qua. Con số này tăng 165,7% so với cùng kỳ năm 2025, đưa Nga lên vị trí thứ 3 trong số 10 thị trường gửi khách lớn nhất của du lịch Việt Nam, chỉ sau hai thị trường lớn khác là Trung Quốc và Hàn Quốc.",
+            "Về quy mô thị trường, Trung Quốc tiếp tục là thị trường gửi khách lớn nhất với 2,7 triệu lượt, tiếp theo là Hàn Quốc với 2,16 triệu lượt. Hai thị trường này vẫn chiếm khoảng 40% tổng lượng khách quốc tế đến Việt Nam.\n\nTheo Trung tâm Thông tin du lịch, thị trường Nga tiếp tục duy trì đà tăng trưởng cao khi đạt 742,7 nghìn lượt khách, tăng 185,8% so với cùng kỳ, qua đó giữ vững vị trí thị trường lớn thứ ba của du lịch Việt Nam.",
+            "# \n\n# Cục Du lịch quốc gia Việt Nam thông tin, lượng khách du lịch Nga đến Việt Nam trong năm 2026 có thể đạt mức kỷ lục lịch sử là 1,5 triệu lượt người. Dự báo này vừa được đưa ra trong bối cảnh Nga được xem là thị trường tăng trưởng nổi bật nhất trong nhóm các thị trường có quy mô lớn của ngành du lịch Việt.",
+            "Bên cạnh đó, khu vực Nam Á có Ấn Độ với 553 nghìn lượt khách. Việc Ấn Độ góp mặt trong những thị trường gửi khách lớn nhất của Việt Nam cũng phản ánh tiềm năng ngày càng lớn của phân khúc khách có mức chi tiêu khá và nhu cầu du lịch nước ngoài tăng nhanh.\n\nNgoài ra, nhóm 10 thị trường nguồn lớn nhất còn có sự xuất hiện của các thị trường đường dài như: Nga với 864 nghìn lượt khách, Hoa Kỳ với 617 nghìn lượt khách và Australia với 397 nghìn lượt khách.",
+            "Theo Trung tâm Thông tin du lịch (Cục Du lịch Quốc gia Việt Nam), xét về quy mô thị trường, Trung Quốc vẫn là thị trường gửi khách lớn nhất của Việt Nam với khoảng 3,1 triệu lượt, chiếm 22,2% tổng lượng khách quốc tế.\n\nXếp sau đó là thị trường Hàn Quốc giữ vị trí thứ hai với 2,4 triệu lượt khách. Có thể thấy, Hàn Quốc là một trong những thị trường truyền thống quan trọng và ổn định nhất của ngành du lịch Việt Nam."
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo Trung tâm Thông tin du lịch (Cục Du lịch Quốc gia Việt Nam), Trung Quốc là thị trường gửi khách lớn nhất của Việt Nam với khoảng 3,1 triệu lượt, chiếm 22,2% tổng lượng khách. Hàn Quốc giữ vị trí thứ hai với 2,4 triệu lượt khách.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Lượng khách du lịch Nga đến Việt Nam năm 2026 được dự báo đạt bao nhiêu?",
+          "retrieved_contexts": [
+            "# Lượng du khách Nga đến Việt Nam dự báo cao kỷ lục trong năm 2026\n\n**Source:** https://nhandan.vn/luong-du-khach-nga-den-viet-nam-du-bao-cao-ky-luc-trong-nam-2026-post988386.html\n\n**Crawled:** 2026-09-20T15:00:43.729819\n\n---\n\nLượng du khách Nga đến Việt Nam dự báo cao kỷ lục trong năm 2026 Xin trân trọng cảm ơn!\n\nMua báo Tin mới Tin địa phương Nhận tin \n\nKinh tế Thông tin hàng hóa \n\nVăn hóa \n\nXã hội Người tốt việc tốt \n\nPháp luật \n\nDu lịch \n\nThế giới ASEAN \n\nChâu Phi \n\nChâu Mỹ \n\nChâu Âu",
+            "# \n\n# Cục Du lịch quốc gia Việt Nam thông tin, lượng khách du lịch Nga đến Việt Nam trong năm 2026 có thể đạt mức kỷ lục lịch sử là 1,5 triệu lượt người. Dự báo này vừa được đưa ra trong bối cảnh Nga được xem là thị trường tăng trưởng nổi bật nhất trong nhóm các thị trường có quy mô lớn của ngành du lịch Việt.",
+            "Theo ông Nikita Kondratyev, Vụ trưởng Hợp tác kinh tế đa phương và các dự án đặc biệt thuộc Bộ Phát triển kinh tế Liên bang Nga, ngay cả vào giai đoạn đỉnh điểm trước đại dịch năm 2018-2019, dòng khách Nga sang Việt Nam cũng chỉ duy trì ở mức khoảng 700.000-800.000 lượt.\n\n\"Lượng khách Nga đến Việt Nam trong năm 2026 có thể đạt khoảng 1,5 triệu lượt, mức cao nhất từ trước đến nay\", ông Nikita Kondratyev dự đoán.",
+            "Thứ Hai, ngày 14/09/2026 - 14:36 Prefer Nhan Dan on Google Khách quốc tế thả hoa đăng trên sông Hoài, Hội An. (Ảnh: THẾ ĐẠI) Ở thời điểm hiện tại, thị trường Nga đang ghi nhận tốc độ tăng trưởng đặc biệt cao, với hơn 1 triệu lượt khách đến Việt Nam trong 8 tháng đầu năm.\n\nTrích dẫn thông tin từ trang tin điện tử news.ru của Nga, lượng khách du lịch Nga đến Việt Nam trong năm 2026 có thể đạt mức kỷ lục lịch sử 1,5 triệu lượt người.",
+            "# Nghị quyết số 26-NQ/TW: Khi hai trụ cột du lịch và công nghiệp văn hóa song hành \n\n# Mở hướng phát triển mới cho du lịch Lâm Đồng \n\n# Lượng du khách Nga đến Việt Nam dự báo cao kỷ lục trong năm 2026 \n\n# Giới thiệu, quảng bá “Thái Nguyên - điểm đến xanh cho du khách quốc tế” tại tỉnh Quảng Trị \n\n# [Ảnh] Đánh thức Hòn Chùa: Kiệt tác đảo đá núi lửa và san hô giữa biển khơi \n\n# Công viên Rồng chính thức dừng đón khách từ ngày 13/9 \n\n# Một giải bóng đá bình dân hâm nóng ngành du lịch Trung Quốc"
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Cục Du lịch quốc gia Việt Nam thông tin rằng lượng khách du lịch Nga đến Việt Nam trong năm 2026 có thể đạt mức kỷ lục lịch sử là 1,5 triệu lượt người. Đây là mức cao nhất từ trước đến nay theo dự đoán của ông Nikita Kondratyev.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Việt Nam xếp thứ mấy châu Á về tỷ lệ khách quốc tế quay lại?",
+          "retrieved_contexts": [
+            "# Việt Nam đứng top 3 châu Á về tỷ lệ khách quốc tế quay lại\n\n**Source:** https://nhandan.vn/viet-nam-nam-trong-top-3-diem-den-chau-a-co-ty-le-du-khach-quay-lai-cao-nhat-post987462.html\n\n**Crawled:** 2026-09-20T15:00:44.159292\n\n---\n\nViệt Nam đứng top 3 châu Á về tỷ lệ khách quốc tế quay lại Xin trân trọng cảm ơn!\n\nMua báo Tin mới Tin địa phương Nhận tin \n\nKinh tế Thông tin hàng hóa \n\nVăn hóa \n\nXã hội Người tốt việc tốt \n\nPháp luật \n\nDu lịch \n\nThế giới ASEAN \n\nChâu Phi \n\nChâu Mỹ \n\nChâu Âu",
+            "Xét riêng bảng xếp hạng các thành phố tại châu Á, năm nay Tokyo vươn lên dẫn đầu, vượt qua Bangkok. Kế tiếp là Bali lần đầu tiên giữ vị trí thứ ba, theo sau có Seoul và Osaka. Đà Nẵng, Kuala Lumpur, Fukuoka, Đài Bắc và Johor Bahru lần lượt góp mặt trong top 10 thành phố có tỷ lệ du khách quay lại cao nhất.\n\nTại Việt Nam, năm điểm đến có tỷ lệ du khách quay lại cao nhất trong nửa đầu năm 2026 lần lượt là Đà Nẵng, Thành phố Hồ Chí Minh, Nha Trang, Hà Nội và đảo Phú Quốc.",
+            "Thứ Năm, ngày 10/09/2026 - 07:30 Prefer Nhan Dan on Google Phố cổ Hội An luôn là điểm đến thu hút đông đảo du khách trong nước và quốc tế. (Ảnh: PHAN HẢI TÙNG LÂM) Theo nền tảng du lịch kỹ thuật số Agoda, Việt Nam tiếp tục lọt vào top 3 điểm đến châu Á có tỷ lệ du khách quay lại cao nhất. Đà Nẵng cũng góp phần không nhỏ trong kết quả này khi tăng hai bậc so năm ngoái, vươn lên vị trí thứ sáu châu Á. Bảng xếp hạng được thực hiện dựa trên dữ liệu đặt phòng trên Agoda trong sáu tháng đầu năm 2026.",
+            "Một số điểm đến có sức hút đặc biệt khiến du khách muốn quay trở lại để khám phá những điểm tham quan mới, ghé thăm địa điểm yêu thích hay đơn giản là tìm lại cảm giác thân thuộc.\n\n(Ảnh: agoda.com)\n\nÔng Vũ Ngọc Lâm, Giám đốc Quốc gia Agoda tại Việt Nam cho biết, việc Việt Nam tiếp tục nằm trong top 3 điểm đến châu Á có tỷ lệ du khách quay lại cao nhất phản ánh rõ nét cho sự phong phú và hấp dẫn trong các sản phẩm du lịch của Việt Nam.",
+            "# Việt Nam lọt top 5 quốc gia được du khách Nga yêu thích nhất \n\n# Việt Nam lọt Top 28 quốc gia đẹp nhất thế giới \n\nkhách quốc tế quay lại du khách du lịch Việt Nam điểm đến châu Á \n\n# \n\n# \n\n# Hải Phòng thành lập Tổ công tác rà soát, nghiên cứu sắp xếp đơn vị hành chính cấp xã \n\n# [Ảnh] Cận cảnh cầu Đuống mới chuẩn bị hợp long sau gần 3 năm thi công \n\n# [Infographic] Các đồng chí vừa được Bộ Chính trị, Ban Bí thư điều động, phân công, chỉ định, bổ nhiệm \n\nThời tiết Tỷ giá \nCó thể bạn quan tâm"
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo nền tảng du lịch kỹ thuật số Agoda, Việt Nam nằm trong top 3 điểm đến châu Á có tỷ lệ du khách quay lại cao nhất. Ông Vũ Ngọc Lâm, Giám đốc Quốc gia Agoda tại Việt Nam, cho rằng điều này phản ánh sự phong phú và hấp dẫn của điểm đến Việt Nam.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        },
+        {
+          "user_input": "Sáu tháng đầu năm 2026 Việt Nam đón bao nhiêu lượt khách quốc tế?",
+          "retrieved_contexts": [
+            "# \n\n(Chinhphu.vn) - Số liệu mới nhất của Cục Thống kê (Bộ Tài chính) cho thấy, sáu tháng đầu năm 2026, khách quốc tế đến Việt Nam đạt 12,3 triệu lượt người, tăng 14,9% so với cùng kỳ năm trước. Như vậy ngành du lịch đã hoàn thành gần 50% mục tiêu đón 25 triệu lượt khách quốc tế trong năm 2026.\n\n04/07/2026\n\n14:54\n\nKhách quốc tế mua vé tham quan Di tích Nhà tủ Hòa Lò. Ảnh: VGP/DA",
+            "Số liệu từ Cục Thống kê (Bộ Tài chính) cho thấy, chỉ xét riêng tháng 7 năm 2026, Việt Nam đón 1,67 triệu lượt khách quốc tế, tăng 6,6% so với cùng kỳ năm trước. Tính chung cả 7 tháng đầu năm, lượng khách quốc tế đạt 13,9 triệu lượt, tăng 13,8% so với cùng kỳ năm 2025. Con số này cũng giúp ngành du lịch hoàn thành khoảng 56% mục tiêu đón 25 triệu lượt khách quốc tế trong năm 2026.",
+            "Theo Cục Thống kê, trong tháng 6/2026, khách quốc tế đến nước ta ước đạt 1,68 triệu lượt người, giảm 5,7% so với tháng trước, tăng 14,7% so với cùng kỳ năm trước; quý II/2026 ước đạt 5,49 triệu lượt khách, giảm 18,8% so với quý trước và tăng 18,2% so với cùng kỳ năm trước. Tính chung sáu tháng đầu năm 2026, khách quốc tế đến Việt Nam đạt 12,3 triệu lượt người, tăng 14,9% so với cùng kỳ năm trước. \n\nSức hút của điểm đến Việt Nam ngày càng bền vững",
+            "Ngoài ra, các điểm đến như Nha Trang, Mũi Né, Phú Quốc với khí hậu ấm áp quanh năm, ẩm thực phong phú và hệ thống resort hiện đại tiếp tục là lựa chọn số 1 của du khách Nga.\n\nNhìn toàn cảnh, sự bùng nổ của thị trường Nga diễn ra trong bối cảnh tình hình đón khách quốc tế đến Việt Nam tiếp tục duy trì đà tăng trưởng tích cực. Trong 8 tháng đầu năm 2026, Việt Nam đón gần 16 triệu lượt khách quốc tế, tăng 14,4% so với cùng kỳ năm ngoái.",
+            "Với hơn 13,9 triệu lượt khách quốc tế sau 7 tháng đầu năm, ngành du lịch Việt đã hoàn thành 56% mục tiêu đề ra của cả năm 2026."
+          ],
+          "response": "Tôi không thể xác minh thông tin này từ nguồn hiện có.",
+          "reference": "Theo số liệu của Cục Thống kê (Bộ Tài chính), sáu tháng đầu năm 2026 khách quốc tế đến Việt Nam đạt 12,3 triệu lượt người, tăng 14,9% so với cùng kỳ năm trước. Riêng tháng 6/2026 ước đạt 1,68 triệu lượt người, giảm 5,7% so với tháng trước nhưng tăng 14,7% so với cùng kỳ năm trước.",
+          "faithfulness": NaN,
+          "answer_relevancy": NaN,
+          "context_recall": NaN,
+          "context_precision": NaN
+        }
+      ]
+    }
+  }
+}
