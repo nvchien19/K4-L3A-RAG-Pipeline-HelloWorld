@@ -1,0 +1,42 @@
+{
+  "in_domain": {
+    "group": "in-domain",
+    "n": 8,
+    "min": 0.4944,
+    "max": 0.7071,
+    "mean": 0.6045,
+    "median": 0.6091
+  },
+  "out_of_domain": {
+    "group": "out-of-domain",
+    "n": 8,
+    "min": 0.1456,
+    "max": 0.3536,
+    "mean": 0.2352,
+    "median": 0.2266
+  },
+  "in_domain_scores": [
+    0.6794,
+    0.677,
+    0.6014,
+    0.6168,
+    0.5415,
+    0.7071,
+    0.5185,
+    0.4944
+  ],
+  "out_of_domain_scores": [
+    0.2121,
+    0.1456,
+    0.2267,
+    0.2359,
+    0.3536,
+    0.2932,
+    0.2265,
+    0.1878
+  ],
+  "separable": true,
+  "recommended_threshold": 0.424,
+  "false_fallback_on_in_domain": 0,
+  "missed_fallback_on_out_of_domain": 0
+}

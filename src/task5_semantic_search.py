@@ -5,7 +5,7 @@ Embed query bằng chính hàm của Task 4, query ChromaDB và đổi cosine di
 thành similarity. Output phải theo SearchResult, sort giảm dần và không quá top_k.
 """
 
-from .task4_chunking_indexing import embed_texts, get_collection
+from .task4_chunking_indexing import embed_texts, from_stored_metadata, get_collection
 
 
 def semantic_search(query: str, top_k: int = 10) -> list[dict]:
@@ -28,7 +28,7 @@ def semantic_search(query: str, top_k: int = 10) -> list[dict]:
                 "id": item_id,
                 "content": content,
                 "score": max(0.0, 1.0 - distance),
-                "metadata": metadata,
+                "metadata": from_stored_metadata(metadata),
                 "retrieval_method": "dense",
             }
         )
