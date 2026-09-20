@@ -14,7 +14,7 @@ Repo có 10 task được implement sẵn khung (stub `NotImplementedError`) tro
 
 ## Phân công chi tiết
 
-### Hồ Nam — Data (Tasks 1, 2, 3)
+### Vũ Văn Hà — Data (Tasks 1, 2, 3)
 
 - Chọn đề tài nhóm (tham khảo [SUGGESTED_TOPICS](SUGGESTED_TOPICS.md)) và thống nhất với cả team.
 - `task1_collect_legal_docs.py`: tải ≥ 3 PDF/DOCX vào `data/landing/legal/` (tên không dấu, > 1 KB).
@@ -42,7 +42,7 @@ python -m src.task5_semantic_search
 pytest tests/test_contracts.py -k "chunk_documents or semantic_search" -q
 ```
 
-### Nam — Lexical + Fusion (Tasks 6, 7)
+### Nguyễn Hồ Nam — Lexical + Fusion (Tasks 6, 7)
 
 - `task6_lexical_search.py`: `build_bm25_index` + `lexical_search` trên cùng corpus chunks VỚI Task 5.
 - `task7_reranking.py`: `rerank_rrf` — công thức `sum(1 / (k + rank))`, rank bắt đầu 1, mặc định `k=60`, chỉ fuse một lần.
@@ -79,7 +79,7 @@ streamlit run app.py
 
 | Hạng mục | Chủ trì | Mô tả |
 |---|---|---|
-| Golden dataset ≥ 15 Q&A | Hồ Nam góp phần legal, cả team góp, Trọng Huy tổng hợp | Ghi vào `group_project/evaluation/golden_dataset.json` |
+| Golden dataset ≥ 15 Q&A | Vũ Văn Hà góp phần legal, cả team góp, Trọng Huy tổng hợp | Ghi vào `group_project/evaluation/golden_dataset.json` |
 | Script đánh giá 4 metric (ragas) | Trọng Huy | faithfulness, answer relevance, context recall, context precision |
 | Config A dense-only vs B hybrid+RRF | Văn Chiến + Cảnh Duy chạy, Nam/Trọng Huy phân tích | Cùng dataset/generator/prompt/top_k, chỉ khác retrieval |
 | Hiệu chỉnh threshold & ghi lại | Cảnh Duy | Ghi vào `RESULT.md` phần calibration |
@@ -95,8 +95,8 @@ streamlit run app.py
             [T8 pageindex] ──────────────────────────────────────────────────────→↑(fallback)                        → [evaluation]
 ```
 
-- Hồ Nam làm trước (milestone 0–1). Văn Chiến/Nam nhận ra khung Task 4–7 sớm (Văn Chiến cần Hồ Nam xong data).
-- Cảnh Duy làm Task 8 song song với Nam; Task 9 chờ 5–7 trả đủ.
+- Vũ Văn Hà làm trước (milestone 0–1). Văn Chiến/Nguyễn Hồ Nam nhận ra khung Task 4–7 sớm (Văn Chiến cần Vũ Văn Hà xong data).
+- Cảnh Duy làm Task 8 song song với Nguyễn Hồ Nam; Task 9 chờ 5–7 trả đủ.
 - Trọng Huy viết `reorder_for_llm`/`format_context` sớm (không phụ thuộc data), `call_llm`/`generate_with_citation` chờ Task 9.
 - Evaluation chạy cuối khi pipeline end-to-end xong.
 
@@ -104,8 +104,8 @@ streamlit run app.py
 
 | Mốc | Thời gian | Người nộp |
 |---|---|---|
-| Setup + chọn đề tài | 0–10' | Cả team (Hồ Nam chủ trì tên đề tài) |
-| Data hoàn tất | 10–35' | Hồ Nam |
+| Setup + chọn đề tài | 0–10' | Cả team (Vũ Văn Hà chủ trì tên đề tài) |
+| Data hoàn tất | 10–35' | Vũ Văn Hà |
 | Index + search chạy | 35–65' | Văn Chiến (Nam chuẩn bị BM25) |
 | RRF + fallback | 65–90' | Nam + Cảnh Duy |
 | Generation + UI | 90–120' | Trọng Huy |
