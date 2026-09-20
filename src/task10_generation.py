@@ -34,7 +34,7 @@ SAFE_REFUSAL = "Tôi không thể xác minh thông tin này từ nguồn hiện 
 
 DEFAULT_LLM_MODELS = {
     "openai": "gpt-4o-mini",
-    "gemini": "gemini-1.5-flash",
+    "gemini": "gemini-3.6-flash",
     "anthropic": "claude-3-5-haiku-latest",
 }
 
@@ -66,10 +66,13 @@ def format_context(chunks: list[dict]) -> str:
 
 def call_llm(system_prompt: str, user_message: str) -> str:
     """Gọi OpenAI, Gemini hoặc Anthropic theo cấu hình."""
-    provider = os.getenv("LLM_PROVIDER", LLM_PROVIDER).strip().lower()
-    model = os.getenv("LLM_MODEL", LLM_MODEL).strip() or DEFAULT_LLM_MODELS.get(provider)
-    if not model:
+    provider = (os.getenv("LLM_PROVIDER") or LLM_PROVIDER).strip().lower()
+    # Provider phải được kiểm tra TRƯỚC khi resolve model: nếu không, provider lạ
+    # đi kèm LLM_MODEL có giá trị sẽ lọt qua và rơi xuống nhánh import sai ở dưới,
+    # raise ImportError thay vì ValueError như contract mô tả.
+    if provider not in DEFAULT_LLM_MODELS:
         raise ValueError(f"Unsupported LLM_PROVIDER: {provider}")
+    model = (os.getenv("LLM_MODEL") or LLM_MODEL).strip() or DEFAULT_LLM_MODELS[provider]
 
     if provider == "openai":
         from openai import OpenAI
@@ -125,11 +128,20 @@ def _safe_refusal() -> dict:
 
 
 def _retrieval_source(chunks: list[dict]) -> str:
+    """Quy retrieval_method của chunk về RetrievalSource của GenerationResult.
+
+    Contract chỉ cho phép hybrid|pageindex|none. Task 9 có thể trả về chunk gắn
+    nhãn "dense"/"bm25" (ví dụ khi gọi với use_reranking=False): đó vẫn là có
+    nguồn thật, nên quy về "hybrid" chứ không phải "none" — trả "none" sẽ làm
+    generate_with_citation từ chối trả lời dù context hoàn toàn hợp lệ.
+    """
     if not chunks:
         return "none"
     method = chunks[0].get("retrieval_method")
-    if method in {"hybrid", "pageindex"}:
-        return method
+    if method == "pageindex":
+        return "pageindex"
+    if method in {"hybrid", "dense", "bm25"}:
+        return "hybrid"
     return "none"
 
 

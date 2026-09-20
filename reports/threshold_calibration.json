@@ -2,41 +2,41 @@
   "in_domain": {
     "group": "in-domain",
     "n": 8,
-    "min": 0.4944,
-    "max": 0.7071,
-    "mean": 0.6045,
-    "median": 0.6091
+    "min": 0.7878,
+    "max": 0.9,
+    "mean": 0.8384,
+    "median": 0.8361
   },
   "out_of_domain": {
     "group": "out-of-domain",
     "n": 8,
-    "min": 0.1456,
-    "max": 0.3536,
-    "mean": 0.2352,
-    "median": 0.2266
+    "min": 0.5034,
+    "max": 0.6715,
+    "mean": 0.588,
+    "median": 0.5813
   },
   "in_domain_scores": [
-    0.6794,
-    0.677,
-    0.6014,
-    0.6168,
-    0.5415,
-    0.7071,
-    0.5185,
-    0.4944
+    0.7878,
+    0.876,
+    0.8311,
+    0.9,
+    0.8474,
+    0.8171,
+    0.8072,
+    0.8411
   ],
   "out_of_domain_scores": [
-    0.2121,
-    0.1456,
-    0.2267,
-    0.2359,
-    0.3536,
-    0.2932,
-    0.2265,
-    0.1878
+    0.6248,
+    0.5887,
+    0.5034,
+    0.6154,
+    0.5738,
+    0.6715,
+    0.5578,
+    0.5686
   ],
   "separable": true,
-  "recommended_threshold": 0.424,
+  "recommended_threshold": 0.73,
   "false_fallback_on_in_domain": 0,
   "missed_fallback_on_out_of_domain": 0
 }

@@ -35,13 +35,46 @@ python -m src.task1_collect_legal_docs
 python -m src.task2_crawl_news
 python -m src.task3_convert_markdown
 
-# 2. Index và kiểm tra contract
+# 2. Làm sạch boilerplate của web nguồn (bắt buộc sau khi crawl lại)
+python scripts/clean_standardized.py --dry-run   # xem trước sẽ cắt gì
+python scripts/clean_standardized.py
+
+# 3. Index và kiểm tra contract
 python -m src.task4_chunking_indexing
 pytest -q
 
-# 3. Chạy sản phẩm
+# 4. Hiệu chỉnh ngưỡng fallback rồi ghi kết quả vào .env
+python scripts/calibrate_threshold.py
+
+# 5. Chạy sản phẩm
 streamlit run app.py
 ```
+
+> **Thứ tự các bước quan trọng.** `clean_standardized.py` phải chạy trước khi
+> index, còn `calibrate_threshold.py` phải chạy sau khi index. Mỗi lần đổi
+> corpus hoặc đổi embedding model thì `SCORE_THRESHOLD` cũ đều hết hiệu lực và
+> phải đo lại, vì ngưỡng được so với cosine score gốc của dense search.
+
+Kiểm tra embedding backend nào đang thực sự chạy (tránh trường hợp tưởng là
+`BAAI/bge-m3` nhưng thực tế rơi vào hash fallback vì thiếu thư viện):
+
+```bash
+python -c "import src.task4_chunking_indexing as t4; t4.embed_texts(['test']); print(t4.describe_embedding_backend())"
+```
+
+Cấu hình mặc định dùng `EMBEDDING_PROVIDER=gemini` với `gemini-embedding-001`
+(3072 chiều), gọi qua API nên không phải tải model về máy. Đổi sang chạy offline
+bằng cách đặt `EMBEDDING_PROVIDER=sentence_transformers` và
+`EMBEDDING_MODEL=BAAI/bge-m3`; lần đầu sẽ tải ~2.2GB và trên CPU không có GPU thì
+index toàn bộ corpus mất rất lâu.
+
+> **Đổi embedding provider thì phải index lại từ đầu.** Vector của hai model khác
+> số chiều nhau (Gemini 3072, bge-m3 1024) nên không dùng chung collection được:
+> xoá `chroma_db/` trước khi chạy lại bước 3, rồi chạy lại bước 4.
+
+Free tier của Gemini giới hạn 100 request embed mỗi phút. Code tự đợi và thử lại
+theo `retryDelay` server trả về thay vì rơi xuống hash fallback, nên nếu chạm
+trần thì bước index chỉ chậm đi chứ không sinh index rác.
 
 ## Lộ trình 3 giờ
 

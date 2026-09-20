@@ -59,11 +59,45 @@ class _BM25:
         return scores
 
 
+_BM25_CACHE: tuple[list[dict], _BM25] | None = None
+
+
+def load_corpus() -> list[dict]:
+    """Nạp CORPUS từ cùng nguồn chunks của Task 4 (lazy, chỉ đọc một lần).
+
+    Task 6 phải chạy trên **cùng corpus chunks với Task 5**; nếu để CORPUS rỗng
+    thì lexical_search luôn trả [] và "hybrid" thực chất chỉ còn dense.
+    Test có thể monkeypatch CORPUS để tiêm corpus giả — khi đó không nạp lại.
+    """
+    global CORPUS
+    if not CORPUS:
+        from .task4_chunking_indexing import (  # noqa: PLC0415 - tránh vòng import
+            chunk_documents,
+            load_documents,
+        )
+
+        CORPUS = chunk_documents(load_documents())
+    return CORPUS
+
+
+def _get_bm25(corpus: list[dict]) -> _BM25:
+    """Trả BM25 index đã cache, chỉ build lại khi corpus đổi.
+
+    Tránh tokenize lại toàn bộ corpus ở mỗi query (evaluation chạy 18 câu hỏi
+    x 2 config sẽ rất chậm nếu build mỗi lần).
+    """
+    global _BM25_CACHE
+    if _BM25_CACHE is None or _BM25_CACHE[0] is not corpus:
+        _BM25_CACHE = (corpus, build_bm25_index(corpus))
+    return _BM25_CACHE[1]
+
+
 def lexical_search(query: str, top_k: int = 10) -> list[dict]:
     """Trả về BM25 SearchResult theo score giảm dần."""
-    if not CORPUS:
+    corpus = load_corpus()
+    if not corpus:
         return []
-    bm25 = build_bm25_index(CORPUS)
+    bm25 = _get_bm25(corpus)
     scores = bm25.get_scores(_tokenize(query))
     ranked_indices = sorted(
         range(len(scores)),
@@ -76,7 +110,7 @@ def lexical_search(query: str, top_k: int = 10) -> list[dict]:
             break
         if scores[index] <= 0:
             continue
-        item = CORPUS[index]
+        item = corpus[index]
         results.append(
             {
                 "id": item["id"],

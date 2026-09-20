@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-20",
+  "note": "Retrieval-only A/B (no LLM/RAGAS). Metric = recall@5 by source_document.",
+  "embedding": "hash fallback (sentence-transformers chua cai)",
+  "corpus_chunks": 563,
+  "hybrid_verified": true,
+  "recall_at_5": {
+    "config_A_dense_only": "17/18",
+    "config_B_hybrid_rrf": "17/18"
+  },
+  "misses": {
+    "config_A": [
+      "legal-09"
+    ],
+    "config_B": [
+      "legal-09"
+    ]
+  },
+  "boilerplate_defect": {
+    "token": "Đang theo dõi",
+    "files": [
+      "data/standardized/legal/luat-du-lich-2017.md",
+      "data/standardized/legal/nghi-dinh-168-2017-nd-cp.md"
+    ],
+    "occurrences": 1118,
+    "chunks_affected_pct": 53.5,
+    "chars_wasted_pct": 7.3,
+    "bm25_recall_before": "16/18",
+    "bm25_recall_after_cleaning": "17/18",
+    "owner": "Task 3/4 (data standardization + chunking)"
+  }
+}
