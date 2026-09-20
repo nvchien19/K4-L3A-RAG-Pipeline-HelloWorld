@@ -242,7 +242,68 @@ def test_retrieve_survives_fallback_provider_error(monkeypatch):
 
     monkeypatch.setattr(pipeline, "pageindex_search", unavailable)
     output = pipeline.retrieve("tuition", top_k=2, score_threshold=0.5)
+    # Vẫn trả kết quả (không crash) nhưng phải giữ tín hiệu "dưới ngưỡng".
+    assert [item["id"] for item in output] == [item["id"] for item in hybrid]
+    assert all(item["low_confidence"] for item in output)
+    validate_search_results(output)
+
+
+def test_retrieve_flags_low_confidence_when_fallback_unavailable(monkeypatch):
+    """Dense dưới ngưỡng + PageIndex trả rỗng (thiếu key) -> phải gắn cờ.
+
+    Regression: trước đây nhánh này lặng lẽ trả hybrid, khiến SCORE_THRESHOLD đã
+    hiệu chỉnh trở nên vô tác dụng và retrieval_source không bao giờ là "none".
+    """
+    import src.task9_retrieval_pipeline as pipeline
+
+    dense = [result("chunk-0", 0.2, "dense")]
+    hybrid = [result("chunk-0", 0.02, "hybrid")]
+    monkeypatch.setattr(pipeline, "semantic_search", lambda query, top_k: dense)
+    monkeypatch.setattr(pipeline, "lexical_search", lambda query, top_k: [])
+    monkeypatch.setattr(pipeline, "rerank_rrf", lambda lists, top_k: hybrid)
+    monkeypatch.setattr(pipeline, "pageindex_search", lambda query, top_k: [])
+
+    output = pipeline.retrieve("tuition", top_k=2, score_threshold=0.5)
+    assert all(item["low_confidence"] for item in output)
+    validate_search_results(output)
+
+
+def test_retrieve_does_not_flag_when_dense_above_threshold(monkeypatch):
+    """Trên ngưỡng thì không được gắn cờ, và không gọi PageIndex."""
+    import src.task9_retrieval_pipeline as pipeline
+
+    dense = [result("chunk-0", 0.9, "dense")]
+    hybrid = [result("chunk-0", 0.02, "hybrid")]
+    monkeypatch.setattr(pipeline, "semantic_search", lambda query, top_k: dense)
+    monkeypatch.setattr(pipeline, "lexical_search", lambda query, top_k: [])
+    monkeypatch.setattr(pipeline, "rerank_rrf", lambda lists, top_k: hybrid)
+
+    def must_not_be_called(query, top_k):
+        raise AssertionError("PageIndex không được gọi khi dense trên ngưỡng")
+
+    monkeypatch.setattr(pipeline, "pageindex_search", must_not_be_called)
+    output = pipeline.retrieve("tuition", top_k=2, score_threshold=0.5)
     assert output == hybrid
+    assert not any(item.get("low_confidence") for item in output)
+
+
+def test_generate_with_citation_refuses_on_low_confidence_chunks(monkeypatch):
+    """Cờ low_confidence phải biến thành safe refusal ở Task 10."""
+    import src.task10_generation as generation
+
+    chunks = [dict(result("chunk-0", 0.02, "hybrid"), low_confidence=True)]
+    monkeypatch.setattr(generation, "retrieve", lambda query, top_k: chunks)
+
+    def must_not_be_called(system_prompt, user_message):
+        raise AssertionError("Không được gọi LLM khi nguồn không đáng tin")
+
+    monkeypatch.setattr(generation, "call_llm", must_not_be_called)
+    output = generation.generate_with_citation("How is tuition paid?", top_k=1)
+
+    assert output["retrieval_source"] == "none"
+    assert output["sources"] == []
+    assert "không thể xác minh" in output["answer"]
+    validate_generation_result(output)
 
 
 def test_generation_result_validator_accepts_safe_refusal():

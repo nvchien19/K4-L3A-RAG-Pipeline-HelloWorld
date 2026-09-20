@@ -1,0 +1,16 @@
+# Cấu hình Streamlit cho Tourism RAG Chatbot.
+#
+# fileWatcherType = "none": tắt bộ theo dõi file của Streamlit.
+#
+# Vì sao cần: bộ theo dõi mặc định quét toàn bộ module trong site-packages để
+# biết file nào cần reload. Khi quét tới `transformers` (do sentence-transformers
+# kéo theo), nó kích hoạt lazy-import của thư viện này và chết ở `torchvision` —
+# package không được cài vì nhóm dùng Gemini embedding, không dùng model local.
+# Kết quả là console bị ngập hàng chục traceback "ModuleNotFoundError: No module
+# named 'torchvision'" dù ứng dụng chạy hoàn toàn bình thường.
+#
+# Ứng dụng KHÔNG hề import transformers/torch (đã kiểm chứng bằng sys.modules),
+# nên tắt watcher là an toàn. Đánh đổi: sửa code phải tự bấm "Rerun" hoặc khởi
+# động lại, không còn hot-reload.
+[server]
+fileWatcherType = "none"

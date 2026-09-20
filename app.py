@@ -149,12 +149,22 @@ def render_assistant_message(message: dict, key_prefix: str) -> None:
     render_source_badge(retrieval_source)
 
     # (8) Giải thích khi bot từ chối, tránh hiểu nhầm là app hỏng.
-    if retrieval_source == "none":
+    # Lỗi provider (vd hết quota 429) phải hiện riêng: nếu gộp chung với "không
+    # tìm được nguồn" thì người dùng sẽ tưởng corpus thiếu dữ liệu.
+    error = message.get("error")
+    if error:
+        st.error(
+            f"**Không tạo được câu trả lời.** {error}",
+            icon="🚫",
+        )
+    elif retrieval_source == "none":
         st.warning(
             "Bot từ chối trả lời vì không truy xuất được nguồn đủ tin cậy trong "
-            "corpus (luật + tin tức du lịch). Đây là hành vi có chủ đích để tránh "
-            "bịa thông tin, không phải lỗi ứng dụng. Hãy thử diễn đạt lại câu hỏi, "
-            "tăng **Số chunks** ở thanh bên, hoặc hỏi nội dung nằm trong corpus.",
+            "corpus (luật + tin tức du lịch): độ tương đồng của đoạn khớp nhất "
+            f"nằm dưới ngưỡng `SCORE_THRESHOLD={os.getenv('SCORE_THRESHOLD', 'mặc định')}` "
+            "đã hiệu chỉnh. Đây là hành vi có chủ đích để tránh bịa thông tin, "
+            "không phải lỗi ứng dụng. Hãy thử diễn đạt lại câu hỏi, tăng "
+            "**Số chunks** ở thanh bên, hoặc hỏi nội dung nằm trong corpus.",
             icon="⚠️",
         )
 
@@ -238,6 +248,7 @@ if query:
             "content": result["answer"],
             "sources": result.get("sources", []),
             "retrieval_source": result.get("retrieval_source", "none"),
+            "error": result.get("error", ""),
         }
         render_assistant_message(message, key_prefix=f"live-{len(st.session_state.messages)}")
 

@@ -34,7 +34,7 @@ SAFE_REFUSAL = "Tôi không thể xác minh thông tin này từ nguồn hiện 
 
 DEFAULT_LLM_MODELS = {
     "openai": "gpt-4o-mini",
-    "gemini": "gemini-3.6-flash",
+    "gemini": "gemini-3.5-flash",
     "anthropic": "claude-3-5-haiku-latest",
 }
 
@@ -119,12 +119,27 @@ def call_llm(system_prompt: str, user_message: str) -> str:
     raise ValueError(f"Unsupported LLM_PROVIDER: {provider}")
 
 
-def _safe_refusal() -> dict:
-    return {
+PROVIDER_ERROR_NOTE = (
+    "Không gọi được mô hình sinh câu trả lời (lỗi provider hoặc hết quota). "
+    "Đây KHÔNG phải do thiếu dữ liệu trong corpus."
+)
+
+
+def _safe_refusal(error: str = "") -> dict:
+    """Trả về refusal an toàn, kèm lý do thật để UI không báo nhầm.
+
+    Trước đây mọi lỗi đều thành cùng một thông báo "không tìm được nguồn", nên
+    lỗi quota 429 của provider bị hiểu nhầm thành "corpus không có dữ liệu" —
+    rất khó chẩn đoán vì cả hai trông giống hệt nhau trên giao diện.
+    """
+    result = {
         "answer": SAFE_REFUSAL,
         "sources": [],
         "retrieval_source": "none",
     }
+    if error:
+        result["error"] = error
+    return result
 
 
 def _retrieval_source(chunks: list[dict]) -> str:
@@ -134,8 +149,16 @@ def _retrieval_source(chunks: list[dict]) -> str:
     nhãn "dense"/"bm25" (ví dụ khi gọi với use_reranking=False): đó vẫn là có
     nguồn thật, nên quy về "hybrid" chứ không phải "none" — trả "none" sẽ làm
     generate_with_citation từ chối trả lời dù context hoàn toàn hợp lệ.
+
+    Ngoại lệ: chunk có cờ ``low_confidence`` (dense dưới ngưỡng và PageIndex
+    fallback không khả dụng) được quy về "none" để UI hiện cảnh báo thay vì
+    trình bày kết quả yếu như thể nó đáng tin.
     """
     if not chunks:
+        return "none"
+    # Task 9 gắn low_confidence khi dense score dưới SCORE_THRESHOLD mà PageIndex
+    # fallback không dùng được: coi như không có nguồn đủ tin cậy.
+    if any(chunk.get("low_confidence") for chunk in chunks):
         return "none"
     method = chunks[0].get("retrieval_method")
     if method == "pageindex":
@@ -149,8 +172,8 @@ def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
     """Trả về GenerationResult."""
     try:
         chunks = retrieve(query, top_k=top_k)
-    except Exception:  # noqa: BLE001 - pipeline lỗi thì UI vẫn trả refusal an toàn
-        return _safe_refusal()
+    except Exception as error:  # noqa: BLE001 - pipeline lỗi thì UI vẫn trả refusal an toàn
+        return _safe_refusal(f"Lỗi retrieval: {type(error).__name__}: {error}")
 
     retrieval_source = _retrieval_source(chunks)
     if retrieval_source == "none":
@@ -165,8 +188,15 @@ def generate_with_citation(query: str, top_k: int = TOP_K) -> dict:
     )
     try:
         answer = call_llm(SYSTEM_PROMPT, user_message)
-    except Exception:  # noqa: BLE001 - UI phải trả safe refusal khi provider lỗi
-        return _safe_refusal()
+    except Exception as error:  # noqa: BLE001 - UI phải trả safe refusal khi provider lỗi
+        detail = str(error)
+        if "RESOURCE_EXHAUSTED" in detail or "429" in detail:
+            detail = (
+                "Hết quota API (429 RESOURCE_EXHAUSTED). Free tier giới hạn theo "
+                "từng model/ngày — đổi LLM_MODEL trong .env sang model Gemini khác "
+                "hoặc chờ quota reset."
+            )
+        return _safe_refusal(f"{PROVIDER_ERROR_NOTE} Chi tiết: {detail}")
 
     if not answer.strip():
         return _safe_refusal()
