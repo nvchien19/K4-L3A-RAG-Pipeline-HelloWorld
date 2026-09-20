@@ -220,6 +220,31 @@ def embed_chunks(chunks: list[dict]) -> list[dict]:
     return chunks
 
 
+def _to_storable_metadata(metadata: dict) -> dict:
+    """Chuyển metadata sang dạng ChromaDB lưu được.
+
+    ChromaDB chỉ nhận str/int/float/bool: giá trị None bị loại bỏ âm thầm, làm
+    ``url`` biến mất khỏi metadata sau khi đọc lại và vi phạm contract
+    (``metadata.url`` phải là str hoặc None). Mã hoá None thành chuỗi rỗng để
+    ``_from_stored_metadata`` khôi phục đúng kiểu ban đầu.
+    """
+    storable = {}
+    for key, value in metadata.items():
+        storable[key] = "" if value is None else value
+    return storable
+
+
+def from_stored_metadata(metadata: dict) -> dict:
+    """Khôi phục metadata đọc từ ChromaDB về đúng contract.
+
+    Task 5 dùng hàm này để trả lại ``url=None`` thay vì chuỗi rỗng, và bù key
+    ``url`` cho dữ liệu đã index bằng phiên bản cũ.
+    """
+    restored = dict(metadata)
+    restored["url"] = restored.get("url") or None
+    return restored
+
+
 def index_to_vectorstore(chunks: list[dict]) -> None:
     """Upsert chunks vào ChromaDB."""
     collection = get_collection()
@@ -227,7 +252,7 @@ def index_to_vectorstore(chunks: list[dict]) -> None:
         ids=[chunk["id"] for chunk in chunks],
         documents=[chunk["content"] for chunk in chunks],
         embeddings=[chunk["embedding"] for chunk in chunks],
-        metadatas=[chunk["metadata"] for chunk in chunks],
+        metadatas=[_to_storable_metadata(chunk["metadata"]) for chunk in chunks],
     )
 
 
